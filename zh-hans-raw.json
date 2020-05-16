@@ -1,0 +1,30 @@
+﻿{
+    "lng_intro_about2": "欢迎使用非官方 Telegram 客户端。\n它快速且安全。",
+    "lng_profile_copy_id": "复制 ID",
+    "lng_profile_bot_id": "机器人 ID",
+    "lng_profile_user_id": "用户 ID",
+    "lng_profile_group_id": "群组 ID",
+    "lng_profile_supergroup_id": "超级群组 ID",
+    "lng_profile_channel_id": "频道 ID",
+
+    "lng_settings_enhanced": "增强设置",
+    "lng_settings_network": "网络",
+    "lng_settings_net_speed_boost": "上传 / 下载速度加成",
+
+    "lng_net_speed_boost_title": "上传 / 下载速度加成",
+    "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n需要重启应用使更改生效。",
+
+    "lng_net_speed_boost_default": "禁用",
+    "lng_net_speed_boost_slight": "小幅",
+    "lng_net_speed_boost_medium": "中幅",
+    "lng_net_speed_boost_big": "大幅",
+
+    "lng_net_boost_restart_desc": "你需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
+
+    "lng_chat_restriction_reason": "限制原因",
+    "lng_copy_restriction_reason": "复制限制原因",
+
+    "lng_context_copy_callback_data": "复制回调数据",
+    "lng_context_show_messages_from": "该用户发送的消息",
+    "lng_context_repeat_msg": "复读这条消息"
+}

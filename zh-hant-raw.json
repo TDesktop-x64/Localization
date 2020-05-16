@@ -1,0 +1,30 @@
+﻿{
+    "lng_intro_about2": "歡迎使用非官方Telegram Desktop。\n這是一個快速及安全的通訊應用。",
+    "lng_profile_copy_id": "複製ID",
+    "lng_profile_bot_id": "機械人ID",
+    "lng_profile_user_id": "使用者ID",
+    "lng_profile_group_id": "群組ID",
+    "lng_profile_supergroup_id": "超級群組ID",
+    "lng_profile_channel_id": "頻道ID",
+
+    "lng_settings_enhanced": "增強設定",
+    "lng_settings_network": "網絡",
+    "lng_settings_net_speed_boost": "下載/上載加速",
+
+    "lng_net_speed_boost_title": "網絡加速",
+    "lng_net_speed_boost_desc": "警告: 如果您的網絡較慢的話，更改此項設定只會令情況惡化。\n\n您需要重新啟動以儲存相關設定。",
+
+    "lng_net_speed_boost_default": "停用",
+    "lng_net_speed_boost_slight": "1x",
+    "lng_net_speed_boost_medium": "2x",
+    "lng_net_speed_boost_big": "3x",
+
+    "lng_net_boost_restart_desc": "您需要重新啟動以變更網絡加速設定。\n\n立即重新啟動?",
+
+    "lng_chat_restriction_reason": "限制原因",
+    "lng_copy_restriction_reason": "複製限制原因",
+
+    "lng_context_copy_callback_data": "複製Callback內容",
+    "lng_context_show_messages_from": "搜尋該使用者的訊息",
+    "lng_context_repeat_msg": "複讀這則訊息"
+}
