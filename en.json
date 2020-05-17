@@ -26,5 +26,6 @@
 
     "lng_context_copy_callback_data": "Copy Callback Data",
     "lng_context_show_messages_from": "Messages From User",
-    "lng_context_repeat_msg": "Repeat This Message"
+    "lng_context_repeat_msg": "Repeat This Message",
+    "lng_message_id": "Message ID: "
 }

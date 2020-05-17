@@ -26,5 +26,6 @@
 
     "lng_context_copy_callback_data": "复制回调数据",
     "lng_context_show_messages_from": "该用户发送的消息",
-    "lng_context_repeat_msg": "复读这条消息"
+    "lng_context_repeat_msg": "复读这条消息",
+    "lng_message_id": "消息ID: "
 }
