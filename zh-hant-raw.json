@@ -27,5 +27,6 @@
     "lng_context_copy_callback_data": "複製Callback內容",
     "lng_context_show_messages_from": "搜尋該使用者的訊息",
     "lng_context_repeat_msg": "複讀這則訊息",
+    "lng_context_repeat_msg_no_fwd": "複讀這則訊息(非轉發)",
     "lng_message_id": "訊息ID: "
 }
