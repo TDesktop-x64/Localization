@@ -28,5 +28,14 @@
     "lng_context_show_messages_from": "该用户发送的消息",
     "lng_context_repeat_msg": "复读这条消息",,
     "lng_context_repeat_msg_no_fwd": "复读这条消息(非转发)",
-    "lng_message_id": "消息ID: "
+    "lng_message_id": "消息ID: ",
+    
+    "lng_admin_log_banned_send_stickers2": "发送贴纸",
+    "lng_admin_log_banned_send_gifs": "发送 GIF",
+    "lng_admin_log_banned_send_games": "发送游戏",
+    "lng_admin_log_banned_use_inline": "使用行内机器人",
+    "lng_rights_chat_send_stickers2": "发送贴纸",
+    "lng_rights_chat_send_gifs": "发送 GIF",
+    "lng_rights_chat_send_games": "发送游戏",
+    "lng_rights_chat_use_inline": "使用行内机器人"
 }

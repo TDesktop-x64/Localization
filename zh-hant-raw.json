@@ -28,5 +28,14 @@
     "lng_context_show_messages_from": "搜尋該使用者的訊息",
     "lng_context_repeat_msg": "複讀這則訊息",
     "lng_context_repeat_msg_no_fwd": "複讀這則訊息(非轉發)",
-    "lng_message_id": "訊息ID: "
+    "lng_message_id": "訊息ID: ",
+    
+    "lng_admin_log_banned_send_stickers2": "傳送貼圖",
+    "lng_admin_log_banned_send_gifs": "傳送Gifs",
+    "lng_admin_log_banned_send_games": "傳送遊戲",
+    "lng_admin_log_banned_use_inline": "使用內嵌式機器人",
+    "lng_rights_chat_send_stickers2": "傳送貼圖",
+    "lng_rights_chat_send_gifs": "傳送Gifs",
+    "lng_rights_chat_send_games": "傳送遊戲",
+    "lng_rights_chat_use_inline": "使用內嵌式機器人"
 }

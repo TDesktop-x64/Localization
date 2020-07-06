@@ -28,5 +28,14 @@
     "lng_context_show_messages_from": "Messages From User",
     "lng_context_repeat_msg": "Repeat This Message",
     "lng_context_repeat_msg_no_fwd": "Repeat This Message(!Forward)",
-    "lng_message_id": "Message ID: "
+    "lng_message_id": "Message ID: ",
+    
+    "lng_admin_log_banned_send_stickers2": "Send stickers",
+    "lng_admin_log_banned_send_gifs": "Send GIFs",
+    "lng_admin_log_banned_send_games": "Send Games",
+    "lng_admin_log_banned_use_inline": "Use Inline Bots",
+    "lng_rights_chat_send_stickers2": "Send stickers",
+    "lng_rights_chat_send_gifs": "Send GIFs",
+    "lng_rights_chat_send_games": "Send Games",
+    "lng_rights_chat_use_inline": "Use Inline Bots"
 }
