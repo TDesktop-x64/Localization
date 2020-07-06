@@ -37,5 +37,13 @@
     "lng_rights_chat_send_stickers2": "发送贴纸",
     "lng_rights_chat_send_gifs": "发送 GIF",
     "lng_rights_chat_send_games": "发送游戏",
-    "lng_rights_chat_use_inline": "使用行内机器人"
+    "lng_rights_chat_use_inline": "使用行内机器人",
+    
+    "lng_media_selected_gif#one": "{count} 张Gif",
+    "lng_media_selected_gif#other": "{count} 张Gifs",
+    "lng_media_type_gifs": "Gifs",
+    "lng_profile_gifs#one": "{count} 张Gif",
+    "lng_profile_gifs#other": "{count} 张Gifs",
+    "lng_profile_gifs_header": "Gifs",
+    "lng_media_gif_empty": "暂无Gif"
 }

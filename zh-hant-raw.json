@@ -37,5 +37,13 @@
     "lng_rights_chat_send_stickers2": "傳送貼圖",
     "lng_rights_chat_send_gifs": "傳送Gifs",
     "lng_rights_chat_send_games": "傳送遊戲",
-    "lng_rights_chat_use_inline": "使用內嵌式機器人"
+    "lng_rights_chat_use_inline": "使用內嵌式機器人",
+    
+    "lng_media_selected_gif#one": "{count} 張Gif",
+    "lng_media_selected_gif#other": "{count} 張Gifs",
+    "lng_media_type_gifs": "Gifs",
+    "lng_profile_gifs#one": "{count} 張Gif",
+    "lng_profile_gifs#other": "{count} 張Gifs",
+    "lng_profile_gifs_header": "Gifs",
+    "lng_media_gif_empty": "這裡還沒有Gif"
 }

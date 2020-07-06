@@ -37,5 +37,13 @@
     "lng_rights_chat_send_stickers2": "Send stickers",
     "lng_rights_chat_send_gifs": "Send GIFs",
     "lng_rights_chat_send_games": "Send Games",
-    "lng_rights_chat_use_inline": "Use Inline Bots"
+    "lng_rights_chat_use_inline": "Use Inline Bots",
+    
+    "lng_media_selected_gif#one": "{count} Gif",
+    "lng_media_selected_gif#other": "{count} Gifs",
+    "lng_media_type_gifs": "Gifs",
+    "lng_profile_gifs#one": "{count} gif",
+    "lng_profile_gifs#other": "{count} gifs",
+    "lng_profile_gifs_header": "Gifs",
+    "lng_media_gif_empty": "No gifs here yet"
 }
