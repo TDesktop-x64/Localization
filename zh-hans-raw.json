@@ -27,9 +27,9 @@
     "lng_context_copy_callback_data": "复制回调数据",
     "lng_context_show_messages_from": "该用户发送的消息",
     "lng_context_repeat_msg": "复读这条消息",
-    "lng_context_repeat_msg_no_fwd": "复读这条消息(非转发)",
-    "lng_context_forward_msg_no_quote": "Forward Message(W/O quote)",
-    "lng_context_forward_selected_no_quote": "Forward Selected(W/O quote)",
+    "lng_context_repeat_msg_no_fwd": "复读（不带引用）",
+    "lng_context_forward_msg_no_quote": "转发（不带引用）",
+    "lng_context_forward_selected_no_quote": "转发所选消息（不带引用）",
     "lng_message_id": "消息ID: ",
     
     "lng_admin_log_banned_send_stickers2": "发送贴纸",
@@ -41,11 +41,11 @@
     "lng_rights_chat_send_games": "发送游戏",
     "lng_rights_chat_use_inline": "使用行内机器人",
     
-    "lng_media_selected_gif#one": "{count} 张Gif",
-    "lng_media_selected_gif#other": "{count} 张Gifs",
-    "lng_media_type_gifs": "Gifs",
-    "lng_profile_gifs#one": "{count} 张Gif",
-    "lng_profile_gifs#other": "{count} 张Gifs",
-    "lng_profile_gifs_header": "Gifs",
-    "lng_media_gif_empty": "暂无Gif"
+    "lng_media_selected_gif#one": "{count} 张 GIF",
+    "lng_media_selected_gif#other": "{count} 张 GIF",
+    "lng_media_type_gifs": "GIF",
+    "lng_profile_gifs#one": "{count} 张 GIF",
+    "lng_profile_gifs#other": "{count} 张 GIF",
+    "lng_profile_gifs_header": "GIF",
+    "lng_media_gif_empty": "暂无 GIF"
 }
