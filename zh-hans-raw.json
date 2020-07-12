@@ -30,6 +30,8 @@
     "lng_context_repeat_msg_no_fwd": "复读（不带引用）",
     "lng_context_forward_msg_no_quote": "转发（不带引用）",
     "lng_context_forward_selected_no_quote": "转发所选消息（不带引用）",
+    "lng_selected_forward_no_quote": "Forward(w/o quote)",
+    "lng_forward_to_saved_message": "Forward to Saved Messages",
     "lng_message_id": "消息ID: ",
     
     "lng_admin_log_banned_send_stickers2": "发送贴纸",
@@ -47,5 +49,7 @@
     "lng_profile_gifs#one": "{count} 张 GIF",
     "lng_profile_gifs#other": "{count} 张 GIF",
     "lng_profile_gifs_header": "GIF",
-    "lng_media_gif_empty": "暂无 GIF"
+    "lng_media_gif_empty": "暂无Gif",
+    
+    "lng_create_supergroup_title": "New Supergroup"
 }

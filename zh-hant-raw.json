@@ -30,6 +30,8 @@
     "lng_context_repeat_msg_no_fwd": "複讀這則訊息(非轉發)",
     "lng_context_forward_msg_no_quote": "轉發訊息(不引用)",
     "lng_context_forward_selected_no_quote": "轉發已選訊息(不引用)",
+    "lng_selected_forward_no_quote": "Forward(w/o quote)",
+    "lng_forward_to_saved_message": "Forward to Saved Messages",
     "lng_message_id": "訊息ID: ",
     
     "lng_admin_log_banned_send_stickers2": "傳送貼圖",
@@ -47,5 +49,7 @@
     "lng_profile_gifs#one": "{count} 張Gif",
     "lng_profile_gifs#other": "{count} 張Gifs",
     "lng_profile_gifs_header": "Gifs",
-    "lng_media_gif_empty": "這裡還沒有Gif"
+    "lng_media_gif_empty": "這裡還沒有Gif",
+    
+    "lng_create_supergroup_title": "New Supergroup"
 }

@@ -30,6 +30,8 @@
     "lng_context_repeat_msg_no_fwd": "Repeat This Message(!Forward)",
     "lng_context_forward_msg_no_quote": "Forward Message(W/O quote)",
     "lng_context_forward_selected_no_quote": "Forward Selected(W/O quote)",
+    "lng_selected_forward_no_quote": "Forward(w/o quote)",
+    "lng_forward_to_saved_message": "Forward to Saved Messages",
     "lng_message_id": "Message ID: ",
     
     "lng_admin_log_banned_send_stickers2": "Send stickers",
@@ -47,5 +49,7 @@
     "lng_profile_gifs#one": "{count} gif",
     "lng_profile_gifs#other": "{count} gifs",
     "lng_profile_gifs_header": "Gifs",
-    "lng_media_gif_empty": "No gifs here yet"
+    "lng_media_gif_empty": "No gifs here yet",
+    
+    "lng_create_supergroup_title": "New Supergroup"
 }
