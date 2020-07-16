@@ -52,4 +52,8 @@
     "lng_media_gif_empty": "暂无 GIF",
     
     "lng_create_supergroup_title": "新建超级群组"
+    "lng_action_group_migrate": "此群组已升级为超级群组",
+    "lng_sure_upgrade_group": "你确定你想把此群组升级为超级群组吗？",
+    "lng_chat_upgrade_warning": "注意：这个操作是不可撤销的"
+
 }
