@@ -10,6 +10,7 @@
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
     "lng_settings_net_speed_boost": "上传 / 下载速度加成",
+    "lng_settings_show_message_id": "Show Messages ID",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n需要重启应用使更改生效。",
@@ -20,6 +21,7 @@
     "lng_net_speed_boost_big": "大幅",
 
     "lng_net_boost_restart_desc": "你需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
+    "lng_show_messages_id_desc": "Warning: the changes will take effect immediately with restart.",
 
     "lng_chat_restriction_reason": "限制原因",
     "lng_copy_restriction_reason": "复制限制原因",

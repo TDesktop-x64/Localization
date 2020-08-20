@@ -10,6 +10,7 @@
     "lng_settings_enhanced": "增強設定",
     "lng_settings_network": "網絡",
     "lng_settings_net_speed_boost": "下載/上載加速",
+    "lng_settings_show_message_id": "Show Messages ID",
 
     "lng_net_speed_boost_title": "網絡加速",
     "lng_net_speed_boost_desc": "警告: 如果您的網絡較慢的話，更改此項設定只會令情況惡化。\n\n您需要重新啟動以儲存相關設定。",
@@ -20,6 +21,7 @@
     "lng_net_speed_boost_big": "3x",
 
     "lng_net_boost_restart_desc": "您需要重新啟動以變更網絡加速設定。\n\n立即重新啟動?",
+    "lng_show_messages_id_desc": "Warning: the changes will take effect immediately with restart.",
 
     "lng_chat_restriction_reason": "限制原因",
     "lng_copy_restriction_reason": "複製限制原因",
