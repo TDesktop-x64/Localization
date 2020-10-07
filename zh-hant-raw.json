@@ -11,9 +11,12 @@
     "lng_settings_network": "網絡",
     "lng_settings_net_speed_boost": "下載/上載加速",
     "lng_settings_show_message_id": "Show Messages ID",
+    "lng_settings_button": "Button",
+    "lng_settings_show_emoji_button_as_text": "Show Emoji Button As Text",
 
     "lng_net_speed_boost_title": "網絡加速",
     "lng_net_speed_boost_desc": "警告: 如果您的網絡較慢的話，更改此項設定只會令情況惡化。\n\n您需要重新啟動以儲存相關設定。",
+    "lng_show_emoji_button_as_text_desc": "Note: If you can't see a emoji button, please turn on this option.\nThe changes will take effect immediately with restart.",
 
     "lng_net_speed_boost_default": "停用",
     "lng_net_speed_boost_slight": "1x",

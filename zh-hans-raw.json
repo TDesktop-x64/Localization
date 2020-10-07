@@ -11,9 +11,12 @@
     "lng_settings_network": "网络",
     "lng_settings_net_speed_boost": "上传 / 下载速度加成",
     "lng_settings_show_message_id": "Show Messages ID",
+    "lng_settings_button": "Button",
+    "lng_settings_show_emoji_button_as_text": "Show Emoji Button As Text",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n需要重启应用使更改生效。",
+    "lng_show_emoji_button_as_text_desc": "Note: If you can't see a emoji button, please turn on this option.\nThe changes will take effect immediately with restart.",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "小幅",
