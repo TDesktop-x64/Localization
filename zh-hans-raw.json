@@ -10,13 +10,13 @@
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
     "lng_settings_net_speed_boost": "上传 / 下载速度加成",
-    "lng_settings_show_message_id": "Show Messages ID",
-    "lng_settings_button": "Button",
-    "lng_settings_show_emoji_button_as_text": "Show Emoji Button As Text",
+    "lng_settings_show_message_id": "显示消息 ID",
+    "lng_settings_button": "按钮",
+    "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n需要重启应用使更改生效。",
-    "lng_show_emoji_button_as_text_desc": "Note: If you can't see a emoji button, please turn on this option.\nThe changes will take effect immediately with restart.",
+    "lng_show_emoji_button_as_text_desc": "提示：如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。\n变更该选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "小幅",
@@ -24,7 +24,7 @@
     "lng_net_speed_boost_big": "大幅",
 
     "lng_net_boost_restart_desc": "你需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
-    "lng_show_messages_id_desc": "Warning: the changes will take effect immediately with restart.",
+    "lng_show_messages_id_desc": "警告：变更该选项将使应用立即重启并生效。",
 
     "lng_chat_restriction_reason": "限制原因",
     "lng_copy_restriction_reason": "复制限制原因",
@@ -63,6 +63,6 @@
     "lng_create_supergroup_title": "新建超级群组",
     "lng_action_group_migrate": "此群组已升级为超级群组",
     "lng_sure_upgrade_group": "你确定你想把此群组升级为超级群组吗？",
-    "lng_chat_upgrade_warning": "注意：这个操作是不可撤销的"
+    "lng_chat_upgrade_warning": "注意：这个操作是不可逆的"
 
 }
