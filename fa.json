@@ -1,0 +1,67 @@
+{
+    "lng_intro_about2": "به برنامه غیر رسمی تلگرام دسکتاپ خوش آمدید.\nاین برنامه سریع و امن است.",
+    "lng_profile_copy_id": "کپی آی‌دی",
+    "lng_profile_bot_id": "آی‌دی ربات",
+    "lng_profile_user_id": "آی‌دی کاربر",
+    "lng_profile_group_id": "آی‌دی گروه",
+    "lng_profile_supergroup_id": "آی‌دی ابرگروه",
+    "lng_profile_channel_id": "آی‌دی کانال",
+
+    "lng_settings_enhanced": "تنظیمات افزوده شده",
+    "lng_settings_network": "شبکه",
+    "lng_settings_net_speed_boost": "افزایش سرعت دانلود/آپلود",
+    "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها",
+    "lng_settings_button": "دکمه",
+    "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک",
+
+    "lng_net_speed_boost_title": "افزایش سرعت شبکه",
+    "lng_net_speed_boost_desc": "هشدار: تغییر این پارامتر به مقادیر بالا در شبکه های کند می تواند حتی بدتر شود. با مسئولیت شخصی خود استفاده کنید.\n\nبرای ذخیره تغییرات، باید برنامه را مجدداً راه اندازی کنید.",
+    "lng_show_emoji_button_as_text_desc": "توجه: اگر دکمه شکلک را نمی بینید ، لطفاً این گزینه را روشن کنید. \n با شروع مجدد تغییرات بلافاصله اعمال می شوند.",
+
+    "lng_net_speed_boost_default": "غیرفعال",
+    "lng_net_speed_boost_slight": "خفیف",
+    "lng_net_speed_boost_medium": "متوسط",
+    "lng_net_speed_boost_big": "زیاد",
+
+    "lng_net_boost_restart_desc": "برای تغییر تقویت شبکه باید برنامه را دوباره راه اندازی کنید.\n\nمجدداً راه‌اندازی شود؟",
+    "lng_show_messages_id_desc": "هشدار: تغییرات بلافاصله با شروع مجدد اعمال می شوند.",
+
+    "lng_chat_restriction_reason": "دلیل محدودیت",
+    "lng_copy_restriction_reason": "کپی دلیل محدودیت",
+
+    "lng_context_copy_callback_data": "کپی callback_data",
+    "lng_context_show_messages_from": "پیام‌های کاربر",
+    "lng_context_repeat_msg": "تکرار این پیام",
+    "lng_context_repeat_msg_no_fwd": "تکرار این پیام(بدون هدایت)",
+    "lng_context_forward_msg_no_quote": "هدایت پیام(بدون نقل‌قول)",
+    "lng_context_forward_selected_no_quote": "هدایت انتخاب شده(بدون نقل‌قول)",
+    "lng_selected_forward_no_quote": "هدایت(بدون نقل‌قول)",
+    "lng_forward_to_saved_message": "هدایت به پیام‌های ذخیره‌شده",
+    "lng_context_forward_msg_old": "هدایت پیام(کلاسیک)",
+    "lng_context_forward_msg_old_selected": "هدایت انتخاب شده(کلاسیک)",
+    "lng_selected_forward_emoji_classic": "📠(کلاسیک)",
+    
+    "lng_message_id": "آی‌دی پیام: ",
+    
+    "lng_admin_log_banned_send_stickers2": "ارسال استیکر‌ها",
+    "lng_admin_log_banned_send_gifs": "ارسال گیف‌ها",
+    "lng_admin_log_banned_send_games": "ارسال بازی‌ها",
+    "lng_admin_log_banned_use_inline": "استفاده از ربات‌های درون‌خطی",
+    "lng_rights_chat_send_stickers2": "ارسال استیکرها",
+    "lng_rights_chat_send_gifs": "ارسال گیف‌ها",
+    "lng_rights_chat_send_games": "ارسال بازی‌ها",
+    "lng_rights_chat_use_inline": "استفاده از ربات‌های درون‌خطی",
+    
+    "lng_media_selected_gif#one": "{count} گیف",
+    "lng_media_selected_gif#other": "{count} گیف",
+    "lng_media_type_gifs": "گیف‌ها",
+    "lng_profile_gifs#one": "{count} گیف",
+    "lng_profile_gifs#other": "{count} گیف",
+    "lng_profile_gifs_header": "گیف‌ها",
+    "lng_media_gif_empty": "هنوز گیفی موجود نیست",
+    
+    "lng_create_supergroup_title": "ابرگروه جدید",
+    "lng_action_group_migrate": "گروه به ابرگروه ارتقا یافت",
+    "lng_sure_upgrade_group": "آیا مطمئن هستید که می خواهید این گروه را به ابر گروه ارتقا دهید؟",
+    "lng_chat_upgrade_warning": "توجه: این عملکرد قابل بازگشت نیست"
+}
