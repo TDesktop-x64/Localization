@@ -63,5 +63,7 @@
     "lng_create_supergroup_title": "ابرگروه جدید",
     "lng_action_group_migrate": "گروه به ابرگروه ارتقا یافت",
     "lng_sure_upgrade_group": "آیا مطمئن هستید که می خواهید این گروه را به ابر گروه ارتقا دهید؟",
-    "lng_chat_upgrade_warning": "توجه: این عملکرد قابل بازگشت نیست"
+    "lng_chat_upgrade_warning": "توجه: این عملکرد قابل بازگشت نیست",
+
+    "lng_user_not_found": "404 User not found.\nNote: You must have \"seen\" that user before open this link."
 }
