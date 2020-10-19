@@ -11,10 +11,14 @@
     "lng_settings_network": "Мережа",
     "lng_settings_net_speed_boost": "Прискорення завантаження",
     "lng_settings_show_message_id": "Відображати ID",
+    "lng_settings_button": "Кнопки",
+    "lng_settings_show_emoji_button_as_text": "Текст замість емодзі",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметра при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій страх і ризик. \n\nДля збереження змін потрібен перезапуск додатку.",
 
+    "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію. \nЗміни вступлять в силу після перезапуску.",
+	
 	"lng_net_speed_boost_default": "Відключено",
 	"lng_net_speed_boost_slight": "Трішки",
 	"lng_net_speed_boost_medium": "Середнє",
@@ -51,9 +55,13 @@
 	"lng_rights_chat_use_inline": "Використовувати інлайн-ботів",
     
     "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#few": "{count} GIF",
+    "lng_media_selected_gif#many": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#few": "{count} GIF",
+    "lng_profile_gifs#many": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
 	"lng_media_gif_empty": "Тут немає жодного GIF",
@@ -62,4 +70,6 @@
     "lng_action_group_migrate": "Група була перетворена в супергрупу",
     "lng_sure_upgrade_group": "Ви впевнені, що хочете перетворити цю групу в супергрупу?",
     "lng_chat_upgrade_warning": "Увага: Цю дію неможливо скасувати."
+	
+    "lng_user_not_found": "Користувача не знайдено. \nПримітка: вам потрібно відкрити профіль цього користувача, перш ніж робити посилання на нього."
 }
