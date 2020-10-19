@@ -65,5 +65,5 @@
     "lng_sure_upgrade_group": "你确定你想把此群组升级为超级群组吗？",
     "lng_chat_upgrade_warning": "注意：这个操作是不可逆的",
 
-    "lng_user_not_found": "404 User not found.\nNote: You must have \"seen\" that user before open this link."
+    "lng_user_not_found": "404 未找到用户。\n注意：你必须在打开此链接之前「见过」那名用户。"
 }
