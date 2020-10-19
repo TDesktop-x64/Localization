@@ -11,9 +11,12 @@
     "lng_settings_network": "Сеть",
     "lng_settings_net_speed_boost": "Увеличение скорости загрузки",
     "lng_settings_show_message_id": "Показывать ID сообщений",
+    "lng_settings_button": "Кнопки",
+    "lng_settings_show_emoji_button_as_text": "Текст вместо эмодзи",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.\n\nДля сохранения изменений требуется перезапуск.",
+    "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите эмодзи на кнопках, включите эту опцию. \nИзменения вступят в силу после перезапуска.",
 
     "lng_net_speed_boost_default": "Отключено",
     "lng_net_speed_boost_slight": "Небольшое",
@@ -50,9 +53,13 @@
     "lng_rights_chat_use_inline": "Использование инлайн-ботов",
     
     "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#few": "{count} GIF",
+    "lng_media_selected_gif#many": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#few": "{count} GIF",
+    "lng_profile_gifs#many": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Здесь ещё нет GIF",
@@ -60,5 +67,7 @@
     "lng_create_supergroup_title": "Создать супергруппу",
     "lng_action_group_migrate": "Группа была преобразована в супергруппу",
     "lng_sure_upgrade_group": "Вы уверены, что хотите преобразовать эту группу в супергруппу?",
-    "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить."
+    "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
+
+    "lng_user_not_found": "404 пользователь не найден. \nПримечание: вам нужно открыть профиль этого пользователя, прежде чем делать ссылку на него."
 }
