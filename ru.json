@@ -1,0 +1,69 @@
+{
+    "lng_intro_about2": "Добро пожаловать в неофициальное приложение Telegram Desktop.",
+    "lng_profile_copy_id": "Копировать ID",
+    "lng_profile_bot_id": "ID бота",
+    "lng_profile_user_id": "ID пользователя",
+    "lng_profile_group_id": "ID группы",
+    "lng_profile_supergroup_id": "ID супергруппы",
+    "lng_profile_channel_id": "ID канала",
+
+    "lng_settings_enhanced": "Дополнительные",
+    "lng_settings_network": "Сеть",
+    "lng_settings_net_speed_boost": "Увеличение скорости загрузки",
+    "lng_settings_show_message_id": "Показывать ID сообщений",
+    "lng_settings_button": "Кнопки",
+    "lng_settings_show_emoji_button_as_text": "Текст вместо эмодзи",
+
+    "lng_net_speed_boost_title": "Повышение скорости сети",
+    "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.\n\nДля сохранения изменений требуется перезапуск.",
+    "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите эмодзи на кнопках, включите эту опцию. \nИзменения вступят в силу после перезапуска.",
+
+    "lng_net_speed_boost_default": "Отключено",
+    "lng_net_speed_boost_slight": "Небольшое",
+    "lng_net_speed_boost_medium": "Среднее",
+    "lng_net_speed_boost_big": "Высокое",
+
+    "lng_net_boost_restart_desc": "Для применений параметров требуется перезапуск.\n\nПерезапустить сейчас?",
+    "lng_show_messages_id_desc": "Внимание: изменения вступят в силу после перезапуска.",
+
+    "lng_chat_restriction_reason": "Причина ограничения",
+    "lng_copy_restriction_reason": "Причина ограничения копирования",
+
+    "lng_context_copy_callback_data": "Копировать данные обратного вызова",
+    "lng_context_show_messages_from": "Сообщения пользователя",
+    "lng_context_repeat_msg": "Повторить это сообщение",
+    "lng_context_repeat_msg_no_fwd": "Повторить без автора",
+    "lng_context_forward_msg_no_quote": "Переслать без автора",
+    "lng_context_forward_selected_no_quote": "Переслать выделенное без автора",
+    "lng_selected_forward_no_quote": "Переслать без автора",
+    "lng_forward_to_saved_message": "Переслать в Избранное",
+    "lng_context_forward_msg_old": "Переслать сообщение(Classic)",
+    "lng_context_forward_msg_old_selected": "Переслать выделенное(Classic)",
+    "lng_selected_forward_emoji_classic": "📠(Classic)",
+    
+    "lng_message_id": "ID сообщения: ",
+    
+    "lng_admin_log_banned_send_stickers2": "Отправка стикеров",
+    "lng_admin_log_banned_send_gifs": "Отправка GIF",
+    "lng_admin_log_banned_send_games": "Отправка игр",
+    "lng_admin_log_banned_use_inline": "Использование инлайн-ботов",
+    "lng_rights_chat_send_stickers2": "Отправка стикеров",
+    "lng_rights_chat_send_gifs": "Отправка GIF",
+    "lng_rights_chat_send_games": "Отправка игр",
+    "lng_rights_chat_use_inline": "Использование инлайн-ботов",
+    
+    "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#other": "{count} GIF",
+    "lng_media_type_gifs": "GIF",
+    "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#other": "{count} GIF",
+    "lng_profile_gifs_header": "GIF",
+    "lng_media_gif_empty": "Здесь ещё нет GIF",
+    
+    "lng_create_supergroup_title": "Создать супергруппу",
+    "lng_action_group_migrate": "Группа была преобразована в супергруппу",
+    "lng_sure_upgrade_group": "Вы уверены, что хотите преобразовать эту группу в супергруппу?",
+    "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
+
+    "lng_user_not_found": "Пользователь не найден. \nПримечание: вам нужно открыть профиль этого пользователя, прежде чем делать ссылку на него."
+}
