@@ -56,13 +56,9 @@
     
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#few": "{count} GIF",
-    "lng_media_selected_gif#many": "{count} GIF",
-    "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#few": "{count} GIF",
-    "lng_profile_gifs#many": "{count} GIF",
-    "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
 	"lng_media_gif_empty": "Тут немає жодного GIF",
     
