@@ -13,7 +13,7 @@
     "lng_settings_show_message_id": "显示消息 ID",
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
-    "lng_settings_show_repeater_option": "Show Repeater Option",
+    "lng_settings_show_repeater_option": "显示「复读」选项",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n需要重启应用使更改生效。",
