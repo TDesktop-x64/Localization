@@ -13,6 +13,7 @@
     "lng_settings_show_message_id": "Показывать ID сообщений",
     "lng_settings_button": "Кнопки",
     "lng_settings_show_emoji_button_as_text": "Текст вместо эмодзи",
+    "lng_settings_show_repeater_option": "Show Repeater Option",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.\n\nДля сохранения изменений требуется перезапуск.",

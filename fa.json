@@ -13,6 +13,7 @@
     "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها",
     "lng_settings_button": "دکمه",
     "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک",
+    "lng_settings_show_repeater_option": "Show Repeater Option",
 
     "lng_net_speed_boost_title": "افزایش سرعت شبکه",
     "lng_net_speed_boost_desc": "هشدار: تغییر این پارامتر به مقادیر بالا در شبکه های کند می تواند حتی بدتر شود. با مسئولیت شخصی خود استفاده کنید.\n\nبرای ذخیره تغییرات، باید برنامه را مجدداً راه اندازی کنید.",

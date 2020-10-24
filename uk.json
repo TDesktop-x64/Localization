@@ -13,6 +13,7 @@
     "lng_settings_show_message_id": "Відображати ID",
     "lng_settings_button": "Кнопки",
     "lng_settings_show_emoji_button_as_text": "Текст замість емодзі",
+    "lng_settings_show_repeater_option": "Show Repeater Option",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметра при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій страх і ризик. \n\nДля збереження змін потрібен перезапуск додатку.",
