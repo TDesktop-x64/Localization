@@ -9,15 +9,16 @@
 
     "lng_settings_enhanced": "Дополнительные",
     "lng_settings_network": "Сеть",
-    "lng_settings_net_speed_boost": "Увеличение скорости загрузки",
-    "lng_settings_show_message_id": "Показывать ID сообщений",
+    "lng_settings_net_speed_boost": "Увеличение скорости загрузки[*]",
+    "lng_settings_show_message_id": "Показывать ID сообщений[*]",
     "lng_settings_button": "Кнопки",
-    "lng_settings_show_emoji_button_as_text": "Текст вместо эмодзи",
+    "lng_settings_show_emoji_button_as_text": "Текст вместо эмодзи[*]",
     "lng_settings_show_repeater_option": "Show Repeater Option",
+    "lng_settings_restart_hint": "WARNING: Changing options marked with \"*\" will take effect immediately with restart.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
-    "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.\n\nДля сохранения изменений требуется перезапуск.",
-    "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите эмодзи на кнопках, включите эту опцию. \nИзменения вступят в силу после перезапуска.",
+    "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",
+    "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите эмодзи на кнопках, включите эту опцию.",
 
     "lng_net_speed_boost_default": "Отключено",
     "lng_net_speed_boost_slight": "Небольшое",

@@ -9,15 +9,16 @@
 
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
-    "lng_settings_net_speed_boost": "上传 / 下载速度加成",
-    "lng_settings_show_message_id": "显示消息 ID",
+    "lng_settings_net_speed_boost": "上传 / 下载速度加成[*]",
+    "lng_settings_show_message_id": "显示消息 ID[*]",
     "lng_settings_button": "按钮",
-    "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
+    "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮[*]",
     "lng_settings_show_repeater_option": "显示「复读」选项",
+    "lng_settings_restart_hint": "WARNING: Changing options marked with \"*\" will take effect immediately with restart.",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
-    "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n需要重启应用使更改生效。",
-    "lng_show_emoji_button_as_text_desc": "提示：如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。\n变更该选项将使应用立即重启并生效。",
+    "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n",
+    "lng_show_emoji_button_as_text_desc": "提示：如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。\n",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "小幅",

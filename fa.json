@@ -9,15 +9,16 @@
 
     "lng_settings_enhanced": "تنظیمات افزوده شده",
     "lng_settings_network": "شبکه",
-    "lng_settings_net_speed_boost": "افزایش سرعت دانلود/آپلود",
-    "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها",
+    "lng_settings_net_speed_boost": "افزایش سرعت دانلود/آپلود[*]",
+    "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها[*]",
     "lng_settings_button": "دکمه",
-    "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک",
+    "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک[*]",
     "lng_settings_show_repeater_option": "Show Repeater Option",
+    "lng_settings_restart_hint": "WARNING: Changing options marked with \"*\" will take effect immediately with restart.",
 
     "lng_net_speed_boost_title": "افزایش سرعت شبکه",
-    "lng_net_speed_boost_desc": "هشدار: تغییر این پارامتر به مقادیر بالا در شبکه های کند می تواند حتی بدتر شود. با مسئولیت شخصی خود استفاده کنید.\n\nبرای ذخیره تغییرات، باید برنامه را مجدداً راه اندازی کنید.",
-    "lng_show_emoji_button_as_text_desc": "توجه: اگر دکمه شکلک را نمی بینید ، لطفاً این گزینه را روشن کنید. \n با شروع مجدد تغییرات بلافاصله اعمال می شوند.",
+    "lng_net_speed_boost_desc": "هشدار: تغییر این پارامتر به مقادیر بالا در شبکه های کند می تواند حتی بدتر شود. با مسئولیت شخصی خود استفاده کنید.",
+    "lng_show_emoji_button_as_text_desc": "توجه: اگر دکمه شکلک را نمی بینید ، لطفاً این گزینه را روشن کنید.",
 
     "lng_net_speed_boost_default": "غیرفعال",
     "lng_net_speed_boost_slight": "خفیف",

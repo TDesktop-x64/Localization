@@ -9,15 +9,16 @@
 
     "lng_settings_enhanced": "增強設定",
     "lng_settings_network": "網絡",
-    "lng_settings_net_speed_boost": "下載/上載加速",
-    "lng_settings_show_message_id": "顯示訊息ID",
+    "lng_settings_net_speed_boost": "下載/上載加速[*]",
+    "lng_settings_show_message_id": "顯示訊息ID[*]",
     "lng_settings_button": "按鈕",
-    "lng_settings_show_emoji_button_as_text": "Emoji按鈕轉為文字",
+    "lng_settings_show_emoji_button_as_text": "Emoji按鈕轉為文字[*]",
     "lng_settings_show_repeater_option": "Show Repeater Option",
+    "lng_settings_restart_hint": "WARNING: Changing options marked with \"*\" will take effect immediately with restart.",
 
     "lng_net_speed_boost_title": "網絡加速",
-    "lng_net_speed_boost_desc": "警告: 如果您的網絡較慢的話，更改此項設定只會令情況惡化。\n\n您需要重新啟動以儲存相關設定。",
-    "lng_show_emoji_button_as_text_desc": "提示: 如果你的TDesktop不能正確顯示Emoji按鈕，請開啟這個選項。\n變更該選項會立即重新啟動並使用相關設定。",
+    "lng_net_speed_boost_desc": "警告: 如果您的網絡較慢的話，更改此項設定只會令情況惡化。\n\n",
+    "lng_show_emoji_button_as_text_desc": "提示: 如果你的TDesktop不能正確顯示Emoji按鈕，請開啟這個選項。\n",
 
     "lng_net_speed_boost_default": "停用",
     "lng_net_speed_boost_slight": "1x",
