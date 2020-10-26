@@ -12,9 +12,9 @@
     "lng_settings_net_speed_boost": "Увеличение скорости загрузки",
     "lng_settings_show_message_id": "Показывать ID сообщений",
     "lng_settings_button": "Кнопки",
-    "lng_settings_show_emoji_button_as_text": "Текст вместо эмодзи",
-    "lng_settings_show_repeater_option": "Show Repeater Option",
-    "lng_settings_restart_hint": "WARNING: Changing options with colored will take effect immediately with restart.",
+    "lng_settings_show_emoji_button_as_text": "Буквы вместо эмодзи",
+    "lng_settings_show_repeater_option": "«Повторить» в контекстном меню",
+    "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",
@@ -33,14 +33,14 @@
 
     "lng_context_copy_callback_data": "Копировать данные обратного вызова",
     "lng_context_show_messages_from": "Сообщения пользователя",
-    "lng_context_repeat_msg": "Повторить это сообщение",
-    "lng_context_repeat_msg_no_fwd": "Повторить без автора",
+    "lng_context_repeat_msg": "Повторить",
+    "lng_context_repeat_msg_no_fwd": "Повторить ответом",
     "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_context_forward_selected_no_quote": "Переслать выделенное без автора",
     "lng_selected_forward_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message": "Переслать в Избранное",
-    "lng_context_forward_msg_old": "Переслать сообщение(Classic)",
-    "lng_context_forward_msg_old_selected": "Переслать выделенное(Classic)",
+    "lng_context_forward_msg_old": "Переслать (Classic)",
+    "lng_context_forward_msg_old_selected": "Переслать выделенное (Classic)",
     "lng_selected_forward_emoji_classic": "📠(Classic)",
 
     "lng_message_id": "ID сообщения: ",
@@ -67,11 +67,10 @@
     "lng_sure_upgrade_group": "Вы уверены, что хотите преобразовать эту группу в супергруппу?",
     "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
 
-    "lng_user_not_found": "Пользователь не найден. \nПримечание: вам нужно открыть профиль этого пользователя, прежде чем делать ссылку на него.",
-
-    "lng_settings_always_delete_for": "Auto check delete message for",
-    "lng_settings_delete_disabled": "Disabled",
-    "lng_settings_delete_for_group": "Group",
-    "lng_settings_delete_for_person": "Person",
-    "lng_settings_delete_for_both": "Why not both?"
+    "lng_user_not_found": "Пользователь не найден. \nПримечание: прежде чем делать ссылку на пользователя, вам нужно открыть его профиль через этот клиент.",
+    "lng_settings_always_delete_for": "Отмечать «удалить у собеседников»",
+    "lng_settings_delete_disabled": "Никогда",
+    "lng_settings_delete_for_group": "В группах",
+    "lng_settings_delete_for_person": "В личных чатах",
+    "lng_settings_delete_for_both": "Всегда"
 }
