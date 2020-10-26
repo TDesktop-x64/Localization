@@ -9,12 +9,12 @@
 
     "lng_settings_enhanced": "Додаткові",
     "lng_settings_network": "Мережа",
-    "lng_settings_net_speed_boost": "Прискорення завантаження[*]",
-    "lng_settings_show_message_id": "Відображати ID[*]",
+    "lng_settings_net_speed_boost": "Прискорення завантаження",
+    "lng_settings_show_message_id": "Відображати ID",
     "lng_settings_button": "Кнопки",
-    "lng_settings_show_emoji_button_as_text": "Текст замість емодз[*]",
+    "lng_settings_show_emoji_button_as_text": "Текст замість емодз",
     "lng_settings_show_repeater_option": "Show Repeater Option",
-    "lng_settings_restart_hint": "WARNING: Changing options marked with \"*\" will take effect immediately with restart.",
+    "lng_settings_restart_hint": "WARNING: Changing options with colored will take effect immediately with restart.",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметра при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій страх і ризик.",
@@ -42,9 +42,9 @@
     "lng_context_forward_msg_old": "Переслати повідомлення(Classic)",
     "lng_context_forward_msg_old_selected": "Переслати виділене(Classic)",
     "lng_selected_forward_emoji_classic": "📠(Classic)",
-    
+
     "lng_message_id": "ID повідомлення: ",
-	
+
     "lng_admin_log_banned_send_stickers2": "Надсилати наліпки",
     "lng_admin_log_banned_send_gifs": "Надсилати GIF",
     "lng_admin_log_banned_send_games": "Надсилати ігри",
@@ -53,7 +53,7 @@
     "lng_rights_chat_send_gifs": "Надсилати GIF",
     "lng_rights_chat_send_games": "Надсилати ігри",
     "lng_rights_chat_use_inline": "Використовувати інлайн-ботів",
-    
+
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
@@ -61,11 +61,17 @@
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Тут немає жодного GIF",
-    
+
     "lng_create_supergroup_title": "Створити супергрупу",
     "lng_action_group_migrate": "Група була перетворена в супергрупу",
     "lng_sure_upgrade_group": "Ви впевнені, що хочете перетворити цю групу в супергрупу?",
     "lng_chat_upgrade_warning": "Увага: Цю дію неможливо скасувати.",
-	
-    "lng_user_not_found": "Користувача не знайдено. \nПримітка: вам потрібно відкрити профіль цього користувача, перш ніж робити посилання на нього."
+
+    "lng_user_not_found": "Користувача не знайдено. \nПримітка: вам потрібно відкрити профіль цього користувача, перш ніж робити посилання на нього.",
+
+    "lng_settings_always_delete_for": "Always delete message for",
+    "lng_settings_delete_disabled": "Disabled",
+    "lng_settings_delete_for_group": "Group",
+    "lng_settings_delete_for_person": "Person",
+    "lng_settings_delete_for_both": "Why not both?"
 }

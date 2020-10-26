@@ -9,12 +9,12 @@
 
     "lng_settings_enhanced": "تنظیمات افزوده شده",
     "lng_settings_network": "شبکه",
-    "lng_settings_net_speed_boost": "افزایش سرعت دانلود/آپلود[*]",
-    "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها[*]",
+    "lng_settings_net_speed_boost": "افزایش سرعت دانلود/آپلود",
+    "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها",
     "lng_settings_button": "دکمه",
-    "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک[*]",
+    "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک",
     "lng_settings_show_repeater_option": "Show Repeater Option",
-    "lng_settings_restart_hint": "WARNING: Changing options marked with \"*\" will take effect immediately with restart.",
+    "lng_settings_restart_hint": "WARNING: Changing options with colored will take effect immediately with restart.",
 
     "lng_net_speed_boost_title": "افزایش سرعت شبکه",
     "lng_net_speed_boost_desc": "هشدار: تغییر این پارامتر به مقادیر بالا در شبکه های کند می تواند حتی بدتر شود. با مسئولیت شخصی خود استفاده کنید.",
@@ -42,9 +42,9 @@
     "lng_context_forward_msg_old": "هدایت پیام(کلاسیک)",
     "lng_context_forward_msg_old_selected": "هدایت انتخاب شده(کلاسیک)",
     "lng_selected_forward_emoji_classic": "📠(کلاسیک)",
-    
+
     "lng_message_id": "آی‌دی پیام: ",
-    
+
     "lng_admin_log_banned_send_stickers2": "ارسال استیکر‌ها",
     "lng_admin_log_banned_send_gifs": "ارسال گیف‌ها",
     "lng_admin_log_banned_send_games": "ارسال بازی‌ها",
@@ -53,7 +53,7 @@
     "lng_rights_chat_send_gifs": "ارسال گیف‌ها",
     "lng_rights_chat_send_games": "ارسال بازی‌ها",
     "lng_rights_chat_use_inline": "استفاده از ربات‌های درون‌خطی",
-    
+
     "lng_media_selected_gif#one": "{count} گیف",
     "lng_media_selected_gif#other": "{count} گیف",
     "lng_media_type_gifs": "گیف‌ها",
@@ -61,11 +61,17 @@
     "lng_profile_gifs#other": "{count} گیف",
     "lng_profile_gifs_header": "گیف‌ها",
     "lng_media_gif_empty": "هنوز گیفی موجود نیست",
-    
+
     "lng_create_supergroup_title": "ابرگروه جدید",
     "lng_action_group_migrate": "گروه به ابرگروه ارتقا یافت",
     "lng_sure_upgrade_group": "آیا مطمئن هستید که می خواهید این گروه را به ابر گروه ارتقا دهید؟",
     "lng_chat_upgrade_warning": "توجه: این عملکرد قابل بازگشت نیست",
 
-    "lng_user_not_found": "404 User not found.\nNote: You must have \"seen\" that user before open this link."
+    "lng_user_not_found": "404 User not found.\nNote: You must have \"seen\" that user before open this link.",
+
+    "lng_settings_always_delete_for": "Always delete message for",
+    "lng_settings_delete_disabled": "Disabled",
+    "lng_settings_delete_for_group": "Group",
+    "lng_settings_delete_for_person": "Person",
+    "lng_settings_delete_for_both": "Why not both?"
 }

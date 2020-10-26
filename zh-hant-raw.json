@@ -9,12 +9,12 @@
 
     "lng_settings_enhanced": "增強設定",
     "lng_settings_network": "網絡",
-    "lng_settings_net_speed_boost": "下載/上載加速[*]",
-    "lng_settings_show_message_id": "顯示訊息ID[*]",
+    "lng_settings_net_speed_boost": "上載加速",
+    "lng_settings_show_message_id": "顯示訊息ID",
     "lng_settings_button": "按鈕",
-    "lng_settings_show_emoji_button_as_text": "Emoji按鈕轉為文字[*]",
+    "lng_settings_show_emoji_button_as_text": "Emoji按鈕轉為文字",
     "lng_settings_show_repeater_option": "Show Repeater Option",
-    "lng_settings_restart_hint": "WARNING: Changing options marked with \"*\" will take effect immediately with restart.",
+    "lng_settings_restart_hint": "WARNING: Changing options with colored will take effect immediately with restart.",
 
     "lng_net_speed_boost_title": "網絡加速",
     "lng_net_speed_boost_desc": "警告: 如果您的網絡較慢的話，更改此項設定只會令情況惡化。\n\n",
@@ -42,9 +42,9 @@
     "lng_context_forward_msg_old": "Forward Message(Classic)",
     "lng_context_forward_msg_old_selected": "Forward Selected(Classic)",
     "lng_selected_forward_emoji_classic": "📠(Classic)",
-    
+
     "lng_message_id": "訊息ID: ",
-    
+
     "lng_admin_log_banned_send_stickers2": "傳送貼圖",
     "lng_admin_log_banned_send_gifs": "傳送Gifs",
     "lng_admin_log_banned_send_games": "傳送遊戲",
@@ -53,7 +53,7 @@
     "lng_rights_chat_send_gifs": "傳送Gifs",
     "lng_rights_chat_send_games": "傳送遊戲",
     "lng_rights_chat_use_inline": "使用內嵌式機器人",
-    
+
     "lng_media_selected_gif#one": "{count} 張Gif",
     "lng_media_selected_gif#other": "{count} 張Gifs",
     "lng_media_type_gifs": "Gifs",
@@ -61,11 +61,17 @@
     "lng_profile_gifs#other": "{count} 張Gifs",
     "lng_profile_gifs_header": "Gifs",
     "lng_media_gif_empty": "這裡還沒有 Gif",
-    
+
     "lng_create_supergroup_title": "New Supergroup",
     "lng_action_group_migrate": "The group was upgraded to a supergroup",
     "lng_sure_upgrade_group": "Are you sure you want to upgrade this group to supergroup?",
     "lng_chat_upgrade_warning": "Note: This action can not be undone",
 
-    "lng_user_not_found": "404 找不到使用者。\n說明：您必須曾經在其他地方 \"見過\" 該使用者才能開啟此連結。"
+    "lng_user_not_found": "404 找不到使用者。\n說明：您必須曾經在其他地方 \"見過\" 該使用者才能開啟此連結。",
+
+    "lng_settings_always_delete_for": "Always delete message for",
+    "lng_settings_delete_disabled": "Disabled",
+    "lng_settings_delete_for_group": "Group",
+    "lng_settings_delete_for_person": "Person",
+    "lng_settings_delete_for_both": "Why not both?"
 }
