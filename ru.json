@@ -68,6 +68,7 @@
     "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
 
     "lng_user_not_found": "Пользователь не найден. \nПримечание: прежде чем делать ссылку на пользователя, вам нужно открыть его профиль через этот клиент.",
+
     "lng_settings_always_delete_for": "Отмечать «удалить у собеседников»",
     "lng_settings_delete_disabled": "Никогда",
     "lng_settings_delete_for_group": "В группах",
