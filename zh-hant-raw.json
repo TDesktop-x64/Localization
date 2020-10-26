@@ -13,8 +13,8 @@
     "lng_settings_show_message_id": "顯示訊息ID",
     "lng_settings_button": "按鈕",
     "lng_settings_show_emoji_button_as_text": "Emoji按鈕轉為文字",
-    "lng_settings_show_repeater_option": "Show Repeater Option",
-    "lng_settings_restart_hint": "WARNING: Changing options with colored will take effect immediately with restart.",
+    "lng_settings_show_repeater_option": "顯示覆讀選項",
+    "lng_settings_restart_hint": "警告: 變更有色選項會立即重新啟動並使用相關設定。",
 
     "lng_net_speed_boost_title": "網絡加速",
     "lng_net_speed_boost_desc": "警告: 如果您的網絡較慢的話，更改此項設定只會令情況惡化。\n\n",
@@ -69,9 +69,9 @@
 
     "lng_user_not_found": "404 找不到使用者。\n說明：您必須曾經在其他地方 \"見過\" 該使用者才能開啟此連結。",
 
-    "lng_settings_always_delete_for": "Always delete message for",
-    "lng_settings_delete_disabled": "Disabled",
-    "lng_settings_delete_for_group": "Group",
-    "lng_settings_delete_for_person": "Person",
+    "lng_settings_always_delete_for": "自動勾選刪除訊息",
+    "lng_settings_delete_disabled": "停用",
+    "lng_settings_delete_for_group": "群組",
+    "lng_settings_delete_for_person": "個人",
     "lng_settings_delete_for_both": "Why not both?"
 }

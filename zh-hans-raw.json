@@ -69,7 +69,7 @@
 
     "lng_user_not_found": "404 未找到用户。\n注意：你必须在打开此链接之前「见过」那名用户。",
 
-    "lng_settings_always_delete_for": "Always delete message for",
+    "lng_settings_always_delete_for": "Auto check delete message for",
     "lng_settings_delete_disabled": "Disabled",
     "lng_settings_delete_for_group": "Group",
     "lng_settings_delete_for_person": "Person",

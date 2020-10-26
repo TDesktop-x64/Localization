@@ -69,7 +69,7 @@
 
     "lng_user_not_found": "Пользователь не найден. \nПримечание: вам нужно открыть профиль этого пользователя, прежде чем делать ссылку на него.",
 
-    "lng_settings_always_delete_for": "Always delete message for",
+    "lng_settings_always_delete_for": "Auto check delete message for",
     "lng_settings_delete_disabled": "Disabled",
     "lng_settings_delete_for_group": "Group",
     "lng_settings_delete_for_person": "Person",
