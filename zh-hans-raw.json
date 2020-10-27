@@ -14,7 +14,7 @@
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
     "lng_settings_show_repeater_option": "显示「复读」选项",
-    "lng_settings_restart_hint": "WARNING: Changing options with colored will take effect immediately with restart.",
+    "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。\n\n",
@@ -69,9 +69,9 @@
 
     "lng_user_not_found": "404 未找到用户。\n注意：你必须在打开此链接之前「见过」那名用户。",
 
-    "lng_settings_always_delete_for": "Auto check delete message for",
-    "lng_settings_delete_disabled": "Disabled",
-    "lng_settings_delete_for_group": "Group",
-    "lng_settings_delete_for_person": "Person",
-    "lng_settings_delete_for_both": "Why not both?"
+    "lng_settings_always_delete_for": "自动勾选「为……删除消息」",
+    "lng_settings_delete_disabled": "禁用",
+    "lng_settings_delete_for_group": "群组",
+    "lng_settings_delete_for_person": "用户",
+    "lng_settings_delete_for_both": "我全都要！"
 }
