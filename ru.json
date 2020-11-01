@@ -14,6 +14,7 @@
     "lng_settings_button": "Кнопки",
     "lng_settings_show_emoji_button_as_text": "Буквы вместо эмодзи",
     "lng_settings_show_repeater_option": "«Повторить» в контекстном меню",
+    "lng_settings_show_phone_number": "Show Phone Number",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
