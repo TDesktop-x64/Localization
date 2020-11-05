@@ -74,5 +74,8 @@
     "lng_settings_delete_disabled": "停用",
     "lng_settings_delete_for_group": "群組",
     "lng_settings_delete_for_person": "個人",
-    "lng_settings_delete_for_both": "Why not both?"
+    "lng_settings_delete_for_both": "Why not both?",
+
+    "lng_title_forward_as_copy": "複製至...",
+    "lng_title_multiple_forward": "轉發至..."
 }

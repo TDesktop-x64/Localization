@@ -74,5 +74,8 @@
     "lng_settings_delete_disabled": "Ніколи",
     "lng_settings_delete_for_group": "У групах",
     "lng_settings_delete_for_person": "В особистих чатах",
-    "lng_settings_delete_for_both": "Завжди"
+    "lng_settings_delete_for_both": "Завжди",
+
+    "lng_title_forward_as_copy": "Copy to...",
+    "lng_title_multiple_forward": "Forward to..."
 }

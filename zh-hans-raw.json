@@ -74,5 +74,8 @@
     "lng_settings_delete_disabled": "禁用",
     "lng_settings_delete_for_group": "群组",
     "lng_settings_delete_for_person": "用户",
-    "lng_settings_delete_for_both": "我全都要！"
+    "lng_settings_delete_for_both": "我全都要！",
+
+    "lng_title_forward_as_copy": "Copy to...",
+    "lng_title_multiple_forward": "Forward to..."
 }
