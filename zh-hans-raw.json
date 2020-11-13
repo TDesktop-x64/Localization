@@ -14,7 +14,7 @@
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
     "lng_settings_show_repeater_option": "显示「复读」选项",
-    "lng_settings_show_phone_number": "Show Phone Number",
+    "lng_settings_show_phone_number": "显示电话号码",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
@@ -37,11 +37,11 @@
     "lng_context_repeat_msg": "复读",
     "lng_context_repeat_msg_no_fwd": "复读（不带引用）",
     "lng_context_forward_msg_no_quote": "转发（不带引用）",
-    "lng_context_forward_selected_no_quote": "转发所选消息（不带引用）",
+    "lng_context_forward_selected_no_quote": "转发所选内容（不带引用）",
     "lng_selected_forward_no_quote": "转发（不带引用）",
     "lng_forward_to_saved_message": "转发到收藏夹",
     "lng_context_forward_msg_old": "转发（旧式界面）",
-    "lng_context_forward_msg_old_selected": "转发所选消息（旧式界面）",
+    "lng_context_forward_msg_old_selected": "转发所选内容（旧式界面）",
     "lng_selected_forward_emoji_classic": "📠 旧式",
 
     "lng_message_id": "消息ID: ",
@@ -76,6 +76,6 @@
     "lng_settings_delete_for_person": "用户",
     "lng_settings_delete_for_both": "我全都要！",
 
-    "lng_title_forward_as_copy": "Copy to...",
-    "lng_title_multiple_forward": "Forward to..."
+    "lng_title_forward_as_copy": "不带引用转发到…",
+    "lng_title_multiple_forward": "转发到…"
 }
