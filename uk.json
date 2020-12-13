@@ -15,6 +15,7 @@
     "lng_settings_show_emoji_button_as_text": "Букви замість емодзі",
     "lng_settings_show_repeater_option": "«Повторити» в контекстному меню",
     "lng_settings_show_phone_number": "Show Phone Number",
+    "lng_settings_repeater_reply_to_orig_msg": "Reply to original message",
     "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",

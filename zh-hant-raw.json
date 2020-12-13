@@ -15,6 +15,7 @@
     "lng_settings_show_emoji_button_as_text": "Emoji按鈕轉為文字",
     "lng_settings_show_repeater_option": "顯示覆讀選項",
     "lng_settings_show_phone_number": "Show Phone Number",
+    "lng_settings_repeater_reply_to_orig_msg": "Reply to original message",
     "lng_settings_restart_hint": "警告: 變更有色選項會立即重新啟動並使用相關設定。",
 
     "lng_net_speed_boost_title": "網絡加速",
