@@ -1,4 +1,4 @@
-{
+ {
     "lng_intro_about2": "Добро пожаловать в неофициальное приложение Telegram Desktop.",
     "lng_profile_copy_id": "Копировать ID",
     "lng_profile_bot_id": "ID бота",
@@ -14,8 +14,8 @@
     "lng_settings_button": "Кнопки",
     "lng_settings_show_emoji_button_as_text": "Буквы вместо эмодзи",
     "lng_settings_show_repeater_option": "«Повторить» в контекстном меню",
-    "lng_settings_show_phone_number": "Show Phone Number",
-    "lng_settings_repeater_reply_to_orig_msg": "Reply to original message",
+    "lng_settings_show_phone_number": "Отображать номер",
+	"lng_settings_repeater_reply_to_orig_msg": "Ответить на исходное",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
@@ -70,13 +70,12 @@
     "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
 
     "lng_user_not_found": "Пользователь не найден. \nПримечание: прежде чем делать ссылку на пользователя, вам нужно открыть его профиль через этот клиент.",
-
     "lng_settings_always_delete_for": "Отмечать «удалить у собеседников»",
     "lng_settings_delete_disabled": "Никогда",
     "lng_settings_delete_for_group": "В группах",
     "lng_settings_delete_for_person": "В личных чатах",
     "lng_settings_delete_for_both": "Всегда",
-
-    "lng_title_forward_as_copy": "Copy to...",
-    "lng_title_multiple_forward": "Forward to..."
+	
+    "lng_title_forward_as_copy": "Копировать в...",
+    "lng_title_multiple_forward": "Переслать в..."
 }
