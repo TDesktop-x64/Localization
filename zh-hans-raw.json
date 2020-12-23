@@ -16,6 +16,7 @@
     "lng_settings_show_repeater_option": "显示「复读」选项",
     "lng_settings_show_phone_number": "显示电话号码",
     "lng_settings_repeater_reply_to_orig_msg": "Reply to original message",
+    "lng_settings_disable_cloud_draft_sync": "Disable Cloud Draft Sync",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
