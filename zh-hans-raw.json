@@ -15,8 +15,8 @@
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
     "lng_settings_show_repeater_option": "显示「复读」选项",
     "lng_settings_show_phone_number": "显示电话号码",
-    "lng_settings_repeater_reply_to_orig_msg": "Reply to original message",
-    "lng_settings_disable_cloud_draft_sync": "Disable Cloud Draft Sync To Local",
+    "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
+    "lng_settings_disable_cloud_draft_sync": "禁用草稿云同步",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
