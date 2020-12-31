@@ -16,6 +16,7 @@
     "lng_settings_show_repeater_option": "Mostra opzioni di inoltro",
     "lng_settings_show_phone_number": "Mostra numero",
     "lng_settings_repeater_reply_to_orig_msg": "Rispondi al messaggio originale",
+    "lng_settings_disable_cloud_draft_sync": "Disattiva la sincronizzazione delle bozze",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni colorate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
@@ -72,7 +73,7 @@
     "lng_user_not_found": "Utente non trovato.\nNota: Devi aver \"incontrato\" quell'utente prima di aprire questo link.",
 
     "lng_settings_always_delete_for": "Elimina per tutti di default...",
-    "lng_settings_delete_disabled": "No",
+    "lng_settings_delete_disabled": "Mai",
     "lng_settings_delete_for_group": "Nei gruppi",
     "lng_settings_delete_for_person": "Nelle chat private",
     "lng_settings_delete_for_both": "Ovunque",
