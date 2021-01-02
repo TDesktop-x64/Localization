@@ -17,6 +17,7 @@
     "lng_settings_show_phone_number": "Mostra numero",
     "lng_settings_repeater_reply_to_orig_msg": "Rispondi al messaggio originale",
     "lng_settings_disable_cloud_draft_sync": "Disattiva la sincronizzazione delle bozze",
+    "lng_settings_show_scheduled_button": "Always Show Scheduled Button",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni colorate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
