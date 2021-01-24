@@ -36,14 +36,8 @@
     "lng_copy_restriction_reason": "Причина ограничения копирования",
 
     "lng_context_copy_callback_data": "Копировать данные обратного вызова",
-    "lng_context_show_messages_from": "Сообщения пользователя",
-    "lng_context_repeat_msg": "Повторить",
-    "lng_context_repeat_msg_no_fwd": "Повторить ответом",
-    "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_context_forward_selected_no_quote": "Переслать выделенное без автора",
     "lng_selected_forward_no_quote": "Переслать без автора",
-    "lng_forward_to_saved_message": "Переслать в Избранное",
-    "lng_context_forward_msg_old": "Переслать (Classic)",
     "lng_context_forward_msg_old_selected": "Переслать выделенное (Classic)",
     "lng_selected_forward_emoji_classic": "📠(Classic)",
 
@@ -72,6 +66,7 @@
     "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
 
     "lng_user_not_found": "Пользователь не найден. \nПримечание: прежде чем делать ссылку на пользователя, вам нужно открыть его профиль через этот клиент.",
+    
     "lng_settings_always_delete_for": "Отмечать «удалить у собеседников»",
     "lng_settings_delete_disabled": "Никогда",
     "lng_settings_delete_for_group": "В группах",
@@ -79,5 +74,13 @@
     "lng_settings_delete_for_both": "Всегда",
 	
     "lng_title_forward_as_copy": "Копировать в...",
-    "lng_title_multiple_forward": "Переслать в..."
+    "lng_title_multiple_forward": "Переслать в...",
+
+    "lng_context_forward_msg": "Multi-Forward",
+    "lng_context_forward_msg_old": "Single Forward",
+    "lng_context_show_messages_from": "Msgs From User",
+    "lng_context_repeat_msg": "Repeat as Forward",
+    "lng_context_repeat_msg_no_fwd": "Repeat as copy",
+    "lng_context_forward_msg_no_quote": "Forward as copy",
+    "lng_forward_to_saved_message": "Forward to Saved"
 }
