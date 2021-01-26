@@ -78,7 +78,7 @@
 
     "lng_context_forward_msg": "多重轉發",
     "lng_context_forward_msg_old": "轉發",
-    "lng_context_show_messages_from": "該使用者發送訊息",
+    "lng_context_show_messages_from": "該使用者發送的訊息",
     "lng_context_repeat_msg": "轉發式回覆",
     "lng_context_repeat_msg_no_fwd": "複製式回覆",
     "lng_context_forward_msg_no_quote": "複製式轉發",
