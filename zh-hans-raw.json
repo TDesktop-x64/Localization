@@ -17,7 +17,7 @@
     "lng_settings_show_phone_number": "显示电话号码",
     "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
     "lng_settings_disable_cloud_draft_sync": "禁用草稿云同步",
-    "lng_settings_show_scheduled_button": "Always Show Scheduled Button",
+    "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
@@ -76,11 +76,11 @@
     "lng_title_forward_as_copy": "不带引用转发到…",
     "lng_title_multiple_forward": "转发到…",
 
-    "lng_context_forward_msg": "Multi-Forward",
-    "lng_context_forward_msg_old": "Single Forward",
-    "lng_context_show_messages_from": "Msgs From User",
-    "lng_context_repeat_msg": "Repeat as Forward",
-    "lng_context_repeat_msg_no_fwd": "Repeat as copy",
-    "lng_context_forward_msg_no_quote": "Forward as copy",
-    "lng_forward_to_saved_message": "Forward to Saved"
+    "lng_context_forward_msg": "多聊天转发",
+    "lng_context_forward_msg_old": "单聊天转发",
+    "lng_context_show_messages_from": "该用户的其他消息",
+    "lng_context_repeat_msg": "转发式复读",
+    "lng_context_repeat_msg_no_fwd": "复制式复读",
+    "lng_context_forward_msg_no_quote": "复制式转发",
+    "lng_forward_to_saved_message": "转发到收藏夹"
 }
