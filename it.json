@@ -76,11 +76,11 @@
     "lng_title_forward_as_copy": "Copia in...",
     "lng_title_multiple_forward": "Inoltra a...",
 
-    "lng_context_forward_msg": "Multi-Forward",
-    "lng_context_forward_msg_old": "Single Forward",
-    "lng_context_show_messages_from": "Msgs From User",
-    "lng_context_repeat_msg": "Repeat as Forward",
-    "lng_context_repeat_msg_no_fwd": "Repeat as copy",
-    "lng_context_forward_msg_no_quote": "Forward as copy",
-    "lng_forward_to_saved_message": "Forward to Saved"
+    "lng_context_forward_msg": "Inoltro multiplo",
+    "lng_context_forward_msg_old": "Inoltro singolo",
+    "lng_context_show_messages_from": "Messaggi dall'utente",
+    "lng_context_repeat_msg": "Ripeti come inoltro",
+    "lng_context_repeat_msg_no_fwd": "Ripeti come copia",
+    "lng_context_forward_msg_no_quote": "Inoltra come copia",
+    "lng_forward_to_saved_message": "Salva messaggio"
 }
