@@ -76,11 +76,11 @@
     "lng_title_forward_as_copy": "不带引用转发到…",
     "lng_title_multiple_forward": "转发到…",
 
-    "lng_context_forward_msg": "多聊天转发",
-    "lng_context_forward_msg_old": "单聊天转发",
+    "lng_context_forward_msg": "转发（多选聊天）",
+    "lng_context_forward_msg_old": "转发（单选聊天）",
     "lng_context_show_messages_from": "该用户的其他消息",
-    "lng_context_repeat_msg": "转发式复读",
-    "lng_context_repeat_msg_no_fwd": "复制式复读",
-    "lng_context_forward_msg_no_quote": "复制式转发",
+    "lng_context_repeat_msg": "复读（转发式）",
+    "lng_context_repeat_msg_no_fwd": "复读（复制式）",
+    "lng_context_forward_msg_no_quote": "转发（复制式）",
     "lng_forward_to_saved_message": "转发到收藏夹"
 }
