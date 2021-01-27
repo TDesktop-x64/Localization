@@ -16,8 +16,8 @@
     "lng_settings_show_repeater_option": "«Повторити» в контекстному меню",
     "lng_settings_show_phone_number": "Відображати номер",
 	"lng_settings_repeater_reply_to_orig_msg": "Відповісти на вихідне",
-    "lng_settings_disable_cloud_draft_sync": "Disable Cloud Draft Sync To Local",
-    "lng_settings_show_scheduled_button": "Always Show Scheduled Button",
+    "lng_settings_disable_cloud_draft_sync": "Вимкнути синхронізацію чернетки",
+    "lng_settings_show_scheduled_button": "Відображати кнопку запланованих",
     "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
@@ -76,11 +76,11 @@
     "lng_title_forward_as_copy": "Копіювати в...",
     "lng_title_multiple_forward": "Переслати в...",
 
-    "lng_context_forward_msg": "Multi-Forward",
-    "lng_context_forward_msg_old": "Single Forward",
-    "lng_context_show_messages_from": "Msgs From User",
-    "lng_context_repeat_msg": "Repeat as Forward",
-    "lng_context_repeat_msg_no_fwd": "Repeat as copy",
-    "lng_context_forward_msg_no_quote": "Forward as copy",
-    "lng_forward_to_saved_message": "Forward to Saved"
+    "lng_context_forward_msg": "Мультипересылка",
+    "lng_context_forward_msg_old": "Переслати (Classic)",
+    "lng_context_show_messages_from": "Повідомлення користувача",
+    "lng_context_repeat_msg": "Повторити",
+    "lng_context_repeat_msg_no_fwd": "Повторити відповіддю",
+    "lng_context_forward_msg_no_quote": "Переслати без автора",
+    "lng_forward_to_saved_message": "Переслати в Збережене"
 }

@@ -16,8 +16,8 @@
     "lng_settings_show_repeater_option": "«Повторить» в контекстном меню",
     "lng_settings_show_phone_number": "Отображать номер",
     "lng_settings_repeater_reply_to_orig_msg": "Ответить на исходное",
-    "lng_settings_disable_cloud_draft_sync": "Отключить синхронизацию облачного черновика с локальным",
-    "lng_settings_show_scheduled_button": "Всегда показывать кнопку отложенных сообщений",
+    "lng_settings_disable_cloud_draft_sync": "Отключить синхронизацию черновика",
+    "lng_settings_show_scheduled_button": "Отображать кнопку отложенных",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
@@ -66,7 +66,6 @@
     "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
 
     "lng_user_not_found": "Пользователь не найден. \nПримечание: прежде чем делать ссылку на пользователя, вам нужно открыть его профиль через этот клиент.",
-    
     "lng_settings_always_delete_for": "Отмечать «удалить у собеседников»",
     "lng_settings_delete_disabled": "Никогда",
     "lng_settings_delete_for_group": "В группах",
@@ -76,11 +75,11 @@
     "lng_title_forward_as_copy": "Копировать в...",
     "lng_title_multiple_forward": "Переслать в...",
 
-    "lng_context_forward_msg": "Multi-Forward",
-    "lng_context_forward_msg_old": "Single Forward",
-    "lng_context_show_messages_from": "Msgs From User",
-    "lng_context_repeat_msg": "Repeat as Forward",
-    "lng_context_repeat_msg_no_fwd": "Repeat as copy",
-    "lng_context_forward_msg_no_quote": "Forward as copy",
-    "lng_forward_to_saved_message": "Forward to Saved"
+    "lng_context_forward_msg": "Мультипересылка",
+    "lng_context_forward_msg_old": "Переслать (Classic)",
+    "lng_context_show_messages_from": "Сообщения пользователя",
+    "lng_context_repeat_msg": "Повторить",
+    "lng_context_repeat_msg_no_fwd": "Повторить ответом",
+    "lng_context_forward_msg_no_quote": "Переслать без автора",
+    "lng_forward_to_saved_message": "Переслать в Избранное",
 }
