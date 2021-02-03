@@ -18,11 +18,15 @@
     "lng_settings_repeater_reply_to_orig_msg": "Ответить на исходное",
     "lng_settings_disable_cloud_draft_sync": "Отключить синхронизацию черновиков",
     "lng_settings_show_scheduled_button": "Отображать кнопку отложенных",
+    "lng_settings_voice_chat": "Voice Chat",
+    "lng_settings_radio_mode": "Radio mode",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",
     "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите эмодзи на кнопках, включите эту опцию.",
+    "lng_radio_mode_desc": "Note: Radio mode is an experimental feature for stream music through voice chat without audio processing.",
+    "lng_radio_mode_hint": "Radio mode is enabled! Re-join a voice chat if you're already joined.",
 
     "lng_net_speed_boost_default": "Отключено",
     "lng_net_speed_boost_slight": "Небольшое",
