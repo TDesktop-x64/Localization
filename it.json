@@ -18,15 +18,15 @@
     "lng_settings_repeater_reply_to_orig_msg": "Copia rispondendo al messaggio",
     "lng_settings_disable_cloud_draft_sync": "Disattiva la sincronizzazione delle bozze",
     "lng_settings_show_scheduled_button": "Mostra sempre il pulsante programmati",
-    "lng_settings_voice_chat": "Voice Chat",
-    "lng_settings_radio_mode": "Radio mode",
-    "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni colorate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
+    "lng_settings_voice_chat": "Chat vocale",
+    "lng_settings_radio_mode": "Modalità radio",
+    "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
     "lng_net_speed_boost_desc": "Attenzione! Impostare questo parametro a valori alti su reti lente può addirittura peggiorare la situazione, per cui procedi a tuo rischio.",
     "lng_show_emoji_button_as_text_desc": "Nota: attiva quest'opzione se non vedi alcune delle emoji.",
-    "lng_radio_mode_desc": "Note: Radio mode is an experimental feature for stream music through voice chat without audio processing.",
-    "lng_radio_mode_hint": "Radio mode is enabled! Re-join a voice chat if you're already joined.",
+    "lng_radio_mode_desc": "Nota: la modalità radio è una funzione sperimentale per riprodurre musica nella chat vocale senza elaborazione dell'audio.",
+    "lng_radio_mode_hint": "La modalità radio è attiva! Riunisciti alla chat vocale se ti sei già unito.",
 
     "lng_net_speed_boost_default": "Disattivato",
     "lng_net_speed_boost_slight": "Basso",
@@ -67,9 +67,9 @@
     "lng_create_supergroup_title": "Nuovo supergruppo",
     "lng_action_group_migrate": "Il gruppo è stato aggiornato a supergruppo",
     "lng_sure_upgrade_group": "Sei sicuro di voler aggiornare questo gruppo a supergrppo?",
-    "lng_chat_upgrade_warning": "Nota: Questa azione non può essere annullata",
+    "lng_chat_upgrade_warning": "Nota: questa azione non può essere annullata",
 
-    "lng_user_not_found": "Utente non trovato.\nNota: Devi aver \"incontrato\" quell'utente prima di aprire questo link.",
+    "lng_user_not_found": "Utente non trovato.\nNota: devi aver \"incontrato\" quell'utente prima di aprire questo link.",
 
     "lng_settings_always_delete_for": "Elimina per tutti di default...",
     "lng_settings_delete_disabled": "Mai",
