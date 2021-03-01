@@ -20,6 +20,7 @@
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "Voice Chat",
     "lng_settings_radio_mode": "Radio mode",
+    "lng_settings_radio_controller": "Radio controller",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
@@ -27,6 +28,7 @@
     "lng_show_emoji_button_as_text_desc": "提示：如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。",
     "lng_radio_mode_desc": "Note: Radio mode is an experimental feature for stream music through voice chat without audio processing.",
     "lng_radio_mode_hint": "Radio mode is enabled! Re-join a voice chat if you're already joined.",
+    "lng_radio_controller_desc": "Note: Radio controller is an experimental bot for controlling your music streaming session.",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "小幅",

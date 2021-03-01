@@ -20,6 +20,7 @@
     "lng_settings_show_scheduled_button": "Відображати кнопку запланованих",
     "lng_settings_voice_chat": "Voice Chat",
     "lng_settings_radio_mode": "Radio mode",
+    "lng_settings_radio_controller": "Radio controller",
     "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
@@ -27,6 +28,7 @@
     "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію.",
     "lng_radio_mode_desc": "Note: Radio mode is an experimental feature for stream music through voice chat without audio processing.",
     "lng_radio_mode_hint": "Radio mode is enabled! Re-join a voice chat if you're already joined.",
+    "lng_radio_controller_desc": "Note: Radio controller is an experimental bot for controlling your music streaming session.",
 	
     "lng_net_speed_boost_default": "Відключено",
     "lng_net_speed_boost_slight": "Трішки",

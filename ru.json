@@ -20,6 +20,7 @@
     "lng_settings_show_scheduled_button": "Отображать кнопку отложенных",
     "lng_settings_voice_chat": "Голосовой чат",
     "lng_settings_radio_mode": "Режим радио",
+    "lng_settings_radio_controller": "Radio controller",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
@@ -27,6 +28,7 @@
     "lng_show_emoji_button_as_text_desc": "Примечание: Если Вы не видите эмодзи на кнопках, включите эту опцию.",
     "lng_radio_mode_desc": "Примечание: Режим радио это эсперементальная функция для прямой трансляции музыки в голосовой чат.",
     "lng_radio_mode_hint": "Режим радио включен! Если Вы сейчас находитесь в голосовом чате, необходимо будет перезайти в него.",
+    "lng_radio_controller_desc": "Note: Radio controller is an experimental bot for controlling your music streaming session.",
 
     "lng_net_speed_boost_default": "Отключено",
     "lng_net_speed_boost_slight": "Небольшое",

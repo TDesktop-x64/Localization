@@ -20,6 +20,7 @@
     "lng_settings_show_scheduled_button": "總是顯示訊息排程按鈕",
     "lng_settings_voice_chat": "Voice Chat",
     "lng_settings_radio_mode": "Radio mode",
+    "lng_settings_radio_controller": "Radio controller",
     "lng_settings_restart_hint": "警告: 變更有色選項會立即重新啟動並套用相關設定。",
 
     "lng_net_speed_boost_title": "網路加速",
@@ -27,6 +28,7 @@
     "lng_show_emoji_button_as_text_desc": "提示: 如果你的 TDesktop 不能正確顯示 Emoji 按鈕，請開啟此選項。",
     "lng_radio_mode_desc": "Note: Radio mode is an experimental feature for stream music through voice chat without audio processing.",
     "lng_radio_mode_hint": "Radio mode is enabled! Re-join a voice chat if you're already joined.",
+    "lng_radio_controller_desc": "Note: Radio controller is an experimental bot for controlling your music streaming session.",
 
     "lng_net_speed_boost_default": "停用",
     "lng_net_speed_boost_slight": "1x",
