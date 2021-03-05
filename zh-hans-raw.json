@@ -18,17 +18,17 @@
     "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
     "lng_settings_disable_cloud_draft_sync": "禁用草稿云同步",
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
-    "lng_settings_voice_chat": "Voice Chat",
-    "lng_settings_radio_mode": "Radio mode",
-    "lng_settings_radio_controller": "Radio controller",
+    "lng_settings_voice_chat": "语音聊天",
+    "lng_settings_radio_mode": "电台模式",
+    "lng_settings_radio_controller": "电台控制器",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",
     "lng_show_emoji_button_as_text_desc": "提示：如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。",
-    "lng_radio_mode_desc": "Note: Radio mode is an experimental feature for stream music through voice chat without audio processing.",
-    "lng_radio_mode_hint": "Radio mode is enabled! Re-join a voice chat if you're already joined.",
-    "lng_radio_controller_desc": "Note: Radio controller is an experimental bot for controlling your music streaming session.",
+    "lng_radio_mode_desc": "注意：电台模式是实验性特性，用于在不加音频处理的前提下通过语音聊天播放音乐。",
+    "lng_radio_mode_hint": "电台模式已启用！如您已加入语音聊天，请重新加入。",
+    "lng_radio_controller_desc": "注意：电台控制器是一个实验性机器人，用于控制您的音乐播放会话。",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "小幅",
@@ -42,8 +42,8 @@
     "lng_copy_restriction_reason": "复制限制原因",
 
     "lng_context_copy_callback_data": "复制回调数据",
-    "lng_context_forward_selected_no_quote": "转发所选内容（不带引用）",
-    "lng_selected_forward_no_quote": "转发（不带引用）",
+    "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
+    "lng_selected_forward_no_quote": "转发（无引用）",
     "lng_context_forward_msg_old_selected": "转发所选内容（旧式界面）",
     "lng_selected_forward_emoji_classic": "📠 旧式",
 
@@ -79,14 +79,14 @@
     "lng_settings_delete_for_person": "用户",
     "lng_settings_delete_for_both": "我全都要！",
 
-    "lng_title_forward_as_copy": "不带引用转发到…",
+    "lng_title_forward_as_copy": "无引用转发到…",
     "lng_title_multiple_forward": "转发到…",
 
     "lng_context_forward_msg": "转发（多选聊天）",
     "lng_context_forward_msg_old": "转发（单选聊天）",
     "lng_context_show_messages_from": "该用户的其他消息",
-    "lng_context_repeat_msg": "复读（转发式）",
-    "lng_context_repeat_msg_no_fwd": "复读（复制式）",
-    "lng_context_forward_msg_no_quote": "转发（复制式）",
+    "lng_context_repeat_msg": "复读",
+    "lng_context_repeat_msg_no_fwd": "复读（无引用）",
+    "lng_context_forward_msg_no_quote": "转发（无引用）",
     "lng_forward_to_saved_message": "转发到收藏夹"
 }
