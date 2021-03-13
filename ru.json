@@ -21,6 +21,7 @@
     "lng_settings_voice_chat": "Голосовой чат",
     "lng_settings_radio_mode": "Режим радио",
     "lng_settings_radio_controller": "Контроллер радио",
+    "lng_settings_auto_unmute": "Auto unmute",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
@@ -29,6 +30,7 @@
     "lng_radio_mode_desc": "Примечание: Режим радио это эсперементальная функция для прямой трансляции музыки в голосовой чат.",
     "lng_radio_mode_hint": "Режим радио включен! Если Вы сейчас находитесь в голосовом чате, необходимо будет перезайти в него.",
     "lng_radio_controller_desc": "Примечание: Контроллер радио это экспериментальный бот для управления трансляцией музыки.",
+    "lng_auto_unmute_desc": "Note: Auto unmute when you've joined the voice chat.",
 
     "lng_net_speed_boost_default": "Отключено",
     "lng_net_speed_boost_slight": "Небольшое",
