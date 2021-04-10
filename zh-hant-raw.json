@@ -93,10 +93,10 @@
     "lng_forward_to_saved_message": "轉發至儲存的訊息",
 
     "lng_bitrate_controller": "Bitrate",
-    "lng_bitrate_controller_desc": "Warning: changing this parameter to high values may affect user on slow networks.",
-    "lng_bitrate_controller_hint": "Voice chat bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_bitrate_controller_desc": "警告: 將此參數設定調高可能會影響網路較慢的使用者。",
+    "lng_bitrate_controller_hint": "語音聊天的 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
 
-    "lng_bitrate_controller_default": "Default (32 Kbps)",
+    "lng_bitrate_controller_default": "預設 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
     "lng_bitrate_controller_128k": "128 Kbps",
@@ -105,6 +105,6 @@
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
 
-    "lng_pinned_message_show": "Show pinned message",
-    "lng_pinned_message_hide": "Hide pinned message"
+    "lng_pinned_message_show": "顯示置頂訊息",
+    "lng_pinned_message_hide": "隱藏置頂訊息"
 }
