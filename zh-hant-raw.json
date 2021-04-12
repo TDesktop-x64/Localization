@@ -106,5 +106,6 @@
     "lng_bitrate_controller_320k": "320 Kbps",
 
     "lng_pinned_message_show": "顯示置頂訊息",
-    "lng_pinned_message_hide": "隱藏置頂訊息"
+    "lng_pinned_message_hide": "隱藏置頂訊息",
+    "lng_pinned_message_view": "View pinned message"
 }
