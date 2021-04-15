@@ -105,7 +105,7 @@
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
 
-    "lng_pinned_message_show": "Show pinned message",
-    "lng_pinned_message_hide": "Hide pinned message",
-    "lng_pinned_message_view": "View pinned message"
+    "lng_pinned_message_show": "Показать закреплённое сообщение",
+    "lng_pinned_message_hide": "Спрятать закреплённое сообщение",
+    "lng_pinned_message_view": "Просмотреть закреплённое сообщение"
 }
