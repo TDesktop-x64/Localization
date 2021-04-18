@@ -17,6 +17,7 @@
     "lng_settings_show_phone_number": "顯示電話號碼",
     "lng_settings_repeater_reply_to_orig_msg": "回覆至原始訊息",
     "lng_settings_disable_cloud_draft_sync": "停止將雲端草稿同步至本地",
+    "lng_settings_hide_classic_forward": "隱藏原版轉發按鈕",
     "lng_settings_show_scheduled_button": "總是顯示訊息排程按鈕",
     "lng_settings_voice_chat": "語音聊天",
     "lng_settings_radio_mode": "電台模式",
@@ -107,5 +108,7 @@
 
     "lng_pinned_message_show": "顯示置頂訊息",
     "lng_pinned_message_hide": "隱藏置頂訊息",
-    "lng_pinned_message_view": "View pinned message"
+    "lng_pinned_message_view": "查看置頂訊息",
+
+    "lng_proxy_remove_all": "移除全部代理伺服器"
 }

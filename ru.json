@@ -17,6 +17,7 @@
     "lng_settings_show_phone_number": "Отображать номер",
     "lng_settings_repeater_reply_to_orig_msg": "Ответить на исходное",
     "lng_settings_disable_cloud_draft_sync": "Отключить синхронизацию черновиков",
+    "lng_settings_hide_classic_forward": "Hide Classic Forward",
     "lng_settings_show_scheduled_button": "Отображать кнопку отложенных",
     "lng_settings_voice_chat": "Голосовой чат",
     "lng_settings_radio_mode": "Режим радио",
@@ -107,5 +108,7 @@
 
     "lng_pinned_message_show": "Показать закреплённое сообщение",
     "lng_pinned_message_hide": "Спрятать закреплённое сообщение",
-    "lng_pinned_message_view": "Просмотреть закреплённое сообщение"
+    "lng_pinned_message_view": "Просмотреть закреплённое сообщение",
+
+    "lng_proxy_remove_all": "Remove all proxies"
 }

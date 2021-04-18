@@ -17,6 +17,7 @@
     "lng_settings_show_phone_number": "Mostra numero",
     "lng_settings_repeater_reply_to_orig_msg": "Copia rispondendo al messaggio",
     "lng_settings_disable_cloud_draft_sync": "Disattiva la sincronizzazione delle bozze",
+    "lng_settings_hide_classic_forward": "Hide Classic Forward",
     "lng_settings_show_scheduled_button": "Mostra sempre il pulsante programmati",
     "lng_settings_voice_chat": "Chat vocale",
     "lng_settings_radio_mode": "Modalità radio",
@@ -107,5 +108,7 @@
 
     "lng_pinned_message_show": "Show pinned message",
     "lng_pinned_message_hide": "Hide pinned message",
-    "lng_pinned_message_view": "View pinned message"
+    "lng_pinned_message_view": "View pinned message",
+
+    "lng_proxy_remove_all": "Remove all proxies"
 }
