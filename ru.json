@@ -23,6 +23,8 @@
     "lng_settings_radio_mode": "Режим радио",
     "lng_settings_radio_controller": "Контроллер радио",
     "lng_settings_auto_unmute": "Автоматическое включение звука",
+    "lng_settings_other": "Other",
+    "lng_settings_hide_all_chats": "Hide \"All chats\" folder",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",

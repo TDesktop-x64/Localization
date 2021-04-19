@@ -23,6 +23,8 @@
     "lng_settings_radio_mode": "电台模式",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "Auto unmute",
+    "lng_settings_other": "Other",
+    "lng_settings_hide_all_chats": "Hide \"All chats\" folder",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",

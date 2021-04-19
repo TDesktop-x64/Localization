@@ -23,6 +23,8 @@
     "lng_settings_radio_mode": "Modalità radio",
     "lng_settings_radio_controller": "Controller radio",
     "lng_settings_auto_unmute": "Attiva automaticamente",
+    "lng_settings_other": "Other",
+    "lng_settings_hide_all_chats": "Hide \"All chats\" folder",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",

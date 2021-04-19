@@ -23,6 +23,8 @@
     "lng_settings_radio_mode": "電台模式",
     "lng_settings_radio_controller": "電台遙控器",
     "lng_settings_auto_unmute": "自動解除靜音",
+    "lng_settings_other": "Other",
+    "lng_settings_hide_all_chats": "Hide \"All chats\" folder",
     "lng_settings_restart_hint": "警告: 變更有色選項會立即重新啟動並套用相關設定。",
 
     "lng_net_speed_boost_title": "網路加速",
