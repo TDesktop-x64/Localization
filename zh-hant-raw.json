@@ -24,7 +24,7 @@
     "lng_settings_radio_controller": "電台遙控器",
     "lng_settings_auto_unmute": "自動解除靜音",
     "lng_settings_other": "Other",
-    "lng_settings_hide_all_chats": "Hide \"All chats\" folder",
+    "lng_settings_hide_all_chats": "將「所有對話」資料夾隱藏",
     "lng_settings_restart_hint": "警告: 變更有色選項會立即重新啟動並套用相關設定。",
 
     "lng_net_speed_boost_title": "網路加速",
@@ -52,7 +52,7 @@
     "lng_context_forward_msg_old_selected": "轉發已選訊息（傳統）",
     "lng_selected_forward_emoji_classic": "📠（傳統）",
 
-    "lng_message_id": "訊息ID: ",
+    "lng_message_id": "訊息 ID: ",
 
     "lng_admin_log_banned_send_stickers2": "傳送貼圖",
     "lng_admin_log_banned_send_gifs": "傳送 GIFs",
@@ -112,5 +112,5 @@
     "lng_pinned_message_hide": "隱藏置頂訊息",
     "lng_pinned_message_view": "查看置頂訊息",
 
-    "lng_proxy_remove_all": "移除全部代理伺服器"
+    "lng_proxy_remove_all": "移除所有代理伺服器"
 }
