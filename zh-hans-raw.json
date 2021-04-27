@@ -17,23 +17,23 @@
     "lng_settings_show_phone_number": "显示电话号码",
     "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
     "lng_settings_disable_cloud_draft_sync": "禁用草稿云同步",
-    "lng_settings_hide_classic_forward": "Hide Classic Forward",
+    "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选聊天）」）",
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "语音聊天",
     "lng_settings_radio_mode": "电台模式",
     "lng_settings_radio_controller": "电台控制器",
-    "lng_settings_auto_unmute": "Auto unmute",
-    "lng_settings_other": "Other",
-    "lng_settings_hide_all_chats": "Hide \"All chats\" folder",
+    "lng_settings_auto_unmute": "自动解除静音",
+    "lng_settings_other": "杂项",
+    "lng_settings_hide_all_chats": "隐藏「全部对话」文件夹",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",
-    "lng_show_emoji_button_as_text_desc": "提示：如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。",
-    "lng_radio_mode_desc": "注意：电台模式是实验性特性，用于在不加音频处理的前提下通过语音聊天播放音乐。",
+    "lng_show_emoji_button_as_text_desc": "如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。",
+    "lng_radio_mode_desc": "电台模式是实验性特性，用于在不加音频处理的前提下通过语音聊天播放音乐。",
     "lng_radio_mode_hint": "电台模式已启用！如您已加入语音聊天，请重新加入。",
-    "lng_radio_controller_desc": "注意：电台控制器是一个实验性机器人，用于控制您的音乐播放会话。",
-    "lng_auto_unmute_desc": "Note: Auto unmute when you've joined the voice chat.",
+    "lng_radio_controller_desc": "电台控制器是一个实验性机器人，用于控制您的音乐播放会话。",
+    "lng_auto_unmute_desc": "当您加入一个语音聊天时，自动解除静音。",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "小幅",
@@ -95,11 +95,11 @@
     "lng_context_forward_msg_no_quote": "转发（无引用）",
     "lng_forward_to_saved_message": "转发到收藏夹",
 
-    "lng_bitrate_controller": "Bitrate",
-    "lng_bitrate_controller_desc": "Warning: changing this parameter to high values may affect user on slow networks.",
-    "lng_bitrate_controller_hint": "Voice chat bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_bitrate_controller": "比特率",
+    "lng_bitrate_controller_desc": "警告：将此项更改为较大值可能会影响网络条件较差的用户。",
+    "lng_bitrate_controller_hint": "语音聊天比特率已更改！如您已加入语音聊天，请重新加入。",
 
-    "lng_bitrate_controller_default": "Default (32 Kbps)",
+    "lng_bitrate_controller_default": "默认 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
     "lng_bitrate_controller_128k": "128 Kbps",
@@ -108,9 +108,9 @@
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
 
-    "lng_pinned_message_show": "Show pinned message",
-    "lng_pinned_message_hide": "Hide pinned message",
-    "lng_pinned_message_view": "View pinned message",
+    "lng_pinned_message_show": "显示置顶消息",
+    "lng_pinned_message_hide": "隐藏置顶消息",
+    "lng_pinned_message_view": "查看置顶消息",
 
-    "lng_proxy_remove_all": "Remove all proxies"
+    "lng_proxy_remove_all": "移除全部代理"
 }
