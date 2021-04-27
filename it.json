@@ -17,11 +17,14 @@
     "lng_settings_show_phone_number": "Mostra numero",
     "lng_settings_repeater_reply_to_orig_msg": "Copia rispondendo al messaggio",
     "lng_settings_disable_cloud_draft_sync": "Disattiva la sincronizzazione delle bozze",
+    "lng_settings_hide_classic_forward": "Nascondi l'inoltro classico",
     "lng_settings_show_scheduled_button": "Mostra sempre il pulsante programmati",
     "lng_settings_voice_chat": "Chat vocale",
     "lng_settings_radio_mode": "Modalità radio",
     "lng_settings_radio_controller": "Controller radio",
     "lng_settings_auto_unmute": "Attiva automaticamente",
+    "lng_settings_other": "Altro",
+    "lng_settings_hide_all_chats": "Nascondi la cartella \"Tutte le chat\"",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
@@ -103,5 +106,11 @@
     "lng_bitrate_controller_160k": "160 kbit/s",
     "lng_bitrate_controller_192k": "192 kbit/s",
     "lng_bitrate_controller_256k": "256 kbit/s",
-    "lng_bitrate_controller_320k": "320 kbit/s"
+    "lng_bitrate_controller_320k": "320 kbit/s",
+
+    "lng_pinned_message_show": "Mostra messaggi fissati",
+    "lng_pinned_message_hide": "Nascondi messaggi fissati",
+    "lng_pinned_message_view": "Visualizza messaggi fissati",
+
+    "lng_proxy_remove_all": "Rimuovi tutti i proxy"
 }
