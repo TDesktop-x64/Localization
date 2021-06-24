@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Добро пожаловать в форк Telegram Desktop.",
+    "lng_intro_about2": "Ласкаво просимо в неофіційний месенджер\nна основе Telegram Desktop.",
     "lng_profile_copy_id": "Копировать ID",
     "lng_profile_bot_id": "ID бота",
     "lng_profile_user_id": "ID пользователя",
@@ -22,7 +22,7 @@
     "lng_settings_voice_chat": "Голосовой чат",
     "lng_settings_radio_mode": "Радио-режим",
     "lng_settings_radio_controller": "Радио-контроллер",
-    "lng_settings_auto_unmute": "Автоматическое включение звука",
+    "lng_settings_auto_unmute": "Авто-включение звука",
     "lng_settings_other": "Другое",
     "lng_settings_hide_all_chats": "Скрыть папку «Все чаты»",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",

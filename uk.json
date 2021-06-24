@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Ласкаво просимо в неофіційнму додатоку Telegram Desktop.",
+    "lng_intro_about2": "Вітаємо в неофіційному додатку\nна основі Telegram Desktop.",
     "lng_profile_copy_id": "Копіювати ID",
     "lng_profile_bot_id": "ID бота",
     "lng_profile_user_id": "ID користувача",
@@ -108,9 +108,9 @@
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
 
-    "lng_pinned_message_show": "Show pinned message",
-    "lng_pinned_message_hide": "Hide pinned message",
-    "lng_pinned_message_view": "View pinned message",
+    "lng_pinned_message_show": "Показати закріплені",
+    "lng_pinned_message_hide": "Приховати закріплені",
+    "lng_pinned_message_view": "Відкрити закріплені",
 
-    "lng_proxy_remove_all": "Remove all proxies"
+    "lng_proxy_remove_all": "Видалити всі проксі "
 }
