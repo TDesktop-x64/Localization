@@ -1,5 +1,5 @@
 ﻿{
-    "lng_intro_about2": "欢迎使用非官方 Telegram 客户端。\n它快速且安全。",
+    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
     "lng_profile_copy_id": "复制 ID",
     "lng_profile_bot_id": "机器人 ID",
     "lng_profile_user_id": "用户 ID",
@@ -20,7 +20,7 @@
     "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选聊天）」）",
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "语音聊天",
-    "lng_settings_radio_mode": "电台模式",
+    "lng_settings_stereo_mode": "Enable Stereo Mode",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动解除静音",
     "lng_settings_other": "杂项",
@@ -30,8 +30,6 @@
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",
     "lng_show_emoji_button_as_text_desc": "如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。",
-    "lng_radio_mode_desc": "电台模式是实验性特性，用于在不加音频处理的前提下通过语音聊天播放音乐。",
-    "lng_radio_mode_hint": "电台模式已启用！如您已加入语音聊天，请重新加入。",
     "lng_radio_controller_desc": "电台控制器是一个实验性机器人，用于控制您的音乐播放会话。",
     "lng_auto_unmute_desc": "当您加入一个语音聊天时，自动解除静音。",
 

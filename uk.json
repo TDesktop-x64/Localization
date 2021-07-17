@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Вітаємо в неофіційному додатку\nна основі Telegram Desktop.",
+    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
     "lng_profile_copy_id": "Копіювати ID",
     "lng_profile_bot_id": "ID бота",
     "lng_profile_user_id": "ID користувача",
@@ -20,7 +20,7 @@
     "lng_settings_hide_classic_forward": "Сховати класичне пересилання",
     "lng_settings_show_scheduled_button": "Відображати кнопку запланованих",
     "lng_settings_voice_chat": "Голосовий чат",
-    "lng_settings_radio_mode": "Радіо-режим",
+    "lng_settings_stereo_mode": "Enable Stereo Mode",
     "lng_settings_radio_controller": "Радіо-контролер ",
     "lng_settings_auto_unmute": "Авто-увімкнення звуку",
     "lng_settings_other": "Інше",
@@ -30,8 +30,6 @@
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметра при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій страх і ризик.",
     "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію.",
-    "lng_radio_mode_desc": "Радіо-режим - це експериментальна опція для аудіо-трансляції в голосовий чат.",
-    "lng_radio_mode_hint": "Режим радіо включено! Необхідно перезайти в голосовий чат.",
     "lng_radio_controller_desc": "Радіо-контролер — це експериментальний бот для управління аудіо-трансляцією.",
     "lng_auto_unmute_desc": "Автоматичне включення звуку при вході в голосовий чат.",
 	

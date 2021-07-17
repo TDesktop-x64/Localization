@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Benvenuti nell'app non ufficiale Telegram Desktop.\nÈ veloce e sicura.",
+    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
     "lng_profile_copy_id": "Copia ID",
     "lng_profile_bot_id": "ID del bot",
     "lng_profile_user_id": "ID dell'utente",
@@ -20,7 +20,7 @@
     "lng_settings_hide_classic_forward": "Nascondi l'inoltro classico",
     "lng_settings_show_scheduled_button": "Mostra sempre il pulsante programmati",
     "lng_settings_voice_chat": "Chat vocale",
-    "lng_settings_radio_mode": "Modalità radio",
+    "lng_settings_stereo_mode": "Enable Stereo Mode",
     "lng_settings_radio_controller": "Controller radio",
     "lng_settings_auto_unmute": "Attiva automaticamente",
     "lng_settings_other": "Altro",
@@ -30,8 +30,6 @@
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
     "lng_net_speed_boost_desc": "Attenzione! Impostare questo parametro a valori alti su reti lente può addirittura peggiorare la situazione, per cui procedi a tuo rischio.",
     "lng_show_emoji_button_as_text_desc": "Attiva quest'opzione se non vedi alcune delle emoji.",
-    "lng_radio_mode_desc": "Nota: la modalità radio è una funzione sperimentale per riprodurre musica nella chat vocale senza elaborazione dell'audio.",
-    "lng_radio_mode_hint": "La modalità radio è attiva! Riunisciti alla chat vocale se ti sei già unito.",
     "lng_radio_controller_desc": "Il controller radio è un bot sperimentale per controllare la tua sessione di streaming musicale.",
     "lng_auto_unmute_desc": "Attiva il microfono automaticamente dopo esserti unito a una chat vocale.",
 
