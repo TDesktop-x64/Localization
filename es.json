@@ -106,9 +106,9 @@
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
 
-    "lng_pinned_message_show": "Mostrar mensaje anclado",
-    "lng_pinned_message_hide": "Ocultar mensaje anclado",
-    "lng_pinned_message_view": "Ver mensaje anclado",
+    "lng_pinned_message_show": "Mostrar mensaje fijado",
+    "lng_pinned_message_hide": "Ocultar mensaje fijado",
+    "lng_pinned_message_view": "Ver mensaje fijado",
 
     "lng_proxy_remove_all": "Eliminar todos los proxies"
 }
