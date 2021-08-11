@@ -1,5 +1,5 @@
 ﻿{
-    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
+    "lng_intro_about2": "欢迎使用 64Gram 桌面应用。\n我既快又安全。",
     "lng_profile_copy_id": "复制 ID",
     "lng_profile_bot_id": "机器人 ID",
     "lng_profile_user_id": "用户 ID",
@@ -20,7 +20,7 @@
     "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选聊天）」）",
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "语音聊天",
-    "lng_settings_stereo_mode": "Enable Stereo Mode",
+    "lng_settings_stereo_mode": "立体声模式",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动解除静音",
     "lng_settings_other": "杂项",
