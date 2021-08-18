@@ -21,6 +21,8 @@
     "lng_settings_show_scheduled_button": "Mostra sempre il pulsante programmati",
     "lng_settings_voice_chat": "Chat vocale",
     "lng_settings_stereo_mode": "Attiva modalità stereo",
+    "lng_settings_pin_voice_chat": "Pin To Top",
+    "lng_settings_unpin_voice_chat": "Unpin",
     "lng_settings_radio_controller": "Controller radio",
     "lng_settings_auto_unmute": "Attiva automaticamente",
     "lng_settings_other": "Altro",

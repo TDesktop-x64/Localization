@@ -21,6 +21,8 @@
     "lng_settings_show_scheduled_button": "Mostrar siempre el botón programado",
     "lng_settings_voice_chat": "Chat de Voz",
     "lng_settings_stereo_mode": "Habilitar el Modo Estéreo",
+    "lng_settings_pin_voice_chat": "Pin To Top",
+    "lng_settings_unpin_voice_chat": "Unpin",
     "lng_settings_radio_controller": "Controlador de Radio",
     "lng_settings_auto_unmute": "Activar sonido automáticamente",
     "lng_settings_other": "Otro",

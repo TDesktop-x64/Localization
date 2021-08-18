@@ -21,6 +21,8 @@
     "lng_settings_show_scheduled_button": "Отображать кнопку отложенных",
     "lng_settings_voice_chat": "Голосовой чат",
     "lng_settings_stereo_mode": "Enable Stereo Mode",
+    "lng_settings_pin_voice_chat": "Pin To Top",
+    "lng_settings_unpin_voice_chat": "Unpin",
     "lng_settings_radio_controller": "Радио-контроллер",
     "lng_settings_auto_unmute": "Авто-включение звука",
     "lng_settings_other": "Другое",

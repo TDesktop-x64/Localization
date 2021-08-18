@@ -20,6 +20,8 @@
     "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选聊天）」）",
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "语音聊天",
+    "lng_settings_pin_voice_chat": "Pin To Top",
+    "lng_settings_unpin_voice_chat": "Unpin",
     "lng_settings_stereo_mode": "立体声模式",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动解除静音",
