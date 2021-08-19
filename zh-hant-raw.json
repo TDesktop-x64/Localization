@@ -96,6 +96,7 @@
     "lng_forward_to_saved_message": "轉發至儲存的訊息",
 
     "lng_settings_enable_hd_video": "Higher video bitrate",
+    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
 
     "lng_bitrate_controller": "Audio Bitrate",
     "lng_bitrate_controller_desc": "警告: 將此參數設定調高可能會影響網路較慢的使用者。",

@@ -96,6 +96,7 @@
     "lng_forward_to_saved_message": "Forward to Saved",
 
     "lng_settings_enable_hd_video": "Higher video bitrate",
+    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
 
     "lng_bitrate_controller": "Audio Bitrate",
     "lng_bitrate_controller_desc": "Warning: changing this parameter to high values may affect user on slow networks.",
