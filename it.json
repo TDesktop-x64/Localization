@@ -95,9 +95,11 @@
     "lng_context_forward_msg_no_quote": "Inoltra come copia",
     "lng_forward_to_saved_message": "Salva messaggio",
 
-    "lng_bitrate_controller": "Velocità di trasmissione",
+    "lng_settings_enable_hd_video": "Higher video bitrate",
+
+    "lng_bitrate_controller": "Audio Bitrate",
     "lng_bitrate_controller_desc": "Attenzione! Impostare questo parametro a valori alti su reti lente potrebbe influenzare gli utenti.",
-    "lng_bitrate_controller_hint": "La velocità di trasmissione è cambiata! Riunisciti alla chat vocale se ti sei già unito.",
+    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
 
     "lng_bitrate_controller_default": "Predefinita (32 kbit/s)",
     "lng_bitrate_controller_64k": "64 kbit/s",

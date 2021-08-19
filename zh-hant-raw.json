@@ -95,9 +95,11 @@
     "lng_context_forward_msg_no_quote": "複製式轉發",
     "lng_forward_to_saved_message": "轉發至儲存的訊息",
 
-    "lng_bitrate_controller": "Bitrate",
+    "lng_settings_enable_hd_video": "Higher video bitrate",
+
+    "lng_bitrate_controller": "Audio Bitrate",
     "lng_bitrate_controller_desc": "警告: 將此參數設定調高可能會影響網路較慢的使用者。",
-    "lng_bitrate_controller_hint": "語音聊天的 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
+    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
 
     "lng_bitrate_controller_default": "預設 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
