@@ -92,6 +92,10 @@
     "lng_context_repeat_msg_no_fwd": "无引用复读",
     "lng_context_forward_msg_no_quote": "无引用转发",
     "lng_forward_to_saved_message": "转发到收藏夹",
+	
+	"lng_settings_enable_hd_video": "更高的视频比特率",
+    "lng_hd_video_hint": "视频比特率已更改！ 如果您已经加入，请重新加入语音聊天。",
+
 
     "lng_bitrate_controller": "比特率",
     "lng_bitrate_controller_desc": "警告：将此参数更改为高值可能会影响网络比较慢的用户。",
