@@ -21,8 +21,8 @@
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "语音聊天",
     "lng_settings_stereo_mode": "立体声模式",
-    "lng_settings_pin_voice_chat": "Pin To Top",
-    "lng_settings_unpin_voice_chat": "Unpin",
+    "lng_settings_pin_voice_chat": "窗口置顶",
+    "lng_settings_unpin_voice_chat": "取消窗口置顶",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动解除静音",
     "lng_settings_other": "杂项",
@@ -95,12 +95,12 @@
     "lng_context_forward_msg_no_quote": "转发（无引用）",
     "lng_forward_to_saved_message": "转发到收藏夹",
 
-    "lng_settings_enable_hd_video": "Higher video bitrate",
-    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_settings_enable_hd_video": "更高视频码率",
+    "lng_hd_video_hint": "视频码率已更改！如您已加入语音聊天，请重新加入。",
 
-    "lng_bitrate_controller": "Audio Bitrate",
+    "lng_bitrate_controller": "音频码率",
     "lng_bitrate_controller_desc": "警告：将此项更改为较大值可能会影响网络条件较差的用户。",
-    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_bitrate_controller_hint": "音频码率已更改！如您已加入语音聊天，请重新加入。",
 
     "lng_bitrate_controller_default": "默认 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
