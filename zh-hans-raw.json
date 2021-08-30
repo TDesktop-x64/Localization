@@ -31,7 +31,7 @@
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",
-    "lng_show_emoji_button_as_text_desc": "如果你的客户端无法正确显示 Emoji 按钮，请打开此选项。",
+    "lng_show_emoji_button_as_text_desc": "如果您的客户端无法正确显示 Emoji 按钮，请打开此选项。",
     "lng_radio_controller_desc": "电台控制器是一个实验性机器人，用于控制您的音乐播放会话。",
     "lng_auto_unmute_desc": "当您加入一个语音聊天时，自动解除静音。",
 
@@ -40,7 +40,7 @@
     "lng_net_speed_boost_medium": "中幅",
     "lng_net_speed_boost_big": "大幅",
 
-    "lng_net_boost_restart_desc": "你需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
+    "lng_net_boost_restart_desc": "您需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
     "lng_show_messages_id_desc": "警告：变更该选项将使应用立即重启并生效。",
 
     "lng_chat_restriction_reason": "限制原因",
@@ -73,16 +73,16 @@
 
     "lng_create_supergroup_title": "新建超级群组",
     "lng_action_group_migrate": "此群组已升级为超级群组",
-    "lng_sure_upgrade_group": "你确定你想把此群组升级为超级群组吗？",
+    "lng_sure_upgrade_group": "您确定您想把此群组升级为超级群组吗？",
     "lng_chat_upgrade_warning": "注意：这个操作是不可逆的",
 
-    "lng_user_not_found": "404 未找到用户。\n注意：你必须在打开此链接之前「见过」那名用户。",
+    "lng_user_not_found": "404 未找到用户。\n注意：您必须在打开此链接之前「见过」那名用户。",
 
     "lng_settings_always_delete_for": "自动勾选「为……删除消息」",
     "lng_settings_delete_disabled": "禁用",
     "lng_settings_delete_for_group": "群组",
     "lng_settings_delete_for_person": "用户",
-    "lng_settings_delete_for_both": "我全都要！",
+    "lng_settings_delete_for_both": "全部",
 
     "lng_title_forward_as_copy": "无引用转发到…",
     "lng_title_multiple_forward": "转发到…",
