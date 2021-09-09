@@ -21,6 +21,8 @@
     "lng_settings_show_scheduled_button": "Отображать кнопку отложенных",
     "lng_settings_voice_chat": "Голосовой чат",
     "lng_settings_stereo_mode": "Enable Stereo Mode",
+    "lng_settings_pin_voice_chat": "Pin To Top",
+    "lng_settings_unpin_voice_chat": "Unpin",
     "lng_settings_radio_controller": "Радио-контроллер",
     "lng_settings_auto_unmute": "Авто-включение звука",
     "lng_settings_other": "Другое",
@@ -93,9 +95,12 @@
     "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message": "Переслать в Избранное",
 
-    "lng_bitrate_controller": "Битрейт",
+    "lng_settings_enable_hd_video": "Higher video bitrate",
+    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
+
+    "lng_bitrate_controller": "Audio Bitrate",
     "lng_bitrate_controller_desc": "Высокое значение может навредить участникам с медленным интернетом.",
-    "lng_bitrate_controller_hint": "Битрейт успешно изменен! Необходимо перезайти в войс-чат.",
+    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
 
     "lng_bitrate_controller_default": "По умолчанию (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",

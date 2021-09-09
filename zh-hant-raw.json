@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
+    "lng_intro_about2": "歡迎使用 64Gram 桌面版。\n我既快又安全。",
     "lng_profile_copy_id": "複製 ID",
     "lng_profile_bot_id": "機器人 ID",
     "lng_profile_user_id": "使用者 ID",
@@ -20,7 +20,9 @@
     "lng_settings_hide_classic_forward": "隱藏原版轉發按鈕",
     "lng_settings_show_scheduled_button": "總是顯示訊息排程按鈕",
     "lng_settings_voice_chat": "語音聊天",
-    "lng_settings_stereo_mode": "Enable Stereo Mode",
+    "lng_settings_stereo_mode": "立體聲模式",
+    "lng_settings_pin_voice_chat": "Pin To Top",
+    "lng_settings_unpin_voice_chat": "Unpin",
     "lng_settings_radio_controller": "電台遙控器",
     "lng_settings_auto_unmute": "自動解除靜音",
     "lng_settings_other": "其他",
@@ -29,7 +31,7 @@
 
     "lng_net_speed_boost_title": "網路加速",
     "lng_net_speed_boost_desc": "警告: 如果您的網路較慢的話，更改此項設定只會令情況惡化。",
-    "lng_show_emoji_button_as_text_desc": "提示: 如果你的 TDesktop 不能正確顯示 Emoji 按鈕，請開啟此選項。",
+    "lng_show_emoji_button_as_text_desc": "提示: 如果你的 64Gram 不能正確顯示 Emoji 按鈕時，請開啟此選項。",
     "lng_radio_controller_desc": "注意: 電台遙控器是一個可以控制你的音樂串流 session 的實驗性機器人。",
     "lng_auto_unmute_desc": "注意: 加入語音聊天時自動解除靜音。",
 
@@ -74,7 +76,7 @@
     "lng_sure_upgrade_group": "您確定要將此群組升級為超級群組？",
     "lng_chat_upgrade_warning": "警告: 此動作無法回復。",
 
-    "lng_user_not_found": "404 找不到使用者。\n說明: 您必須曾經在其他地方 \"見過\" 該使用者才能開啟此連結。",
+    "lng_user_not_found": "404 找不到使用者。\n說明: 您必須曾經在其他地方「見過」該使用者才能開啟此連結。",
 
     "lng_settings_always_delete_for": "自動勾選刪除訊息",
     "lng_settings_delete_disabled": "停用",
@@ -93,9 +95,12 @@
     "lng_context_forward_msg_no_quote": "複製式轉發",
     "lng_forward_to_saved_message": "轉發至儲存的訊息",
 
-    "lng_bitrate_controller": "Bitrate",
+    "lng_settings_enable_hd_video": "Higher video bitrate",
+    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
+
+    "lng_bitrate_controller": "Audio Bitrate",
     "lng_bitrate_controller_desc": "警告: 將此參數設定調高可能會影響網路較慢的使用者。",
-    "lng_bitrate_controller_hint": "語音聊天的 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
+    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
 
     "lng_bitrate_controller_default": "預設 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",

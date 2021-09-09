@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
+    "lng_intro_about2": "Benvenuti nell'app 64Gram Desktop.\nÈ veloce e sicura.",
     "lng_profile_copy_id": "Copia ID",
     "lng_profile_bot_id": "ID del bot",
     "lng_profile_user_id": "ID dell'utente",
@@ -12,7 +12,7 @@
     "lng_settings_net_speed_boost": "Incremento velocità di caricamento",
     "lng_settings_show_message_id": "Mostra ID dei messaggi",
     "lng_settings_button": "Pulsanti",
-    "lng_settings_show_emoji_button_as_text": "Testo invece delle emoji nei tasti",
+    "lng_settings_show_emoji_button_as_text": "Testo invece delle emoji nei pulsanti",
     "lng_settings_show_repeater_option": "Mostra opzioni di inoltro",
     "lng_settings_show_phone_number": "Mostra numero",
     "lng_settings_repeater_reply_to_orig_msg": "Copia rispondendo al messaggio",
@@ -20,7 +20,9 @@
     "lng_settings_hide_classic_forward": "Nascondi l'inoltro classico",
     "lng_settings_show_scheduled_button": "Mostra sempre il pulsante programmati",
     "lng_settings_voice_chat": "Chat vocale",
-    "lng_settings_stereo_mode": "Enable Stereo Mode",
+    "lng_settings_stereo_mode": "Attiva modalità stereo",
+    "lng_settings_pin_voice_chat": "Fissa in alto",
+    "lng_settings_unpin_voice_chat": "Togli",
     "lng_settings_radio_controller": "Controller radio",
     "lng_settings_auto_unmute": "Attiva automaticamente",
     "lng_settings_other": "Altro",
@@ -28,7 +30,7 @@
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
-    "lng_net_speed_boost_desc": "Attenzione! Impostare questo parametro a valori alti su reti lente può addirittura peggiorare la situazione, per cui procedi a tuo rischio.",
+    "lng_net_speed_boost_desc": "Attenzione! Su reti lente, impostare questo parametro a valori alti potrebbe peggiorare la situazione, per cui procedi a tuo rischio.",
     "lng_show_emoji_button_as_text_desc": "Attiva quest'opzione se non vedi alcune delle emoji.",
     "lng_radio_controller_desc": "Il controller radio è un bot sperimentale per controllare la tua sessione di streaming musicale.",
     "lng_auto_unmute_desc": "Attiva il microfono automaticamente dopo esserti unito a una chat vocale.",
@@ -93,9 +95,12 @@
     "lng_context_forward_msg_no_quote": "Inoltra come copia",
     "lng_forward_to_saved_message": "Salva messaggio",
 
-    "lng_bitrate_controller": "Velocità di trasmissione",
-    "lng_bitrate_controller_desc": "Attenzione! Impostare questo parametro a valori alti su reti lente potrebbe influenzare gli utenti.",
-    "lng_bitrate_controller_hint": "La velocità di trasmissione è cambiata! Riunisciti alla chat vocale se ti sei già unito.",
+    "lng_settings_enable_hd_video": "Velocità di trasmissione video superiore",
+    "lng_hd_video_hint": "La velocità di trasmissione video è cambiata! Se ti sei già unito a una chat vocale, lasciala e riuniscitici.",
+
+    "lng_bitrate_controller": "Velocità di trasmissione audio",
+    "lng_bitrate_controller_desc": "Attenzione! Su reti lente, impostare questo parametro a valori alti potrebbe peggiorare la situazione.",
+    "lng_bitrate_controller_hint": "La velocità di trasmissione audio è cambiata! Se ti sei già unito a una chat vocale, lasciala e riuniscitici.",
 
     "lng_bitrate_controller_default": "Predefinita (32 kbit/s)",
     "lng_bitrate_controller_64k": "64 kbit/s",
