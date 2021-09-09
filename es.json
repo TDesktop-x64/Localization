@@ -98,7 +98,7 @@
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
 
-    "lng_bitrate_controller": "Audio Bitrate",
+    "lng_bitrate_controller": "Tasa de bits de Audio",
     "lng_bitrate_controller_desc": "Advertencia: cambiar este parámetro a valores altos puede afectar al usuario en redes lentas.",
     "lng_bitrate_controller_hint": "¡La tasa de bits de audio ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
 
