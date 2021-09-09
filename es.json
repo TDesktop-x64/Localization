@@ -21,8 +21,8 @@
     "lng_settings_show_scheduled_button": "Mostrar siempre el botón programado",
     "lng_settings_voice_chat": "Chat de Voz",
     "lng_settings_stereo_mode": "Habilitar el Modo Estéreo",
-    "lng_settings_pin_voice_chat": "Pin To Top",
-    "lng_settings_unpin_voice_chat": "Unpin",
+    "lng_settings_pin_voice_chat": "Fijar en la parte superior",
+    "lng_settings_unpin_voice_chat": "Desfijar",
     "lng_settings_radio_controller": "Controlador de Radio",
     "lng_settings_auto_unmute": "Activar sonido automáticamente",
     "lng_settings_other": "Otro",
@@ -95,12 +95,12 @@
     "lng_context_forward_msg_no_quote": "Reenviar como copia",
     "lng_forward_to_saved_message": "Reenviar a Guardados",
 
-    "lng_settings_enable_hd_video": "Higher video bitrate",
-    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
+    "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
 
-    "lng_bitrate_controller": "Audio Bitrate",
+    "lng_bitrate_controller": "Tasa de bits de Audio",
     "lng_bitrate_controller_desc": "Advertencia: cambiar este parámetro a valores altos puede afectar al usuario en redes lentas.",
-    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_bitrate_controller_hint": "¡La tasa de bits de audio ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
 
     "lng_bitrate_controller_default": "Por defecto (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
