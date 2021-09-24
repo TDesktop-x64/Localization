@@ -1,4 +1,4 @@
-﻿{
+{
     "lng_intro_about2": "欢迎使用 64Gram 桌面应用。\n我既快又安全。",
     "lng_profile_copy_id": "复制 ID",
     "lng_profile_bot_id": "机器人 ID",
@@ -36,9 +36,9 @@
     "lng_auto_unmute_desc": "当您加入一个语音聊天时，自动解除静音。",
 
     "lng_net_speed_boost_default": "禁用",
-    "lng_net_speed_boost_slight": "小幅",
-    "lng_net_speed_boost_medium": "中幅",
-    "lng_net_speed_boost_big": "大幅",
+    "lng_net_speed_boost_slight": "小",
+    "lng_net_speed_boost_medium": "中",
+    "lng_net_speed_boost_big": "大",
 
     "lng_net_boost_restart_desc": "您需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
     "lng_show_messages_id_desc": "警告：变更该选项将使应用立即重启并生效。",
@@ -46,7 +46,7 @@
     "lng_chat_restriction_reason": "限制原因",
     "lng_copy_restriction_reason": "复制限制原因",
 
-    "lng_context_copy_callback_data": "复制回调数据",
+    "lng_context_copy_callback_data": "复制内容数据",
     "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
     "lng_selected_forward_no_quote": "转发（无引用）",
     "lng_context_forward_msg_old_selected": "转发所选内容（旧式界面）",
@@ -57,11 +57,11 @@
     "lng_admin_log_banned_send_stickers2": "发送贴纸",
     "lng_admin_log_banned_send_gifs": "发送 GIF",
     "lng_admin_log_banned_send_games": "发送游戏",
-    "lng_admin_log_banned_use_inline": "使用行内机器人",
+    "lng_admin_log_banned_use_inline": "使用inline机器人",
     "lng_rights_chat_send_stickers2": "发送贴纸",
     "lng_rights_chat_send_gifs": "发送 GIF",
     "lng_rights_chat_send_games": "发送游戏",
-    "lng_rights_chat_use_inline": "使用行内机器人",
+    "lng_rights_chat_use_inline": "使用inline机器人",
 
     "lng_media_selected_gif#one": "{count} 张 GIF",
     "lng_media_selected_gif#other": "{count} 张 GIF",
@@ -96,7 +96,7 @@
     "lng_forward_to_saved_message": "转发到收藏夹",
 
     "lng_settings_enable_hd_video": "更高视频码率",
-    "lng_hd_video_hint": "视频码率已更改！如您已加入语音聊天，请重新加入。",
+    "lng_hd_video_hint": "视频已更改！如您已加入语音聊天，请重新加入。",
 
     "lng_bitrate_controller": "音频码率",
     "lng_bitrate_controller_desc": "警告：将此项更改为较大值可能会影响网络条件较差的用户。",
