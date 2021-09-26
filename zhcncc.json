@@ -74,7 +74,7 @@
     "lng_sure_upgrade_group": "你确定你想把此群组升为超级群吗？",
     "lng_chat_upgrade_warning": "注意：此操作无法撤消",
 
-    "lng_user_not_found": "404 未找到用户。\n注意：在打开此链接之前，您必须“见过”该用户。",
+    "lng_user_not_found": "404 未找到成员。\n注意：在打开此链接之前，您必须“见过”该成员。",
 
     "lng_settings_always_delete_for": "自动勾选删除全部消息",
     "lng_settings_delete_disabled": "禁用",
@@ -87,7 +87,7 @@
 
     "lng_context_forward_msg": "转发到多个对话",
     "lng_context_forward_msg_old": "转发到单个对话",
-    "lng_context_show_messages_from": "用户消息",
+    "lng_context_show_messages_from": "成员消息",
     "lng_context_repeat_msg": "复读",
     "lng_context_repeat_msg_no_fwd": "无引用复读",
     "lng_context_forward_msg_no_quote": "无引用转发",
