@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
-    "lng_profile_copy_id": "Копіювати ID",
-    "lng_profile_bot_id": "ID бота",
-    "lng_profile_user_id": "ID користувача",
-    "lng_profile_group_id": "ID групи",
-    "lng_profile_supergroup_id": "ID супергрупи",
-    "lng_profile_channel_id": "ID каналу",
 
     "lng_settings_enhanced": "Додаткові",
     "lng_settings_network": "Мережа",
