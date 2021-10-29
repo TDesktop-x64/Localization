@@ -78,7 +78,7 @@
 	
     "lng_user_not_found": "Користувача не знайдено. \nПримітка: перш ніж робити посилання на користувача, вам потрібно відкрити його профіль через цей клієнт.",
     
-    "lng_settings_always_delete_for": "Відзначати «видалити для...",
+    "lng_settings_always_delete_for": "Always select delete for",
     "lng_settings_delete_disabled": "Ніколи",
     "lng_settings_delete_for_group": "У групах",
     "lng_settings_delete_for_person": "В особистих чатах",
