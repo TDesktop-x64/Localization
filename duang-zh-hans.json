@@ -109,5 +109,7 @@
     "lng_pinned_message_hide": "隐藏置顶消息",
     "lng_pinned_message_view": "查看置顶消息",
 
-    "lng_proxy_remove_all": "移除全部代理"
+    "lng_proxy_remove_all": "移除全部代理",
+    
+    "lng_copy_profile_id": "ID copied to clipboard."
 }

@@ -109,5 +109,7 @@
     "lng_pinned_message_hide": "Скрыть пины",
     "lng_pinned_message_view": "Просмотреть пины",
 
-    "lng_proxy_remove_all": "Удалить все прокси"
+    "lng_proxy_remove_all": "Удалить все прокси",
+    
+    "lng_copy_profile_id": "ID copied to clipboard."
 }

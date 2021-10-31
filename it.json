@@ -109,5 +109,7 @@
     "lng_pinned_message_hide": "Nascondi messaggi fissati",
     "lng_pinned_message_view": "Visualizza messaggi fissati",
 
-    "lng_proxy_remove_all": "Rimuovi tutti i proxy"
+    "lng_proxy_remove_all": "Rimuovi tutti i proxy",
+    
+    "lng_copy_profile_id": "ID copied to clipboard."
 }
