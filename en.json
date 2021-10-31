@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
-    "lng_profile_copy_id": "Copy ID",
-    "lng_profile_bot_id": "Bot ID",
-    "lng_profile_user_id": "User ID",
-    "lng_profile_group_id": "Group ID",
-    "lng_profile_supergroup_id": "Supergroup ID",
-    "lng_profile_channel_id": "Channel ID",
 
     "lng_settings_enhanced": "Enhanced Settings",
     "lng_settings_network": "Network",
@@ -78,7 +72,7 @@
 
     "lng_user_not_found": "404 User not found.\nNote: You must have \"seen\" that user before open this link.",
 
-    "lng_settings_always_delete_for": "Auto check delete message for",
+    "lng_settings_always_delete_for": "Always select delete for",
     "lng_settings_delete_disabled": "Disabled",
     "lng_settings_delete_for_group": "Group",
     "lng_settings_delete_for_person": "Person",

@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "欢迎使用 64Gram 桌面应用。\n我既快又安全。",
-    "lng_profile_copy_id": "复制 ID",
-    "lng_profile_bot_id": "机器人 ID",
-    "lng_profile_user_id": "用户 ID",
-    "lng_profile_group_id": "群组 ID",
-    "lng_profile_supergroup_id": "超级群组 ID",
-    "lng_profile_channel_id": "频道 ID",
 
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
@@ -25,7 +19,7 @@
     "lng_settings_unpin_voice_chat": "取消窗口置顶",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动解除静音",
-    "lng_settings_other": "杂项",
+    "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏「全部对话」文件夹",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
@@ -46,22 +40,22 @@
     "lng_chat_restriction_reason": "限制原因",
     "lng_copy_restriction_reason": "复制限制原因",
 
-    "lng_context_copy_callback_data": "复制内容数据",
+    "lng_context_copy_callback_data": "复制回调数据",
     "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
     "lng_selected_forward_no_quote": "转发（无引用）",
-    "lng_context_forward_msg_old_selected": "转发所选内容（旧式界面）",
-    "lng_selected_forward_emoji_classic": "📠 旧式",
+    "lng_context_forward_msg_old_selected": "转发所选内容（经典界面）",
+    "lng_selected_forward_emoji_classic": "📠 经典",
 
     "lng_message_id": "消息ID: ",
 
     "lng_admin_log_banned_send_stickers2": "发送贴纸",
     "lng_admin_log_banned_send_gifs": "发送 GIF",
     "lng_admin_log_banned_send_games": "发送游戏",
-    "lng_admin_log_banned_use_inline": "使用inline机器人",
+    "lng_admin_log_banned_use_inline": "使用行内机器人",
     "lng_rights_chat_send_stickers2": "发送贴纸",
     "lng_rights_chat_send_gifs": "发送 GIF",
     "lng_rights_chat_send_games": "发送游戏",
-    "lng_rights_chat_use_inline": "使用inline机器人",
+    "lng_rights_chat_use_inline": "使用行内机器人",
 
     "lng_media_selected_gif#one": "{count} 张 GIF",
     "lng_media_selected_gif#other": "{count} 张 GIF",
@@ -82,7 +76,7 @@
     "lng_settings_delete_disabled": "禁用",
     "lng_settings_delete_for_group": "群组",
     "lng_settings_delete_for_person": "用户",
-    "lng_settings_delete_for_both": "全部",
+    "lng_settings_delete_for_both": "老子都要",
 
     "lng_title_forward_as_copy": "无引用转发到…",
     "lng_title_multiple_forward": "转发到…",
@@ -93,10 +87,10 @@
     "lng_context_repeat_msg": "复读",
     "lng_context_repeat_msg_no_fwd": "复读（无引用）",
     "lng_context_forward_msg_no_quote": "转发（无引用）",
-    "lng_forward_to_saved_message": "保存消息",
+    "lng_forward_to_saved_message": "转发到收藏夹",
 
     "lng_settings_enable_hd_video": "更高视频码率",
-    "lng_hd_video_hint": "视频已更改！如您已加入语音聊天，请重新加入。",
+    "lng_hd_video_hint": "视频码率已更改！如您已加入语音聊天，请重新加入。",
 
     "lng_bitrate_controller": "音频码率",
     "lng_bitrate_controller_desc": "警告：将此项更改为较大值可能会影响网络条件较差的用户。",
@@ -116,4 +110,3 @@
     "lng_pinned_message_view": "查看置顶消息",
 
     "lng_proxy_remove_all": "移除全部代理"
-}

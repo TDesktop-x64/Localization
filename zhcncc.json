@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "欢迎使用 64Gram Desktop 客户端。\n它又快又安全。",
-    "lng_profile_copy_id": "复制ID",
-    "lng_profile_bot_id": "机器人ID",
-    "lng_profile_user_id": "用户ID",
-    "lng_profile_group_id": "群组ID",
-    "lng_profile_supergroup_id": "超级群ID",
-    "lng_profile_channel_id": "频道ID",
 
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",

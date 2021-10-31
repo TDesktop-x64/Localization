@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
-    "lng_profile_copy_id": "Копіювати ID",
-    "lng_profile_bot_id": "ID бота",
-    "lng_profile_user_id": "ID користувача",
-    "lng_profile_group_id": "ID групи",
-    "lng_profile_supergroup_id": "ID супергрупи",
-    "lng_profile_channel_id": "ID каналу",
 
     "lng_settings_enhanced": "Додаткові",
     "lng_settings_network": "Мережа",
@@ -78,7 +72,7 @@
 	
     "lng_user_not_found": "Користувача не знайдено. \nПримітка: перш ніж робити посилання на користувача, вам потрібно відкрити його профіль через цей клієнт.",
     
-    "lng_settings_always_delete_for": "Відзначати «видалити для...",
+    "lng_settings_always_delete_for": "Always select delete for",
     "lng_settings_delete_disabled": "Ніколи",
     "lng_settings_delete_for_group": "У групах",
     "lng_settings_delete_for_person": "В особистих чатах",

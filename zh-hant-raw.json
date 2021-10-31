@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "歡迎使用 64Gram 桌面版。\n我既快又安全。",
-    "lng_profile_copy_id": "複製 ID",
-    "lng_profile_bot_id": "機器人 ID",
-    "lng_profile_user_id": "使用者 ID",
-    "lng_profile_group_id": "群組 ID",
-    "lng_profile_supergroup_id": "超級群組 ID",
-    "lng_profile_channel_id": "頻道 ID",
 
     "lng_settings_enhanced": "增強設定",
     "lng_settings_network": "網路",
@@ -21,8 +15,8 @@
     "lng_settings_show_scheduled_button": "總是顯示訊息排程按鈕",
     "lng_settings_voice_chat": "語音聊天",
     "lng_settings_stereo_mode": "立體聲模式",
-    "lng_settings_pin_voice_chat": "Pin To Top",
-    "lng_settings_unpin_voice_chat": "Unpin",
+    "lng_settings_pin_voice_chat": "置頂",
+    "lng_settings_unpin_voice_chat": "解除置頂",
     "lng_settings_radio_controller": "電台遙控器",
     "lng_settings_auto_unmute": "自動解除靜音",
     "lng_settings_other": "其他",
@@ -95,12 +89,12 @@
     "lng_context_forward_msg_no_quote": "複製式轉發",
     "lng_forward_to_saved_message": "轉發至儲存的訊息",
 
-    "lng_settings_enable_hd_video": "Higher video bitrate",
-    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_settings_enable_hd_video": "較高的影像 bitrate",
+    "lng_hd_video_hint": "影像 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
 
-    "lng_bitrate_controller": "Audio Bitrate",
+    "lng_bitrate_controller": "音訊 bitrate",
     "lng_bitrate_controller_desc": "警告: 將此參數設定調高可能會影響網路較慢的使用者。",
-    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_bitrate_controller_hint": "音訊 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
 
     "lng_bitrate_controller_default": "預設 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",

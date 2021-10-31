@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "Bienvenido a la aplicación 64Gram Desktop.\nEs rápido y seguro.",
-    "lng_profile_copy_id": "Copiar ID",
-    "lng_profile_bot_id": "ID del Bot",
-    "lng_profile_user_id": "ID del Usuario",
-    "lng_profile_group_id": "ID del Grupo",
-    "lng_profile_supergroup_id": "ID del Supergrupo",
-    "lng_profile_channel_id": "ID del Canal",
 
     "lng_settings_enhanced": "Ajustes Mejorados",
     "lng_settings_network": "Red",
@@ -78,7 +72,7 @@
 
     "lng_user_not_found": "404 Usuario no encontrado.\nNota: Debe haber \"visto\" a ese usuario antes de abrir este enlace.",
 
-    "lng_settings_always_delete_for": "Marcar automáticamente eliminar mensaje para",
+    "lng_settings_always_delete_for": "Always select delete for",
     "lng_settings_delete_disabled": "Desactivado",
     "lng_settings_delete_for_group": "Grupo",
     "lng_settings_delete_for_person": "Persona",
