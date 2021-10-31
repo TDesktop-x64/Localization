@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "欢迎使用 64Gram 桌面应用。\n我既快又安全。",
-    "lng_profile_copy_id": "复制 ID",
-    "lng_profile_bot_id": "机器人 ID",
-    "lng_profile_user_id": "用户 ID",
-    "lng_profile_group_id": "群组 ID",
-    "lng_profile_supergroup_id": "超级群组 ID",
-    "lng_profile_channel_id": "频道 ID",
 
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
@@ -115,5 +109,7 @@
     "lng_pinned_message_hide": "隐藏置顶消息",
     "lng_pinned_message_view": "查看置顶消息",
 
-    "lng_proxy_remove_all": "移除全部代理"
+    "lng_proxy_remove_all": "移除全部代理",
+    
+    "lng_copy_profile_id": "ID copied to clipboard."
 }

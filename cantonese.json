@@ -1,11 +1,5 @@
 {
     "lng_intro_about2": "歡迎使用 64Gram 桌面應用程式。\n訊息傳送又快又安全！",
-    "lng_profile_copy_id": "複製 ID",
-    "lng_profile_bot_id": "機械人 ID",
-    "lng_profile_user_id": "用戶 ID",
-    "lng_profile_group_id": "谷 ID",
-    "lng_profile_supergroup_id": "超級谷 ID",
-    "lng_profile_channel_id": "台 ID",
 
     "lng_settings_enhanced": "增强設定",
     "lng_settings_network": "網絡",
@@ -21,6 +15,8 @@
     "lng_settings_show_scheduled_button": "幾時都顯示預約訊息",
     "lng_settings_voice_chat": "語音聊天",
     "lng_settings_stereo_mode": "啟用立體聲模式",
+    "lng_settings_pin_voice_chat": "置頂視窗",
+    "lng_settings_unpin_voice_chat": "解除置頂視窗",
     "lng_settings_radio_controller": "電台操縱器",
     "lng_settings_auto_unmute": "自動解除靜音",
     "lng_settings_other": "其他",
@@ -92,10 +88,13 @@
     "lng_context_repeat_msg_no_fwd": "復讀（唔帶引用）",
     "lng_context_forward_msg_no_quote": "轉發（唔帶引用）",
     "lng_forward_to_saved_message": "儲存到我嘅收藏夾",
+    
+    "lng_settings_enable_hd_video": "調高視頻位元速率",
+    "lng_hd_video_hint": "改咗視頻位元速率！如果你已經喺語音聊天入邊，就重新入過。",
 
-    "lng_bitrate_controller": "位元速率",
+    "lng_bitrate_controller": "音訊位元速率",
     "lng_bitrate_controller_desc": "警告：調太高會搞到網絡太慢嘅聽衆一镬熟。",
-    "lng_bitrate_controller_hint": "改咗位元速率！如果你已經喺語音聊天入邊，就重新入過。",
+    "lng_bitrate_controller_hint": "改咗音訊位元速率！如果你已經喺語音聊天入邊，就重新入過。",
 
     "lng_bitrate_controller_default": "預設 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
@@ -110,5 +109,7 @@
     "lng_pinned_message_hide": "隱藏置頂訊息",
     "lng_pinned_message_view": "檢視置頂訊息",
 
-    "lng_proxy_remove_all": "刪晒全部網絡代理"
+    "lng_proxy_remove_all": "刪晒全部網絡代理",
+    
+    "lng_copy_profile_id": "ID copied to clipboard."
 }

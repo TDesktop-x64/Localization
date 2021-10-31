@@ -1,4 +1,4 @@
-﻿{
+{
     "lng_intro_about2": "欢迎使用 64Gram 桌面应用。\n我既快又安全。",
 
     "lng_settings_enhanced": "增强设置",
@@ -19,7 +19,7 @@
     "lng_settings_unpin_voice_chat": "取消窗口置顶",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动解除静音",
-    "lng_settings_other": "杂项",
+    "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏「全部对话」文件夹",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
@@ -30,9 +30,9 @@
     "lng_auto_unmute_desc": "当您加入一个语音聊天时，自动解除静音。",
 
     "lng_net_speed_boost_default": "禁用",
-    "lng_net_speed_boost_slight": "小幅",
-    "lng_net_speed_boost_medium": "中幅",
-    "lng_net_speed_boost_big": "大幅",
+    "lng_net_speed_boost_slight": "小",
+    "lng_net_speed_boost_medium": "中",
+    "lng_net_speed_boost_big": "大",
 
     "lng_net_boost_restart_desc": "您需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
     "lng_show_messages_id_desc": "警告：变更该选项将使应用立即重启并生效。",
@@ -43,8 +43,8 @@
     "lng_context_copy_callback_data": "复制回调数据",
     "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
     "lng_selected_forward_no_quote": "转发（无引用）",
-    "lng_context_forward_msg_old_selected": "转发所选内容（旧式界面）",
-    "lng_selected_forward_emoji_classic": "📠 旧式",
+    "lng_context_forward_msg_old_selected": "转发所选内容（经典界面）",
+    "lng_selected_forward_emoji_classic": "📠 经典",
 
     "lng_message_id": "消息ID: ",
 
@@ -76,7 +76,7 @@
     "lng_settings_delete_disabled": "禁用",
     "lng_settings_delete_for_group": "群组",
     "lng_settings_delete_for_person": "用户",
-    "lng_settings_delete_for_both": "全部",
+    "lng_settings_delete_for_both": "老子都要",
 
     "lng_title_forward_as_copy": "无引用转发到…",
     "lng_title_multiple_forward": "转发到…",
@@ -112,4 +112,3 @@
     "lng_proxy_remove_all": "移除全部代理",
     
     "lng_copy_profile_id": "ID copied to clipboard."
-}
