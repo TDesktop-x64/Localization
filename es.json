@@ -72,7 +72,7 @@
 
     "lng_user_not_found": "404 Usuario no encontrado.\nNota: Debe haber \"visto\" a ese usuario antes de abrir este enlace.",
 
-    "lng_settings_always_delete_for": "Seleccionar siempre eliminar para",
+    "lng_settings_always_delete_for": "Siempre seleccionar eliminar para",
     "lng_settings_delete_disabled": "Desactivado",
     "lng_settings_delete_for_group": "Grupo",
     "lng_settings_delete_for_person": "Persona",
