@@ -72,7 +72,7 @@
 
     "lng_user_not_found": "Utente non trovato.\nNota: devi aver \"incontrato\" questo utente prima di aprire questo link.",
 
-    "lng_settings_always_delete_for": "Always select delete for",
+    "lng_settings_always_delete_for": "Seleziona \"Elimina anche per\"",
     "lng_settings_delete_disabled": "Mai",
     "lng_settings_delete_for_group": "Nei gruppi",
     "lng_settings_delete_for_person": "Nelle chat private",
@@ -109,5 +109,7 @@
     "lng_pinned_message_hide": "Nascondi messaggi fissati",
     "lng_pinned_message_view": "Visualizza messaggi fissati",
 
-    "lng_proxy_remove_all": "Rimuovi tutti i proxy"
+    "lng_proxy_remove_all": "Rimuovi tutti i proxy",
+    
+    "lng_copy_profile_id": "ID copiato negli appunti."
 }
