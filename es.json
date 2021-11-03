@@ -8,7 +8,7 @@
     "lng_settings_button": "Botón",
     "lng_settings_show_emoji_button_as_text": "Mostrar el emoji del botón como texto",
     "lng_settings_show_repeater_option": "Mostrar opción de repetición",
-    "lng_settings_show_phone_number": "Mostrar número",
+    "lng_settings_show_phone_number": "Mostrar número de tel.",
     "lng_settings_repeater_reply_to_orig_msg": "Responder al mensaje original",
     "lng_settings_disable_cloud_draft_sync": "No sincronizar los borradores con la nube",
     "lng_settings_hide_classic_forward": "Ocultar reenvío clásico",
