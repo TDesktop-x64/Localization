@@ -23,6 +23,9 @@
     "lng_settings_hide_all_chats": "Скрыть папку «Все чаты»",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
+    "lng_settings_skip_message": "Skip to next unread chat",
+    "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",
     "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите эмодзи на кнопках, включите эту опцию.",

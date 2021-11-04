@@ -23,6 +23,9 @@
     "lng_settings_hide_all_chats": "Приховати папку «Усі чати»",
     "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
 
+    "lng_settings_skip_message": "Skip to next unread chat",
+    "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметра при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій страх і ризик.",
     "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію.",
