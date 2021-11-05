@@ -23,6 +23,9 @@
     "lng_settings_hide_all_chats": "Ocultar carpeta \"Todos\"",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
+    "lng_settings_skip_message": "Skip to next unread chat",
+    "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+
     "lng_net_speed_boost_title": "Aumentar velocidad de la red",
     "lng_net_speed_boost_desc": "Advertencia: cambiar este parámetro a valores altos en redes lentas puede empeorarlo aún más. Úselo bajo su propio riesgo.",
     "lng_show_emoji_button_as_text_desc": "Nota: Si no puede ver algún botón emoji, active esta opción.",
