@@ -13,7 +13,7 @@
     "lng_settings_disable_cloud_draft_sync": "停用草稿雲端同步",
     "lng_settings_hide_classic_forward": "隱藏舊式轉發",
     "lng_settings_show_scheduled_button": "幾時都顯示預約訊息",
-    "lng_settings_voice_chat": "語音聊天",
+    "lng_settings_voice_chat": "視像聊天",
     "lng_settings_stereo_mode": "啟用立體聲模式",
     "lng_settings_pin_voice_chat": "置頂視窗",
     "lng_settings_unpin_voice_chat": "解除置頂視窗",
@@ -23,11 +23,14 @@
     "lng_settings_hide_all_chats": "隱藏「全部傾偈」資料夾",
     "lng_settings_restart_hint": "警告：改紅色嘅設定會即刻令程式重新啟動嚟套用新設定。",
 
+    "lng_settings_skip_message": "跳去下一個未睇嘅傾偈",
+    "lng_settings_skip_message_desc": "留意返: 用 ALT+↑/↓ 快捷鍵嚟跳去下一個未睇嘅傾偈",
+
     "lng_net_speed_boost_title": "網絡加速",
     "lng_net_speed_boost_desc": "警告：喺太慢嘅網絡底下調太高會搞到一镬熟，唔好亂嚟。",
     "lng_show_emoji_button_as_text_desc": "留意返：如果你見唔到表情符號按鈕，就開咗佢。",
     "lng_radio_controller_desc": "留意返：電台操縱器係一個實驗性嘅機械人，可以控制你嘅音樂串流會話。",
-    "lng_auto_unmute_desc": "留意返：喺你加入語音聊天嗰陣會自動解除靜音。",
+    "lng_auto_unmute_desc": "留意返：喺你加入視像聊天嗰陣會自動解除靜音。",
 
     "lng_net_speed_boost_default": "閂",
     "lng_net_speed_boost_slight": "加啲",
@@ -90,11 +93,11 @@
     "lng_forward_to_saved_message": "儲存到我嘅收藏夾",
     
     "lng_settings_enable_hd_video": "調高視頻位元速率",
-    "lng_hd_video_hint": "改咗視頻位元速率！如果你已經喺語音聊天入邊，就重新入過。",
+    "lng_hd_video_hint": "改咗視頻位元速率！如果你已經喺視像聊天入邊，就重新入過。",
 
     "lng_bitrate_controller": "音訊位元速率",
     "lng_bitrate_controller_desc": "警告：調太高會搞到網絡太慢嘅聽衆一镬熟。",
-    "lng_bitrate_controller_hint": "改咗音訊位元速率！如果你已經喺語音聊天入邊，就重新入過。",
+    "lng_bitrate_controller_hint": "改咗音訊位元速率！如果你已經喺視像聊天入邊，就重新入過。",
 
     "lng_bitrate_controller_default": "預設 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
@@ -111,5 +114,5 @@
 
     "lng_proxy_remove_all": "刪晒全部網絡代理",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID 複製咗去剪貼簿。"
 }

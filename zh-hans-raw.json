@@ -11,7 +11,7 @@
     "lng_settings_show_phone_number": "显示电话号码",
     "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
     "lng_settings_disable_cloud_draft_sync": "禁用草稿云同步",
-    "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选聊天）」）",
+    "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选对话）」）",
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "语音聊天",
     "lng_settings_stereo_mode": "立体声模式",
@@ -22,6 +22,9 @@
     "lng_settings_other": "杂项",
     "lng_settings_hide_all_chats": "隐藏「全部对话」文件夹",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
+
+    "lng_settings_skip_message": "跳到下一个未读对话",
+    "lng_settings_skip_message_desc": "允许使用 ALT+↑/↓ 快捷键来跳到下一个未读对话",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",
@@ -43,7 +46,7 @@
     "lng_context_copy_callback_data": "复制回调数据",
     "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
     "lng_selected_forward_no_quote": "转发（无引用）",
-    "lng_context_forward_msg_old_selected": "转发所选内容（旧式界面）",
+    "lng_context_forward_msg_old_selected": "转发所选内容（旧式）",
     "lng_selected_forward_emoji_classic": "📠 旧式",
 
     "lng_message_id": "消息ID: ",
@@ -68,7 +71,7 @@
     "lng_create_supergroup_title": "新建超级群组",
     "lng_action_group_migrate": "此群组已升级为超级群组",
     "lng_sure_upgrade_group": "您确定您想把此群组升级为超级群组吗？",
-    "lng_chat_upgrade_warning": "注意：这个操作是不可逆的",
+    "lng_chat_upgrade_warning": "注意：此操作不可逆",
 
     "lng_user_not_found": "404 未找到用户。\n注意：您必须在打开此链接之前「见过」那名用户。",
 
@@ -81,8 +84,8 @@
     "lng_title_forward_as_copy": "无引用转发到…",
     "lng_title_multiple_forward": "转发到…",
 
-    "lng_context_forward_msg": "转发（多选聊天）",
-    "lng_context_forward_msg_old": "转发（单选聊天）",
+    "lng_context_forward_msg": "转发（多选对话）",
+    "lng_context_forward_msg_old": "转发（单选对话）",
     "lng_context_show_messages_from": "该用户的其他消息",
     "lng_context_repeat_msg": "复读",
     "lng_context_repeat_msg_no_fwd": "复读（无引用）",
@@ -111,5 +114,5 @@
 
     "lng_proxy_remove_all": "移除全部代理",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID 已复制到剪贴板。"
 }

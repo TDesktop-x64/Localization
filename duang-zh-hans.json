@@ -3,7 +3,7 @@
 
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
-    "lng_settings_net_speed_boost": "上传速度加成",
+    "lng_settings_net_speed_boost": "上行黑魔法",
     "lng_settings_show_message_id": "显示消息 ID",
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
@@ -11,7 +11,7 @@
     "lng_settings_show_phone_number": "显示电话号码",
     "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
     "lng_settings_disable_cloud_draft_sync": "禁用草稿云同步",
-    "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选聊天）」）",
+    "lng_settings_hide_classic_forward": "隐藏经典转发（「转发（单选对话）」）",
     "lng_settings_show_scheduled_button": "始终显示「定时消息」按钮",
     "lng_settings_voice_chat": "语音聊天",
     "lng_settings_stereo_mode": "立体声模式",
@@ -23,16 +23,19 @@
     "lng_settings_hide_all_chats": "隐藏「全部对话」文件夹",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
-    "lng_net_speed_boost_title": "上传 / 下载速度加成",
+    "lng_settings_skip_message": "传送到下个未读对话",
+    "lng_settings_skip_message_desc": "允许使用 ALT+↑/↓ 快捷键来跳到下一个未读对话",
+
+    "lng_net_speed_boost_title": "上 / 下行黑魔法",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",
     "lng_show_emoji_button_as_text_desc": "如果您的客户端无法正确显示 Emoji 按钮，请打开此选项。",
     "lng_radio_controller_desc": "电台控制器是一个实验性机器人，用于控制您的音乐播放会话。",
     "lng_auto_unmute_desc": "当您加入一个语音聊天时，自动解除静音。",
 
     "lng_net_speed_boost_default": "禁用",
-    "lng_net_speed_boost_slight": "小幅",
-    "lng_net_speed_boost_medium": "中幅",
-    "lng_net_speed_boost_big": "大幅",
+    "lng_net_speed_boost_slight": "小份",
+    "lng_net_speed_boost_medium": "中份",
+    "lng_net_speed_boost_big": "大份",
 
     "lng_net_boost_restart_desc": "您需要重启应用来使速度加成更改生效。\n\n现在重启吗？",
     "lng_show_messages_id_desc": "警告：变更该选项将使应用立即重启并生效。",
@@ -43,7 +46,7 @@
     "lng_context_copy_callback_data": "复制回调数据",
     "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
     "lng_selected_forward_no_quote": "转发（无引用）",
-    "lng_context_forward_msg_old_selected": "转发所选内容（旧式界面）",
+    "lng_context_forward_msg_old_selected": "转发所选内容（旧式）",
     "lng_selected_forward_emoji_classic": "📠 旧式",
 
     "lng_message_id": "消息ID: ",
@@ -68,9 +71,9 @@
     "lng_create_supergroup_title": "新建超级群组",
     "lng_action_group_migrate": "此群组已升级为超级群组",
     "lng_sure_upgrade_group": "您确定您想把此群组升级为超级群组吗？",
-    "lng_chat_upgrade_warning": "注意：这个操作是不可逆的",
+    "lng_chat_upgrade_warning": "注意：此操作不可逆",
 
-    "lng_user_not_found": "404 未找到用户。\n注意：您必须在打开此链接之前「见过」那名用户。",
+    "lng_user_not_found": "404 查无此人。\n注意：您必须在打开此链接之前「见过」那名用户。",
 
     "lng_settings_always_delete_for": "自动勾选「为……删除消息」",
     "lng_settings_delete_disabled": "禁用",
@@ -81,13 +84,13 @@
     "lng_title_forward_as_copy": "无引用转发到…",
     "lng_title_multiple_forward": "转发到…",
 
-    "lng_context_forward_msg": "转发（多选聊天）",
-    "lng_context_forward_msg_old": "转发（单选聊天）",
+    "lng_context_forward_msg": "转发（多选对话）",
+    "lng_context_forward_msg_old": "转发（单选对话）",
     "lng_context_show_messages_from": "该用户的其他消息",
     "lng_context_repeat_msg": "复读",
     "lng_context_repeat_msg_no_fwd": "复读（无引用）",
     "lng_context_forward_msg_no_quote": "转发（无引用）",
-    "lng_forward_to_saved_message": "转发到收藏夹",
+    "lng_forward_to_saved_message": "拿去自嗨",
 
     "lng_settings_enable_hd_video": "更高视频码率",
     "lng_hd_video_hint": "视频码率已更改！如您已加入语音聊天，请重新加入。",
@@ -111,5 +114,5 @@
 
     "lng_proxy_remove_all": "移除全部代理",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID 已复制到剪贴板。"
 }

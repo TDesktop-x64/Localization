@@ -1,17 +1,17 @@
 {
     "lng_intro_about2": "Bienvenido a la aplicación 64Gram Desktop.\nEs rápido y seguro.",
 
-    "lng_settings_enhanced": "Ajustes Mejorados",
+    "lng_settings_enhanced": "Ajustes mejorados",
     "lng_settings_network": "Red",
-    "lng_settings_net_speed_boost": "Aumento de velocidad de subida",
+    "lng_settings_net_speed_boost": "Aumentar velocidad de subida",
     "lng_settings_show_message_id": "Ver ID del mensaje",
     "lng_settings_button": "Botón",
     "lng_settings_show_emoji_button_as_text": "Mostrar el emoji del botón como texto",
     "lng_settings_show_repeater_option": "Mostrar opción de repetición",
-    "lng_settings_show_phone_number": "Mostrar Número de Teléfono",
+    "lng_settings_show_phone_number": "Mostrar número de tel.",
     "lng_settings_repeater_reply_to_orig_msg": "Responder al mensaje original",
-    "lng_settings_disable_cloud_draft_sync": "Dejar de sincronizar los borradores con la nube",
-    "lng_settings_hide_classic_forward": "Ocultar Reenvío Clásico",
+    "lng_settings_disable_cloud_draft_sync": "No sincronizar los borradores con la nube",
+    "lng_settings_hide_classic_forward": "Ocultar reenvío clásico",
     "lng_settings_show_scheduled_button": "Mostrar siempre el botón programado",
     "lng_settings_voice_chat": "Chat de Voz",
     "lng_settings_stereo_mode": "Habilitar el Modo Estéreo",
@@ -23,15 +23,18 @@
     "lng_settings_hide_all_chats": "Ocultar carpeta \"Todos\"",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
-    "lng_net_speed_boost_title": "Aumento de la velocidad de la red",
+    "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
+    "lng_settings_skip_message_desc": "Nota: Permite usar el atajo ALT+↑/↓ para pasar al siguiente chat sin leer",
+
+    "lng_net_speed_boost_title": "Aumentar velocidad de la red",
     "lng_net_speed_boost_desc": "Advertencia: cambiar este parámetro a valores altos en redes lentas puede empeorarlo aún más. Úselo bajo su propio riesgo.",
     "lng_show_emoji_button_as_text_desc": "Nota: Si no puede ver algún botón emoji, active esta opción.",
     "lng_radio_controller_desc": "Nota: El Controlador de Radio es un bot experimental para controlar su sesión de transmisión de música.",
     "lng_auto_unmute_desc": "Nota: Activa el sonido automáticamente cuando se haya unido al chat de voz.",
 
     "lng_net_speed_boost_default": "Desactivado",
-    "lng_net_speed_boost_slight": "Leve",
-    "lng_net_speed_boost_medium": "Medio",
+    "lng_net_speed_boost_slight": "Ligero",
+    "lng_net_speed_boost_medium": "Mediano",
     "lng_net_speed_boost_big": "Grande",
 
     "lng_net_boost_restart_desc": "Deberá reiniciar la aplicación para cambiar el aumento de la red.\n\n¿Reiniciar ahora?",
@@ -40,7 +43,7 @@
     "lng_chat_restriction_reason": "Razón de la Restricción",
     "lng_copy_restriction_reason": "Copiar Razón de la Restricción",
 
-    "lng_context_copy_callback_data": "Copiar Datos de la Retrollamada",
+    "lng_context_copy_callback_data": "Copiar datos de la retrollamada",
     "lng_context_forward_selected_no_quote": "Reenviar Seleccionado (Con/Sin citar)",
     "lng_selected_forward_no_quote": "Reenviar (con/sin citar)",
     "lng_context_forward_msg_old_selected": "Reenviar Seleccionado (Clásico)",
@@ -50,12 +53,12 @@
 
     "lng_admin_log_banned_send_stickers2": "Enviar stickers",
     "lng_admin_log_banned_send_gifs": "Enviar GIFs",
-    "lng_admin_log_banned_send_games": "Enviar Juegos",
-    "lng_admin_log_banned_use_inline": "Usar Bots Inline",
+    "lng_admin_log_banned_send_games": "Enviar juegos",
+    "lng_admin_log_banned_use_inline": "Usar bots inline",
     "lng_rights_chat_send_stickers2": "Enviar stickers",
     "lng_rights_chat_send_gifs": "Enviar GIFs",
-    "lng_rights_chat_send_games": "Enviar Juegos",
-    "lng_rights_chat_use_inline": "Usar Bots Inline",
+    "lng_rights_chat_send_games": "Enviar juegos",
+    "lng_rights_chat_use_inline": "Usar bots inline",
 
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIFs",
@@ -65,14 +68,14 @@
     "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "No hay GIFs aquí todavía",
 
-    "lng_create_supergroup_title": "Nuevo Supergrupo",
+    "lng_create_supergroup_title": "Nuevo supergrupo",
     "lng_action_group_migrate": "El grupo se actualizó a supergrupo",
     "lng_sure_upgrade_group": "¿Está seguro de que desea actualizar este grupo a supergrupo?",
     "lng_chat_upgrade_warning": "Nota: esta acción no se puede deshacer",
 
     "lng_user_not_found": "404 Usuario no encontrado.\nNota: Debe haber \"visto\" a ese usuario antes de abrir este enlace.",
 
-    "lng_settings_always_delete_for": "Always select delete for",
+    "lng_settings_always_delete_for": "Siempre seleccionar Eliminar para",
     "lng_settings_delete_disabled": "Desactivado",
     "lng_settings_delete_for_group": "Grupo",
     "lng_settings_delete_for_person": "Persona",
@@ -81,18 +84,18 @@
     "lng_title_forward_as_copy": "Copiar a...",
     "lng_title_multiple_forward": "Reenviar a...",
 
-    "lng_context_forward_msg": "Reenvío Múltiple",
-    "lng_context_forward_msg_old": "Reenvío Individual",
-    "lng_context_show_messages_from": "Mensajes del Usuario",
-    "lng_context_repeat_msg": "Repetir como Reenvío",
+    "lng_context_forward_msg": "Reenvío múltiple",
+    "lng_context_forward_msg_old": "Reenvío individual",
+    "lng_context_show_messages_from": "Mensajes del usuario",
+    "lng_context_repeat_msg": "Repetir como reenvío",
     "lng_context_repeat_msg_no_fwd": "Repetir como copia",
     "lng_context_forward_msg_no_quote": "Reenviar como copia",
-    "lng_forward_to_saved_message": "Reenviar a Guardados",
+    "lng_forward_to_saved_message": "Reenviar a guardados",
 
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
 
-    "lng_bitrate_controller": "Tasa de bits de Audio",
+    "lng_bitrate_controller": "Tasa de bits de audio",
     "lng_bitrate_controller_desc": "Advertencia: cambiar este parámetro a valores altos puede afectar al usuario en redes lentas.",
     "lng_bitrate_controller_hint": "¡La tasa de bits de audio ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
 
@@ -111,5 +114,5 @@
 
     "lng_proxy_remove_all": "Eliminar todos los proxies",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID copiado al portapapeles."
 }
