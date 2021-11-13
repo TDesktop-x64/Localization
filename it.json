@@ -24,7 +24,7 @@
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_settings_skip_message": "Vai alla prossima chat non letta",
-    "lng_settings_skip_message_desc": "Note: puoi usare la scorciatoia Alt+↑/↓ per aprire la prossima chat non letta",
+    "lng_settings_skip_message_desc": "Nota: puoi usare la scorciatoia Alt+↑/↓ per aprire la prossima chat non letta",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
     "lng_net_speed_boost_desc": "Attenzione! Su reti lente, impostare questo parametro a valori alti potrebbe peggiorare la situazione, per cui procedi a tuo rischio.",
