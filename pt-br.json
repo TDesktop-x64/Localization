@@ -1,0 +1,118 @@
+{
+    "lng_intro_about2": "Bem vindo ao 64Gram Desktop \nUm cliente Rápido e Seguro",
+
+    "lng_settings_enhanced": "Configurações 64Gram",
+    "lng_settings_network": "Rede",
+    "lng_settings_net_speed_boost": "Aumentar Velocidade de Upload",
+    "lng_settings_show_message_id": "Mostrar ID da Mensagem",
+    "lng_settings_button": "Botão",
+    "lng_settings_show_emoji_button_as_text": "Mostrar Botão de Emoji em Texto",
+    "lng_settings_show_repeater_option": "Mostrar Opção do Repetidor",
+    "lng_settings_show_phone_number": "Mostrar Número de Telefone",
+    "lng_settings_repeater_reply_to_orig_msg": "Responder a Mensagem Original",
+    "lng_settings_disable_cloud_draft_sync": "Parar de Sincronizar Rascunhos na Nuvem",
+    "lng_settings_hide_classic_forward": "Esconder Botão de Encaminhar Clássico",
+    "lng_settings_show_scheduled_button": "Sempre Mostrar o Botão de Agenda",
+    "lng_settings_voice_chat": "Chat de Voz",
+    "lng_settings_stereo_mode": "Habilitar Modo Estéreo",
+    "lng_settings_pin_voice_chat": "Fixar em Cima",
+    "lng_settings_unpin_voice_chat": "Desafixar",
+    "lng_settings_radio_controller": "Controle de Rádio",
+    "lng_settings_auto_unmute": "Dessilenciar Automaticamente",
+    "lng_settings_other": "Outros",
+    "lng_settings_hide_all_chats": "Esconder Pasta \"Todos os Chats\"",
+    "lng_settings_restart_hint": "AVISO: Mudar Configurações escritas em Vermelho só irá Tomar Efeito quando o Aplicativo for Reiniciado",
+
+    "lng_settings_skip_message": "Pular para o Pŕoximo Chat não lido",
+    "lng_settings_skip_message_desc": "NOTA: Permitir o atalho ALT+↑/↓ para pular para o Próximo Chat não lido",
+
+    "lng_net_speed_boost_title": "Aumentar Velocidade de Rede",
+    "lng_net_speed_boost_desc": "CUIDADO:: Trocar este Parâmetro em Conexões Lentas pode levar a Resultados ainda Piores",
+    "lng_show_emoji_button_as_text_desc": "NOTA: Se você não Consegue ver um Botão de Emoji, Por Favor ligue esta Opção",
+    "lng_radio_controller_desc": "NOTA: Controle de Rádio é um bot experimental para controlar sua seção de streaming de música.",
+    "lng_auto_unmute_desc": "NOTA: Dessilenciar Automaticamente quando você entrar em um Chat de Voz",
+
+    "lng_net_speed_boost_default": "Desativado",
+    "lng_net_speed_boost_slight": "Baixo",
+    "lng_net_speed_boost_medium": "Médio",
+    "lng_net_speed_boost_big": "Grande",
+
+    "lng_net_boost_restart_desc": "Você precisa reiniciar o Aplicativo para mudar a Velocidade de Rede.\n\nReiniciar agora?",
+    "lng_show_messages_id_desc": "AVISO: as Alterações terão efeito imediatamente após reiniciar.",
+
+    "lng_chat_restriction_reason": "Motivo da Restrição",
+    "lng_copy_restriction_reason": "Copiar Motivo da Restrição",
+
+    "lng_context_copy_callback_data": "Copiar Dados de Retorno",
+    "lng_context_forward_selected_no_quote": "Encaminhar Selecionados (Sem Autor)",
+    "lng_selected_forward_no_quote": "Encaminhar (Sem Autor)",
+    "lng_context_forward_msg_old_selected": "Encaminhar Selecionados (Clássico)",
+    "lng_selected_forward_emoji_classic": "📠(Clássico)",
+
+    "lng_message_id": "ID da Mensagem: ",
+
+    "lng_admin_log_banned_send_stickers2": "Enviar Stickers",
+    "lng_admin_log_banned_send_gifs": "Enviar GIFs",
+    "lng_admin_log_banned_send_games": "Enviar Jogos",
+    "lng_admin_log_banned_use_inline": "Usar Bots Inline",
+    "lng_rights_chat_send_stickers2": "Enviar stickers",
+    "lng_rights_chat_send_gifs": "Enviar GIFs",
+    "lng_rights_chat_send_games": "Enviar Jogos",
+    "lng_rights_chat_use_inline": "Usar Bots Inline",
+
+    "lng_media_selected_gif#one": "{count} Gif",
+    "lng_media_selected_gif#other": "{count} Gifs",
+    "lng_media_type_gifs": "Gifs",
+    "lng_profile_gifs#one": "{count} gif",
+    "lng_profile_gifs#other": "{count} gifs",
+    "lng_profile_gifs_header": "Gifs",
+    "lng_media_gif_empty": "Você não tem GIFs salvos",
+
+    "lng_create_supergroup_title": "Novo Supergrupo",
+    "lng_action_group_migrate": "o Grupo foi atualizado para um Supergrupo",
+    "lng_sure_upgrade_group": "Tem certeza que deseja atualizar este Grupo para um Supergrupo?",
+    "lng_chat_upgrade_warning": "NOTA: Isto não pode ser desfeito.",
+
+    "lng_user_not_found": "404 Usuário não Encontrado.\nNote: Você precisa ter \"visto\" este usuário antes de abrir usando o link.",
+
+    "lng_settings_always_delete_for": "Sempre selecionar Apagar Para Todos em",
+    "lng_settings_delete_disabled": "Nunca",
+    "lng_settings_delete_for_group": "Grupo",
+    "lng_settings_delete_for_person": "Privado",
+    "lng_settings_delete_for_both": "Ambos",
+
+    "lng_title_forward_as_copy": "Copiar para...",
+    "lng_title_multiple_forward": "Encaminhar para...",
+
+    "lng_context_forward_msg": "Encaminhar para Múltiplós Chats",
+    "lng_context_forward_msg_old": "Encaminhar apenas para um Chat",
+    "lng_context_show_messages_from": "Mensagens do Usuário",
+    "lng_context_repeat_msg": "Repetir como Encaminhamento",
+    "lng_context_repeat_msg_no_fwd": "Repetir como Cópia",
+    "lng_context_forward_msg_no_quote": "Encaminhar como Cópiar",
+    "lng_forward_to_saved_message": "Encaminhar para o Mensagens Salvas",
+
+    "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
+    "lng_hd_video_hint": "o Bitrate de Vídeo mudou! Entre novamente num Chat de Voz se você está em um.",
+
+    "lng_bitrate_controller": "Bitrate de Áudio",
+    "lng_bitrate_controller_desc": "AVISO: mudar este parâmetro para valores mais altos pode afetar usuários com conexões lentas.",
+    "lng_bitrate_controller_hint": "o Bitrate de Áudio mudou! Entre novamente num Chat de Voz se você está em um.",
+
+    "lng_bitrate_controller_default": "Padrão (32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "Mostrar Mensagem Fixada",
+    "lng_pinned_message_hide": "Esconder Mensagem Fixada",
+    "lng_pinned_message_view": "Ver Mensagem Fixada",
+
+    "lng_proxy_remove_all": "Remover todos os Proxies",
+    
+    "lng_copy_profile_id": "ID copiado para a Área de Transferência."
+}
