@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "Dessilenciar Automaticamente",
     "lng_settings_other": "Outros",
     "lng_settings_hide_all_chats": "Esconder Pasta \"Todos os Chats\"",
+    "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_restart_hint": "AVISO: Mudar Configurações escritas em Vermelho só irá Tomar Efeito quando o Aplicativo for Reiniciado",
 
     "lng_settings_skip_message": "Pular para o Pŕoximo Chat não lido",

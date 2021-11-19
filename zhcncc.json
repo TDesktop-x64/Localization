@@ -15,10 +15,13 @@
     "lng_settings_show_scheduled_button": "始终显示<定时消息>按钮",
     "lng_settings_voice_chat": "语音聊天",
     "lng_settings_stereo_mode": "启用立体声模式",
+    "lng_settings_pin_voice_chat": "Pin To Top",
+    "lng_settings_unpin_voice_chat": "Unpin",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动开启通知",
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏<对话>分组",
+    "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "Skip to next unread chat",
@@ -89,6 +92,9 @@
     "lng_context_repeat_msg_no_fwd": "无引用复读",
     "lng_context_forward_msg_no_quote": "无引用转发",
     "lng_forward_to_saved_message": "转发到收藏夹",
+
+    "lng_settings_enable_hd_video": "Higher video bitrate",
+    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
 
     "lng_bitrate_controller": "比特率",
     "lng_bitrate_controller_desc": "警告：将此参数更改为高值可能会影响网络比较慢的用户。",
