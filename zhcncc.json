@@ -15,17 +15,17 @@
     "lng_settings_show_scheduled_button": "始终显示<定时消息>按钮",
     "lng_settings_voice_chat": "语音聊天",
     "lng_settings_stereo_mode": "启用立体声模式",
-    "lng_settings_pin_voice_chat": "Pin To Top",
-    "lng_settings_unpin_voice_chat": "Unpin",
+    "lng_settings_pin_voice_chat": "置顶",
+    "lng_settings_unpin_voice_chat": "取消置顶",
     "lng_settings_radio_controller": "电台控制器",
     "lng_settings_auto_unmute": "自动开启通知",
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏<对话>分组",
-    "lng_settings_disable_link_warning": "Disable open link warning",
+    "lng_settings_disable_link_warning": "禁用打开链接提示",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
-    "lng_settings_skip_message": "Skip to next unread chat",
-    "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+    "lng_settings_skip_message": "跳到下一个未读对话",
+    "lng_settings_skip_message_desc": "注意：允许使用快捷键 ALT+↑/↓ 跳到下一个未读对话",
 
     "lng_net_speed_boost_title": "网速提升",
     "lng_net_speed_boost_desc": "警告：在网络比较慢的网络上将此参数更改为高值可能会使情况变得更糟，后果自负。",
@@ -74,7 +74,7 @@
     "lng_sure_upgrade_group": "你确定你想把此群组升为超级群吗？",
     "lng_chat_upgrade_warning": "注意：此操作无法撤消",
 
-    "lng_user_not_found": "404 未找到用户。\n注意：在打开此链接之前，您必须“见过”该用户。",
+    "lng_user_not_found": "404 未找到成员。\n注意：在打开此链接之前，您必须“见过”该成员。",
 
     "lng_settings_always_delete_for": "自动勾选删除全部消息",
     "lng_settings_delete_disabled": "禁用",
@@ -87,20 +87,20 @@
 
     "lng_context_forward_msg": "转发到多个对话",
     "lng_context_forward_msg_old": "转发到单个对话",
-    "lng_context_show_messages_from": "用户消息",
+    "lng_context_show_messages_from": "成员消息",
     "lng_context_repeat_msg": "复读",
     "lng_context_repeat_msg_no_fwd": "无引用复读",
     "lng_context_forward_msg_no_quote": "无引用转发",
     "lng_forward_to_saved_message": "转发到收藏夹",
+	
+    "lng_settings_enable_hd_video": "更高的视频码率",
+    "lng_hd_video_hint": "视频码率已更改！如果您已加入语音聊天，请重新加入。",
 
-    "lng_settings_enable_hd_video": "Higher video bitrate",
-    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
-
-    "lng_bitrate_controller": "比特率",
+    "lng_bitrate_controller": "码率",
     "lng_bitrate_controller_desc": "警告：将此参数更改为高值可能会影响网络比较慢的用户。",
-    "lng_bitrate_controller_hint": "语音聊天比特率已更改！如果您已经加入，请重新加入语音聊天。",
+    "lng_bitrate_controller_hint": "语音聊天码率已更改！如果您已加入语音聊天，请重新加入。",
 
-    "lng_bitrate_controller_default": "默认 (32 Kbps)",
+    "lng_bitrate_controller_default": "默认(32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
     "lng_bitrate_controller_128k": "128 Kbps",
@@ -115,5 +115,5 @@
 
     "lng_proxy_remove_all": "移除全部代理",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID已复制到剪切板"
 }
