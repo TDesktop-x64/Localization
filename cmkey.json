@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "自动解除静音",
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏「全部对话」文件夹",
+    "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "Skip to next unread chat",
@@ -115,3 +116,4 @@
     "lng_proxy_remove_all": "移除全部代理",
     
     "lng_copy_profile_id": "ID copied to clipboard."
+}

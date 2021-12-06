@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "Авто-включение звука",
     "lng_settings_other": "Другое",
     "lng_settings_hide_all_chats": "Скрыть папку «Все чаты»",
+    "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_settings_skip_message": "Skip to next unread chat",

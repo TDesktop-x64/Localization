@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "Activar sonido automáticamente",
     "lng_settings_other": "Otro",
     "lng_settings_hide_all_chats": "Ocultar carpeta \"Todos\"",
+    "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
