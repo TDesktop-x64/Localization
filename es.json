@@ -41,13 +41,13 @@
     "lng_net_boost_restart_desc": "Deberá reiniciar la aplicación para cambiar el aumento de la red.\n\n¿Reiniciar ahora?",
     "lng_show_messages_id_desc": "Advertencia: los cambios tendrán efecto inmediatamente con el reinicio.",
 
-    "lng_chat_restriction_reason": "Razón de la Restricción",
-    "lng_copy_restriction_reason": "Copiar Razón de la Restricción",
+    "lng_chat_restriction_reason": "Razón de la restricción",
+    "lng_copy_restriction_reason": "Copiar la razón de la restricción",
 
     "lng_context_copy_callback_data": "Copiar datos de la retrollamada",
-    "lng_context_forward_selected_no_quote": "Reenviar Seleccionado (Con/Sin citar)",
+    "lng_context_forward_selected_no_quote": "Reenviar seleccionado (Con/Sin citar)",
     "lng_selected_forward_no_quote": "Reenviar (con/sin citar)",
-    "lng_context_forward_msg_old_selected": "Reenviar Seleccionado (Clásico)",
+    "lng_context_forward_msg_old_selected": "Reenviar seleccionado (Clásico)",
     "lng_selected_forward_emoji_classic": "📠(Clásico)",
 
     "lng_message_id": "ID del Mensaje: ",
