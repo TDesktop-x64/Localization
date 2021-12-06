@@ -93,10 +93,6 @@
     "lng_context_forward_msg_no_quote": "无引用转发",
     "lng_forward_to_saved_message": "转发到收藏夹",
 	
-	"lng_settings_enable_hd_video": "更高的视频比特率",
-    "lng_hd_video_hint": "视频比特率已更改！ 如果您已经加入，请重新加入语音聊天。",
-
-
     "lng_settings_enable_hd_video": "更高的视频码率",
     "lng_hd_video_hint": "视频码率已更改！如果您已加入语音聊天，请重新加入。",
 
