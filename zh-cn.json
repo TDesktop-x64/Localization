@@ -74,7 +74,7 @@
     "lng_sure_upgrade_group": "你确定将该群组升级为超级群组？",
     "lng_chat_upgrade_warning": "注意：该操作无法复原",
 
-    "lng_user_not_found": "404 未找到用户\n注意：您必须在打开此链接前\“见过\”那名用户",
+    "lng_user_not_found": "404 未找到用户\n注意：您必须在打开此链接前遇到过那名用户",
 
     "lng_settings_always_delete_for": "自动勾选【为...删除消息】",
     "lng_settings_delete_disabled": "禁用",
