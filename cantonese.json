@@ -93,6 +93,7 @@
     "lng_context_forward_msg_no_quote": "轉發（唔帶引用）",
     "lng_forward_to_saved_message": "儲存到我嘅收藏夾",
     "lng_context_repeater": "Repeater",
+    "lng_context_forward": "Forward",
     
     "lng_settings_enable_hd_video": "調高視頻位元速率",
     "lng_hd_video_hint": "改咗視頻位元速率！如果你已經喺視像聊天入邊，就重新入過。",

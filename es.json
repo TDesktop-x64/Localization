@@ -93,6 +93,7 @@
     "lng_context_forward_msg_no_quote": "Reenviar como copia",
     "lng_forward_to_saved_message": "Reenviar a guardados",
     "lng_context_repeater": "Repeater",
+    "lng_context_forward": "Forward",
 
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
