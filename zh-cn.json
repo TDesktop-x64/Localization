@@ -1,0 +1,121 @@
+{
+    "lng_intro_about2": "欢迎使用 64Gram 客户端\n这是一个安全且快速的 Telegram 第三方应用",
+
+    "lng_settings_enhanced": "高级设置",
+    "lng_settings_network": "网络",
+    "lng_settings_net_speed_boost": "上传速度优化",
+    "lng_settings_show_message_id": "显示消息 ID",
+    "lng_settings_button": "按钮",
+    "lng_settings_show_emoji_button_as_text": "使用文字替代 Emoji 按钮",
+    "lng_settings_show_repeater_option": "显示【复读】选项",
+    "lng_settings_show_phone_number": "显示电话号码",
+    "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
+    "lng_settings_disable_cloud_draft_sync": "禁止云同步草稿",
+    "lng_settings_hide_classic_forward": "隐藏默认转发",
+    "lng_settings_show_scheduled_button": "始终显示【定时消息】按钮",
+    "lng_settings_voice_chat": "语音对话",
+    "lng_settings_stereo_mode": "立体声模式",
+    "lng_settings_pin_voice_chat": "窗口置顶",
+    "lng_settings_unpin_voice_chat": "取消窗口置顶",
+    "lng_settings_radio_controller": "电台控制器",
+    "lng_settings_auto_unmute": "自动解除静音",
+    "lng_settings_other": "其他",
+    "lng_settings_hide_all_chats": "隐藏【全部对话】文件夹",
+    "lng_settings_disable_link_warning": "禁用打开链接警告",
+    "lng_settings_restart_hint": "警告：修改红色高亮选项将会在应用下次启动时生效",
+
+    "lng_settings_skip_message": "跳转到下一条未读消息",
+    "lng_settings_skip_message_desc": "小技巧：可以使用 ALT+↑/↓ 来跳转到下一条未读消息",
+
+    "lng_net_speed_boost_title": "网络速度优化",
+    "lng_net_speed_boost_desc": "警告：在网络环境较差时请勿将该选项修改成较大的值，这将会使网络更加糟糕，请自行承担后果",
+    "lng_show_emoji_button_as_text_desc": "如果您的客户端无法显示 Emoji 按钮，请打开该选项",
+    "lng_radio_controller_desc": "电台控制器是一个实验性机器人，用来控制您的音乐播放",
+    "lng_auto_unmute_desc": "在加入语音聊天时自动解除静音",
+
+    "lng_net_speed_boost_default": "禁用",
+    "lng_net_speed_boost_slight": "较小",
+    "lng_net_speed_boost_medium": "中等",
+    "lng_net_speed_boost_big": "较大",
+
+    "lng_net_boost_restart_desc": "您需要重启应用来使网络优化生效.\n\n是否现在重启？",
+    "lng_show_messages_id_desc": "警告：这些变化将在应用重启后立即生效",
+
+    "lng_chat_restriction_reason": "限制理由",
+    "lng_copy_restriction_reason": "复制限制理由",
+
+    "lng_context_copy_callback_data": "复制回调数据",
+    "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
+    "lng_selected_forward_no_quote": "转发（无引用）",
+    "lng_context_forward_msg_old_selected": "转发所选内容（原版）",
+    "lng_selected_forward_emoji_classic": "📠（原版）",
+
+    "lng_message_id": "消息 ID：",
+
+    "lng_admin_log_banned_send_stickers2": "发送贴纸",
+    "lng_admin_log_banned_send_gifs": "发送 GIF 动图",
+    "lng_admin_log_banned_send_games": "发送游戏",
+    "lng_admin_log_banned_use_inline": "使用内联式机器人",
+    "lng_rights_chat_send_stickers2": "发送贴纸",
+    "lng_rights_chat_send_gifs": "发送 GIF 动图",
+    "lng_rights_chat_send_games": "发送游戏",
+    "lng_rights_chat_use_inline": "使用内联式机器人",
+
+    "lng_media_selected_gif#one": "{count} 张 GIF 动图",
+    "lng_media_selected_gif#other": "{count} 张 GIF 动图",
+    "lng_media_type_gifs": "GIF",
+    "lng_profile_gifs#one": "{count} 张 GIF 动图",
+    "lng_profile_gifs#other": "{count} 张 GIF 动图",
+    "lng_profile_gifs_header": "GIF",
+    "lng_media_gif_empty": "暂无 GIF 动图",
+
+    "lng_create_supergroup_title": "新建超级群组",
+    "lng_action_group_migrate": "该群组已升级为超级群组",
+    "lng_sure_upgrade_group": "你确定将该群组升级为超级群组？",
+    "lng_chat_upgrade_warning": "注意：该操作无法复原",
+
+    "lng_user_not_found": "404 未找到用户\n注意：您必须在打开此链接前遇到过那名用户",
+
+    "lng_settings_always_delete_for": "自动勾选【为...删除消息】",
+    "lng_settings_delete_disabled": "禁用",
+    "lng_settings_delete_for_group": "群组",
+    "lng_settings_delete_for_person": "用户",
+    "lng_settings_delete_for_both": "全部",
+
+    "lng_title_forward_as_copy": "转发到...（无引用）",
+    "lng_title_multiple_forward": "转发到...（多选）",
+
+    "lng_context_forward_msg": "转发（多选）",
+    "lng_context_forward_msg_old": "转发（单选）",
+    "lng_context_show_messages_from": "该用户的其他信息",
+    "lng_context_repeat_msg": "复读",
+    "lng_context_repeat_msg_no_fwd": "复读（无引用）",
+    "lng_context_forward_msg_no_quote": "转发（无引用）",
+    "lng_forward_to_saved_message": "转发到收藏夹",
+    "lng_context_repeater": "Repeater",
+
+    "lng_settings_enable_hd_video": "更高的视频码率",
+    "lng_hd_video_hint": "视频码率已修改！如果已加入语音聊天，请重新进入",
+
+    "lng_bitrate_controller": "音频码率",
+    "lng_bitrate_controller_desc": "警告：将此项修改为过高的值会影响到网络较差的用户",
+    "lng_bitrate_controller_hint": "音频码率已修改！如果已加入语音聊天，请重新进入",
+
+    "lng_bitrate_controller_default": "默认（32 Kbps）",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "显示置顶消息",
+    "lng_pinned_message_hide": "隐藏置顶消息",
+    "lng_pinned_message_view": "查看置顶消息",
+    "lng_go_to_first_message": "Go to first message",
+
+    "lng_proxy_remove_all": "移除所有代理",
+    
+    "lng_copy_profile_id": "ID 已复制到剪贴板"
+}

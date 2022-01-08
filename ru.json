@@ -21,11 +21,11 @@
     "lng_settings_auto_unmute": "Авто-включение звука",
     "lng_settings_other": "Другое",
     "lng_settings_hide_all_chats": "Скрыть папку «Все чаты»",
-    "lng_settings_disable_link_warning": "Disable open link warning",
+    "lng_settings_disable_link_warning": "Отключить предупреждение при открытии ссылки",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
-    "lng_settings_skip_message": "Skip to next unread chat",
-    "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+    "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
+    "lng_settings_skip_message_desc": "Примечание: Разрешите сочетание клавиш ALT+↑/↓ для перехода к следующему непрочитанному чату",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",
@@ -76,7 +76,7 @@
 
     "lng_user_not_found": "Пользователь не найден.\nПримечание: прежде чем создавать ссылку на пользователя, вам нужно открыть его профиль через этот клиент.",
 
-    "lng_settings_always_delete_for": "Always select delete for",
+    "lng_settings_always_delete_for": "Всегда удалять для",
     "lng_settings_delete_disabled": "Никогда",
     "lng_settings_delete_for_group": "В группах",
     "lng_settings_delete_for_person": "В личных чатах",
@@ -92,6 +92,7 @@
     "lng_context_repeat_msg_no_fwd": "Повторить ответом",
     "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message": "Переслать в Избранное",
+    "lng_context_repeater": "Repeater",
 
     "lng_settings_enable_hd_video": "Увеличить битрейт у видео",
     "lng_hd_video_hint": "Битрейт видео изменен! Повторно присоединитесь к голосовому чату, если вы уже там.",
@@ -112,8 +113,9 @@
     "lng_pinned_message_show": "Показать пины",
     "lng_pinned_message_hide": "Скрыть пины",
     "lng_pinned_message_view": "Просмотреть пины",
+    "lng_go_to_first_message": "Go to first message",
 
     "lng_proxy_remove_all": "Удалить все прокси",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID скопирован в буфер обмена."
 }

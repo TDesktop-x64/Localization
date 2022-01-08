@@ -92,6 +92,7 @@
     "lng_context_repeat_msg_no_fwd": "Repeat as copy",
     "lng_context_forward_msg_no_quote": "Forward as copy",
     "lng_forward_to_saved_message": "Forward to Saved",
+    "lng_context_repeater": "Repeater",
 
     "lng_settings_enable_hd_video": "Higher video bitrate",
     "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
@@ -112,6 +113,7 @@
     "lng_pinned_message_show": "Show pinned message",
     "lng_pinned_message_hide": "Hide pinned message",
     "lng_pinned_message_view": "View pinned message",
+    "lng_go_to_first_message": "Go to first message",
 
     "lng_proxy_remove_all": "Remove all proxies",
     
