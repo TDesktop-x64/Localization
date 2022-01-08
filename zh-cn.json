@@ -92,6 +92,7 @@
     "lng_context_repeat_msg_no_fwd": "复读（无引用）",
     "lng_context_forward_msg_no_quote": "转发（无引用）",
     "lng_forward_to_saved_message": "转发到收藏夹",
+    "lng_context_repeater": "Repeater",
 
     "lng_settings_enable_hd_video": "更高的视频码率",
     "lng_hd_video_hint": "视频码率已修改！如果已加入语音聊天，请重新进入",

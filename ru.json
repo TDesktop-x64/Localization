@@ -92,6 +92,7 @@
     "lng_context_repeat_msg_no_fwd": "Повторить ответом",
     "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message": "Переслать в Избранное",
+    "lng_context_repeater": "Repeater",
 
     "lng_settings_enable_hd_video": "Увеличить битрейт у видео",
     "lng_hd_video_hint": "Битрейт видео изменен! Повторно присоединитесь к голосовому чату, если вы уже там.",
