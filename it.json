@@ -92,14 +92,14 @@
     "lng_context_repeat_msg_no_fwd": "Ripeti come copia",
     "lng_context_forward_msg_no_quote": "Inoltra come copia",
     "lng_forward_to_saved_message": "Salva messaggio",
-    "lng_context_repeater": "Repeater",
+    "lng_context_repeater": "Ripetitore",
 
     "lng_settings_enable_hd_video": "Velocità di trasmissione video superiore",
-    "lng_hd_video_hint": "La velocità di trasmissione video è cambiata! Se ti sei già unito a una chat vocale, lasciala e riuniscitici.",
+    "lng_hd_video_hint": "La velocità di trasmissione video è cambiata! Se ti sei già unito a una chat vocale, lasciala e riunisciti.",
 
     "lng_bitrate_controller": "Velocità di trasmissione audio",
     "lng_bitrate_controller_desc": "Attenzione! Su reti lente, impostare questo parametro a valori alti potrebbe peggiorare la situazione.",
-    "lng_bitrate_controller_hint": "La velocità di trasmissione audio è cambiata! Se ti sei già unito a una chat vocale, lasciala e riuniscitici.",
+    "lng_bitrate_controller_hint": "La velocità di trasmissione audio è cambiata! Se ti sei già unito a una chat vocale, lasciala e riunisciti.",
 
     "lng_bitrate_controller_default": "Predefinita (32 kbit/s)",
     "lng_bitrate_controller_64k": "64 kbit/s",
@@ -113,7 +113,7 @@
     "lng_pinned_message_show": "Mostra messaggi fissati",
     "lng_pinned_message_hide": "Nascondi messaggi fissati",
     "lng_pinned_message_view": "Visualizza messaggi fissati",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "Vai al primo messaggio",
 
     "lng_proxy_remove_all": "Rimuovi tutti i proxy",
     
