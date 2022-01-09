@@ -93,7 +93,7 @@
     "lng_context_forward_msg_no_quote": "複製式轉發",
     "lng_forward_to_saved_message": "轉發至儲存的訊息",
     "lng_context_repeater": "Repeater",
-    "lng_context_forward": "Forward",
+    "lng_context_forward": "轉發",
 
     "lng_settings_enable_hd_video": "較高的影像 bitrate",
     "lng_hd_video_hint": "影像 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
@@ -114,7 +114,7 @@
     "lng_pinned_message_show": "顯示置頂訊息",
     "lng_pinned_message_hide": "隱藏置頂訊息",
     "lng_pinned_message_view": "查看置頂訊息",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "前往第一則訊息訊息",
 
     "lng_proxy_remove_all": "移除所有代理伺服器",
     
