@@ -92,8 +92,8 @@
     "lng_context_repeat_msg_no_fwd": "无引用复读",
     "lng_context_forward_msg_no_quote": "无引用转发",
     "lng_forward_to_saved_message": "转发到收藏夹",
-    "lng_context_repeater": "Repeater",
-    "lng_context_forward": "Forward",
+    "lng_context_repeater": "复读",
+    "lng_context_forward": "转发",
 	
     "lng_settings_enable_hd_video": "更高的视频码率",
     "lng_hd_video_hint": "视频码率已更改！如果您已加入语音聊天，请重新加入。",
@@ -114,7 +114,7 @@
     "lng_pinned_message_show": "显示置顶消息",
     "lng_pinned_message_hide": "隐藏置顶消息",
     "lng_pinned_message_view": "查看置顶消息",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "跳到第一条消息",
 
     "lng_proxy_remove_all": "移除全部代理",
     
