@@ -92,6 +92,8 @@
     "lng_context_repeat_msg_no_fwd": "Repetir como Cópia",
     "lng_context_forward_msg_no_quote": "Encaminhar como Cópia",
     "lng_forward_to_saved_message": "Encaminhar para o Mensagens Salvas",
+    "lng_context_repeater": "Repeater",
+    "lng_context_forward": "Forward",
 
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
     "lng_hd_video_hint": "o Bitrate de Vídeo mudou! Entre novamente num Chat de Voz se você está em um.",
@@ -112,6 +114,7 @@
     "lng_pinned_message_show": "Mostrar Mensagem Fixada",
     "lng_pinned_message_hide": "Esconder Mensagem Fixada",
     "lng_pinned_message_view": "Ver Mensagem Fixada",
+    "lng_go_to_first_message": "Go to first message",
 
     "lng_proxy_remove_all": "Remover todos os Proxies",
     
