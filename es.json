@@ -92,8 +92,8 @@
     "lng_context_repeat_msg_no_fwd": "Repetir como copia",
     "lng_context_forward_msg_no_quote": "Reenviar como copia",
     "lng_forward_to_saved_message": "Reenviar a guardados",
-    "lng_context_repeater": "Repeater",
-    "lng_context_forward": "Forward",
+    "lng_context_repeater": "Repetir",
+    "lng_context_forward": "Reenviar",
 
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
@@ -114,7 +114,7 @@
     "lng_pinned_message_show": "Mostrar mensaje fijado",
     "lng_pinned_message_hide": "Ocultar mensaje fijado",
     "lng_pinned_message_view": "Ver mensaje fijado",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "Ir al primer mensaje",
 
     "lng_proxy_remove_all": "Eliminar todos los proxies",
     
