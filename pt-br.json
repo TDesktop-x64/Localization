@@ -74,7 +74,7 @@
     "lng_sure_upgrade_group": "Tem certeza que deseja atualizar este Grupo para um Supergrupo?",
     "lng_chat_upgrade_warning": "NOTA: Isto não pode ser desfeito.",
 
-    "lng_user_not_found": "404 Usuário não Encontrado.\nNote: Você precisa ter \"visto\" este usuário antes de abrir usando o link.",
+    "lng_user_not_found": "404 Usuário não Encontrado.\nNota: Você precisa ter \"visto\" este usuário antes de abrir usando o link.",
 
     "lng_settings_always_delete_for": "Sempre selecionar Apagar Para Todos em",
     "lng_settings_delete_disabled": "Nunca",
@@ -92,7 +92,7 @@
     "lng_context_repeat_msg_no_fwd": "Repetir como Cópia",
     "lng_context_forward_msg_no_quote": "Encaminhar como Cópia",
     "lng_forward_to_saved_message": "Encaminhar para o Mensagens Salvas",
-    "lng_context_repeater": "Repeater",
+    "lng_context_repeater": "Repetidor",
     "lng_context_forward": "Forward",
 
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
@@ -114,7 +114,7 @@
     "lng_pinned_message_show": "Mostrar Mensagem Fixada",
     "lng_pinned_message_hide": "Esconder Mensagem Fixada",
     "lng_pinned_message_view": "Ver Mensagem Fixada",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "Ir para a Primeira Mensagem",
 
     "lng_proxy_remove_all": "Remover todos os Proxies",
     
