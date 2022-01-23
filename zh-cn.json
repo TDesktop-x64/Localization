@@ -22,6 +22,7 @@
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏【全部对话】文件夹",
     "lng_settings_disable_link_warning": "禁用打开链接警告",
+    "lng_settings_hide_messages": "Hide messages from blocked user",
     "lng_settings_restart_hint": "警告：修改红色高亮选项将会在应用下次启动时生效",
 
     "lng_settings_skip_message": "跳转到下一条未读消息",
@@ -32,6 +33,7 @@
     "lng_show_emoji_button_as_text_desc": "如果您的客户端无法显示 Emoji 按钮，请打开该选项",
     "lng_radio_controller_desc": "电台控制器是一个实验性机器人，用来控制您的音乐播放",
     "lng_auto_unmute_desc": "在加入语音聊天时自动解除静音",
+    "lng_settings_hide_messages_desc": "Note: IT IS NOT REALLY HIDE! Messages are still available to view, but text will be converted to Spoiler and media won't auto download.",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "较小",

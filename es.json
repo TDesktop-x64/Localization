@@ -22,6 +22,7 @@
     "lng_settings_other": "Otro",
     "lng_settings_hide_all_chats": "Ocultar carpeta \"Todos\"",
     "lng_settings_disable_link_warning": "Desactivar advertencia al abrir enlaces",
+    "lng_settings_hide_messages": "Hide messages from blocked user",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
@@ -32,6 +33,7 @@
     "lng_show_emoji_button_as_text_desc": "Nota: Si no puede ver algún botón emoji, active esta opción.",
     "lng_radio_controller_desc": "Nota: El Controlador de Radio es un bot experimental para controlar su sesión de transmisión de música.",
     "lng_auto_unmute_desc": "Nota: Activa el sonido automáticamente cuando se haya unido al chat de voz.",
+    "lng_settings_hide_messages_desc": "Note: IT IS NOT REALLY HIDE! Messages are still available to view, but text will be converted to Spoiler and media won't auto download.",
 
     "lng_net_speed_boost_default": "Desactivado",
     "lng_net_speed_boost_slight": "Ligero",
