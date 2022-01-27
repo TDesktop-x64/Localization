@@ -33,7 +33,7 @@
     "lng_show_emoji_button_as_text_desc": "Nota: Si no puede ver algún botón emoji, active esta opción.",
     "lng_radio_controller_desc": "Nota: El Controlador de Radio es un bot experimental para controlar su sesión de transmisión de música.",
     "lng_auto_unmute_desc": "Nota: Activa el sonido automáticamente cuando se haya unido al chat de voz.",
-    "lng_settings_hide_messages_desc": "Nota: ¡NO ESTARÁ REALMENTE OCULTO! Los mensajes todavía estarán disponibles para ver, pero el texto se convertirá en Spoiler y la multimedia no se descargará automáticamente.",
+    "lng_settings_hide_messages_desc": "Nota: ¡NO ESTÁ REALMENTE OCULTO! Los mensajes todavía están disponibles para ver, pero el texto será convertido en Spoiler y la multimedia no se descargará automáticamente.",
 
     "lng_net_speed_boost_default": "Desactivado",
     "lng_net_speed_boost_slight": "Ligero",
