@@ -22,6 +22,7 @@
     "lng_settings_other": "Otro",
     "lng_settings_hide_all_chats": "Ocultar carpeta \"Todos\"",
     "lng_settings_disable_link_warning": "Desactivar advertencia al abrir enlaces",
+    "lng_settings_hide_messages": "Ocultar mensajes de usuarios bloqueados",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
@@ -32,6 +33,7 @@
     "lng_show_emoji_button_as_text_desc": "Nota: Si no puede ver algún botón emoji, active esta opción.",
     "lng_radio_controller_desc": "Nota: El Controlador de Radio es un bot experimental para controlar su sesión de transmisión de música.",
     "lng_auto_unmute_desc": "Nota: Activa el sonido automáticamente cuando se haya unido al chat de voz.",
+    "lng_settings_hide_messages_desc": "Nota: ¡NO ESTÁ REALMENTE OCULTO! Los mensajes todavía están disponibles para ver, pero el texto será convertido en Spoiler y la multimedia no se descargará automáticamente.",
 
     "lng_net_speed_boost_default": "Desactivado",
     "lng_net_speed_boost_slight": "Ligero",
@@ -92,8 +94,8 @@
     "lng_context_repeat_msg_no_fwd": "Repetir como copia",
     "lng_context_forward_msg_no_quote": "Reenviar como copia",
     "lng_forward_to_saved_message": "Reenviar a guardados",
-    "lng_context_repeater": "Repeater",
-    "lng_context_forward": "Forward",
+    "lng_context_repeater": "Repetir",
+    "lng_context_forward": "Reenviar",
 
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
@@ -114,7 +116,7 @@
     "lng_pinned_message_show": "Mostrar mensaje fijado",
     "lng_pinned_message_hide": "Ocultar mensaje fijado",
     "lng_pinned_message_view": "Ver mensaje fijado",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "Ir al primer mensaje",
 
     "lng_proxy_remove_all": "Eliminar todos los proxies",
     

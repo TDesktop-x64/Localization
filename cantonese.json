@@ -11,7 +11,7 @@
     "lng_settings_show_phone_number": "顯示電話號碼",
     "lng_settings_repeater_reply_to_orig_msg": "覆返原先嘅訊息",
     "lng_settings_disable_cloud_draft_sync": "停用草稿雲端同步",
-    "lng_settings_hide_classic_forward": "隱藏舊式轉發",
+    "lng_settings_hide_classic_forward": "隱藏舊式轉發（單獨轉發）",
     "lng_settings_show_scheduled_button": "幾時都顯示預約訊息",
     "lng_settings_voice_chat": "視像聊天",
     "lng_settings_stereo_mode": "啟用立體聲模式",
@@ -22,6 +22,7 @@
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隱藏「全部傾偈」資料夾",
     "lng_settings_disable_link_warning": "停用打開連結嗰陣嘅警告",
+    "lng_settings_hide_messages": "唔睇杯葛咗嘅用戶嘅訊息",
     "lng_settings_restart_hint": "警告：改紅色嘅設定會即刻令程式重新啟動嚟套用新設定。",
 
     "lng_settings_skip_message": "跳去下一個未睇嘅傾偈",
@@ -32,6 +33,7 @@
     "lng_show_emoji_button_as_text_desc": "留意返：如果你見唔到表情符號按鈕，就開咗佢。",
     "lng_radio_controller_desc": "留意返：電台操縱器係一個實驗性嘅機械人，可以控制你嘅音樂串流會話。",
     "lng_auto_unmute_desc": "留意返：喺你加入視像聊天嗰陣會自動解除靜音。",
+    "lng_settings_hide_messages_desc": "留意返：噉唔會真係隱藏訊息！訊息都仲係見得到，只不過文字會畀打格仔同埋媒體唔會自動下載。",
 
     "lng_net_speed_boost_default": "閂",
     "lng_net_speed_boost_slight": "加啲",
@@ -85,15 +87,15 @@
     "lng_title_forward_as_copy": "唔帶引用轉發畀…",
     "lng_title_multiple_forward": "轉發畀…",
 
-    "lng_context_forward_msg": "轉發（多選）",
-    "lng_context_forward_msg_old": "轉發（單選）",
+    "lng_context_forward_msg": "多選轉發",
+    "lng_context_forward_msg_old": "單獨轉發",
     "lng_context_show_messages_from": "呢個用戶嘅其他訊息",
-    "lng_context_repeat_msg": "復讀",
-    "lng_context_repeat_msg_no_fwd": "復讀（唔帶引用）",
-    "lng_context_forward_msg_no_quote": "轉發（唔帶引用）",
+    "lng_context_repeat_msg": "用轉發嚟復讀",
+    "lng_context_repeat_msg_no_fwd": "直接復讀",
+    "lng_context_forward_msg_no_quote": "唔帶引用轉發",
     "lng_forward_to_saved_message": "儲存到我嘅收藏夾",
-    "lng_context_repeater": "Repeater",
-    "lng_context_forward": "Forward",
+    "lng_context_repeater": "復讀",
+    "lng_context_forward": "轉發",
     
     "lng_settings_enable_hd_video": "調高視頻位元速率",
     "lng_hd_video_hint": "改咗視頻位元速率！如果你已經喺視像聊天入邊，就重新入過。",
@@ -114,7 +116,7 @@
     "lng_pinned_message_show": "顯示置頂訊息",
     "lng_pinned_message_hide": "隱藏置頂訊息",
     "lng_pinned_message_view": "檢視置頂訊息",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "睇返第一個訊息",
 
     "lng_proxy_remove_all": "刪晒全部網絡代理",
     
