@@ -22,7 +22,7 @@
     "lng_settings_other": "Altro",
     "lng_settings_hide_all_chats": "Nascondi la cartella \"Tutte le chat\"",
     "lng_settings_disable_link_warning": "Non avvisare quando apro un link",
-    "lng_settings_hide_messages": "Hide messages from blocked user",
+    "lng_settings_hide_messages": "Nascondi i messaggi degli utenti bloccati",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_settings_skip_message": "Vai alla prossima chat non letta",
@@ -33,7 +33,7 @@
     "lng_show_emoji_button_as_text_desc": "Attiva quest'opzione se non vedi alcune delle emoji.",
     "lng_radio_controller_desc": "Il controller radio è un bot sperimentale per controllare la tua sessione di streaming musicale.",
     "lng_auto_unmute_desc": "Attiva il microfono automaticamente dopo esserti unito a una chat vocale.",
-    "lng_settings_hide_messages_desc": "Note: IT IS NOT REALLY HIDE! Messages are still available to view, but text will be converted to Spoiler and media won't auto download.",
+    "lng_settings_hide_messages_desc": "Nota: non saranno davvero nascosti! I messaggi saranno ancora leggibili, ma il testo verrà convertito in spoiler e i media non verranno scaricati automaticamente.",
 
     "lng_net_speed_boost_default": "Disattivato",
     "lng_net_speed_boost_slight": "Basso",
@@ -94,7 +94,7 @@
     "lng_context_repeat_msg_no_fwd": "Ripeti come copia",
     "lng_context_forward_msg_no_quote": "Inoltra come copia",
     "lng_forward_to_saved_message": "Salva messaggio",
-    "lng_context_repeater": "Ripetitore",
+    "lng_context_repeater": "Ripeti",
     "lng_context_forward": "Inoltra",
 
     "lng_settings_enable_hd_video": "Velocità di trasmissione video superiore",
