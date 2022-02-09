@@ -105,7 +105,7 @@
 
     "lng_bitrate_controller": "Bitrate de Áudio",
     "lng_bitrate_controller_desc": "AVISO: mudar este parâmetro para valores mais altos pode afetar usuários com conexões lentas.",
-    "lng_bitrate_controller_hint": "o Bitrate de Áudio mudou! Entre novamente num Chat de Voz se você jestá em um.",
+    "lng_bitrate_controller_hint": "o Bitrate de Áudio mudou! Entre novamente num Chat de Voz se você já está em um.",
 
     "lng_bitrate_controller_default": "Padrão (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
