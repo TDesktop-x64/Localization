@@ -24,6 +24,9 @@
     "lng_settings_disable_link_warning": "Desabilitar Aviso ao Abrir Links",
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
     "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só irão tomar efeito quando a aplicação for reiniciada",
+    "lng_settings_disable_link_warning": "Desabilitar aviso ao Abrir Links",
+    "lng_settings_hide_messages": "Esconder mensagens de Usuários Bloqueados",
+    "lng_settings_restart_hint": "AVISO: Mudar Configurações escritas em Vermelho só irá Tomar Efeito quando o Aplicativo for Reiniciado",
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
     "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Chats não lidos",
