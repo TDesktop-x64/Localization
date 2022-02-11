@@ -1,0 +1,124 @@
+{
+    "lng_intro_about2": "Chào mừng đến ứng dụng 64Gram cho Desktop.\nNhanh chóng và bảo mật.",
+
+    "lng_settings_enhanced": "Cài đặt nâng cao",
+    "lng_settings_network": "Mạng",
+    "lng_settings_net_speed_boost": "Tăng tốc độ tải lên",
+    "lng_settings_show_message_id": "Hiển thị ID tin nhắn",
+    "lng_settings_button": "Nút",
+    "lng_settings_show_emoji_button_as_text": "Hiển thị nút biểu tượng cảm xúc dưới dạng văn bản",
+    "lng_settings_show_repeater_option": "Hiển thị tùy chọn bộ lặp",
+    "lng_settings_show_phone_number": "Hiển thị số điện thoại",
+    "lng_settings_repeater_reply_to_orig_msg": "Trả lời tin nhắn gốc",
+    "lng_settings_disable_cloud_draft_sync": "Dừng đồng bộ hóa bản nháp từ đám mây",
+    "lng_settings_hide_classic_forward": "Ẩn Chuyển tiếp cổ điển",
+    "lng_settings_show_scheduled_button": "Luôn hiển thị nút đã lên lịch",
+    "lng_settings_voice_chat": "Trò chuyện thoại",
+    "lng_settings_stereo_mode": "Bật chế độ âm thanh nổi",
+    "lng_settings_pin_voice_chat": "Ghim đầu trang",
+    "lng_settings_unpin_voice_chat": "Bỏ ghim",
+    "lng_settings_radio_controller": "Bộ điều khiển radio",
+    "lng_settings_auto_unmute": "Tự động bật tiếng",
+    "lng_settings_other": "Khác",
+    "lng_settings_hide_all_chats": "Ẩn \"Tất cả các thư mục cuộc trò chuyện\"",
+    "lng_settings_disable_link_warning": "Tắt cảnh báo liên kết đang mở",
+    "lng_settings_hide_messages": "Ẩn tin nhắn từ người dùng bị chặn",
+    "lng_settings_restart_hint": "CẢNH BÁO: Thay đổi các tùy chọn có màu đỏ sẽ chỉ có hiệu lực sau khi ứng dụng khởi động lại.",
+
+    "lng_settings_skip_message": "Chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
+    "lng_settings_skip_message_desc": "Lưu ý: Cho phép phím tắt ALT+↑/↓ để chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
+
+    "lng_net_speed_boost_title": "Tăng tốc độ mạng",
+    "lng_net_speed_boost_desc": "Cảnh báo: việc thay đổi thông số này thành giá trị cao trên các mạng chậm có thể làm cho thông số này thậm chí còn tồi tệ hơn. Sử dụng nó có nguy cơ của riêng bạn.",
+    "lng_show_emoji_button_as_text_desc": "Lưu ý: Nếu bạn không thể thấy nút biểu tượng cảm xúc, vui lòng bật tùy chọn này.",
+    "lng_radio_controller_desc": "Lưu ý: Bộ điều khiển radio là một bot thử nghiệm để kiểm soát phiên phát trực tuyến nhạc của bạn.",
+    "lng_auto_unmute_desc": "Lưu ý: Tự động bật tiếng khi bạn đã tham gia trò chuyện thoại.",
+    "lng_settings_hide_messages_desc": "Lưu ý: NÓ KHÔNG THỰC SỰ ẨN! Tin nhắn vẫn có sẵn để xem, nhưng văn bản sẽ được chuyển đổi thành Spoiler và phương tiện sẽ không tự động tải xuống.",
+
+    "lng_net_speed_boost_default": "Tắt",
+    "lng_net_speed_boost_slight": "Vừa",
+    "lng_net_speed_boost_medium": "Trung",
+    "lng_net_speed_boost_big": "Lớn",
+
+    "lng_net_boost_restart_desc": "Bạn sẽ cần khởi động lại ứng dụng để thay đổi mức tăng mạng.\n\nKhởi động lại ngay?",
+    "lng_show_messages_id_desc": "Cảnh báo: các thay đổi sẽ có hiệu lực ngay lập tức khi khởi động lại.",
+
+    "lng_chat_restriction_reason": "Lý do hạn chế",
+    "lng_copy_restriction_reason": "Lý do hạn chế sao chép",
+
+    "lng_context_copy_callback_data": "Sao chép dữ liệu gọi lại",
+    "lng_context_forward_selected_no_quote": "Chuyển tiếp đã chọn (W/O trích dẫn)",
+    "lng_selected_forward_no_quote": "Chuyển tiếp (w/o trích dẫn)",
+    "lng_context_forward_msg_old_selected": "Chuyển tiếp đã chọn (Cổ điển)",
+    "lng_selected_forward_emoji_classic": "📠(Cổ điển)",
+
+    "lng_message_id": "ID tin nhắn: ",
+
+    "lng_admin_log_banned_send_stickers2": "Gửi nhãn dán",
+    "lng_admin_log_banned_send_gifs": "Gửi ảnh động",
+    "lng_admin_log_banned_send_games": "Gửi trò chơi",
+    "lng_admin_log_banned_use_inline": "Sử dụng Bot nội tuyến",
+    "lng_rights_chat_send_stickers2": "Gửi nhãn dán",
+    "lng_rights_chat_send_gifs": "Gửi ảnh động",
+    "lng_rights_chat_send_games": "Gửi trò chơi",
+    "lng_rights_chat_use_inline": "Sử dụng Bot nội tuyến",
+
+    "lng_media_selected_gif#one": "{count} ảnh động",
+    "lng_media_selected_gif#other": "{count} ảnh động",
+    "lng_media_type_gifs": "Ảnh động",
+    "lng_profile_gifs#one": "{count} ảnh động",
+    "lng_profile_gifs#other": "{count} ảnh động",
+    "lng_profile_gifs_header": "Ảnh động",
+    "lng_media_gif_empty": "Chưa có ảnh động nào ở đây",
+
+    "lng_create_supergroup_title": "Siêu nhóm mới",
+    "lng_action_group_migrate": "Nhóm đã được nâng cấp thành siêu nhóm",
+    "lng_sure_upgrade_group": "Bạn có chắc chắn muốn nâng cấp nhóm này lên siêu nhóm không?",
+    "lng_chat_upgrade_warning": "Lưu ý: Không thể hoàn tác hành động này",
+
+    "lng_user_not_found": "404 không tìm thấy người dùng.\nLưu ý: Bạn phải có \"đã xem\" người dùng đó trước khi mở liên kết này.",
+
+    "lng_settings_always_delete_for": "Luôn chọn xóa cho",
+    "lng_settings_delete_disabled": "Tắt",
+    "lng_settings_delete_for_group": "Nhóm",
+    "lng_settings_delete_for_person": "Người",
+    "lng_settings_delete_for_both": "Tại sao không phải cả hai?",
+
+    "lng_title_forward_as_copy": "Sao chép đến...",
+    "lng_title_multiple_forward": "Chuyển tiếp đến...",
+
+    "lng_context_forward_msg": "Chuyển tiếp nhiều",
+    "lng_context_forward_msg_old": "Chuyển tiếp một lần",
+    "lng_context_show_messages_from": "Tin nhắn từ người dùng",
+    "lng_context_repeat_msg": "Lặp lại dạng chuyển tiếp",
+    "lng_context_repeat_msg_no_fwd": "Lặp lại dạng bản sao",
+    "lng_context_forward_msg_no_quote": "Chuyển tiếp dạng bản sao",
+    "lng_forward_to_saved_message": "Chuyển tiếp đến dã lưu",
+    "lng_context_repeater": "Bộ lặp",
+    "lng_context_forward": "Chuyển tiếp",
+
+    "lng_settings_enable_hd_video": "Tốc độ video cao hơn",
+    "lng_hd_video_hint": "Tốc độ của video đã được thay đổi! Tham gia lại cuộc trò chuyện thoại nếu bạn đã tham gia.",
+
+    "lng_bitrate_controller": "Tốc độ âm thanh",
+    "lng_bitrate_controller_desc": "Cảnh báo: việc thay đổi thông số này thành giá trị cao có thể ảnh hưởng đến người dùng trên mạng chậm.",
+    "lng_bitrate_controller_hint": "Tốc độ bit của âm thanh đã được thay đổi! Tham gia lại cuộc trò chuyện thoại nếu bạn đã tham gia.",
+
+    "lng_bitrate_controller_default": "Mặc định (32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "Hiển thị tin nhắn đã ghim",
+    "lng_pinned_message_hide": "Ẩn tin nhắn đã ghim",
+    "lng_pinned_message_view": "Xem tin nhắn đã ghim",
+    "lng_go_to_first_message": "Đi tới tin nhắn đầu tiên",
+
+    "lng_proxy_remove_all": "Xóa tất cả proxy",
+    
+    "lng_copy_profile_id": "Đã sao chép ID vào khay nhớ tạm."
+}
