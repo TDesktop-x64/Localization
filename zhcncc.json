@@ -33,7 +33,7 @@
     "lng_show_emoji_button_as_text_desc": "注意：如果您看不到 Emoji 按钮，请打开此选项。",
     "lng_radio_controller_desc": "注意：电台控制器是一个实验机器人，用于控制您的音乐播放会话。",
     "lng_auto_unmute_desc": "注意：加入语音聊天后会自动开启通知。",
-    "lng_settings_hide_messages_desc": "Note: IT IS NOT REALLY HIDE! Messages are still available to view, but text will be converted to Spoiler and media won't auto download.",
+    "lng_settings_hide_messages_desc": "注意：它不是真的隐藏了消息！ 消息仍然可以查看，但文本将被转换为剧透，媒体不会自动下载。",
 
     "lng_net_speed_boost_default": "禁用",
     "lng_net_speed_boost_slight": "轻微",
