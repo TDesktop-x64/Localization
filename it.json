@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "Attiva automaticamente",
     "lng_settings_other": "Altro",
     "lng_settings_hide_all_chats": "Nascondi la cartella \"Tutte le chat\"",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "Non avvisare quando apro un link",
     "lng_settings_hide_messages": "Nascondi i messaggi degli utenti bloccati",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà istantaneamente affinché la modifica abbia effetto.",

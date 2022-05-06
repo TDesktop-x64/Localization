@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "Авто-увімкнення звуку",
     "lng_settings_other": "Інше",
     "lng_settings_hide_all_chats": "Приховати папку «Усі чати»",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_hide_messages": "Hide messages from blocked user",
     "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
