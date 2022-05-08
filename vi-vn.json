@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "Tự động bật tiếng",
     "lng_settings_other": "Khác",
     "lng_settings_hide_all_chats": "Ẩn \"Tất cả các thư mục cuộc trò chuyện\"",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "Tắt cảnh báo liên kết đang mở",
     "lng_settings_hide_messages": "Ẩn tin nhắn từ người dùng bị chặn",
     "lng_settings_restart_hint": "CẢNH BÁO: Thay đổi các tùy chọn có màu đỏ sẽ chỉ có hiệu lực sau khi ứng dụng khởi động lại.",
