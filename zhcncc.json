@@ -21,7 +21,7 @@
     "lng_settings_auto_unmute": "自动开启通知",
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏<对话>分组",
-    "lng_settings_replace_edit_button": "左侧\"编辑\"按钮改为\"收藏夹\"",
+    "lng_settings_replace_edit_button": "左侧分组列表的<编辑>按钮改为<收藏夹>",
     "lng_settings_disable_link_warning": "禁用打开链接提示",
     "lng_settings_hide_messages": "隐藏已拉黑用户的消息",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
