@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "自動解除靜音",
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "將「所有對話」資料夾隱藏",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "關閉「開啟連結」時的警告",
     "lng_settings_hide_messages": "隱藏已被你封鎖的使用者的訊息",
     "lng_settings_restart_hint": "警告：變更有色選項會立即重新啟動並套用相關設定。",
@@ -88,12 +89,12 @@
     "lng_title_multiple_forward": "轉發至……",
 
     "lng_context_forward_msg": "多重轉發",
-    "lng_context_forward_msg_old": "轉發",
+    "lng_context_forward_msg_old": "傳統轉發",
     "lng_context_show_messages_from": "該使用者發送的訊息",
     "lng_context_repeat_msg": "轉發式覆讀",
     "lng_context_repeat_msg_no_fwd": "複製式覆讀",
     "lng_context_forward_msg_no_quote": "複製式轉發",
-    "lng_forward_to_saved_message": "轉發至儲存的訊息",
+    "lng_forward_to_saved_message": "儲存的訊息",
     "lng_context_repeater": "覆讀",
     "lng_context_forward": "轉發",
 

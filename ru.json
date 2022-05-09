@@ -21,8 +21,9 @@
     "lng_settings_auto_unmute": "Авто-включение звука",
     "lng_settings_other": "Другое",
     "lng_settings_hide_all_chats": "Скрыть папку «Все чаты»",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "Отключить предупреждение при открытии ссылки",
-    "lng_settings_hide_messages": "Hide messages from blocked user",
+    "lng_settings_hide_messages": "Скрыть сообщения от заблокированных пользователей",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
@@ -33,7 +34,7 @@
     "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите эмодзи на кнопках, включите эту опцию.",
     "lng_radio_controller_desc": "Радио-контроллер — это экспериментальный бот для управления аудио-трансляции.",
     "lng_auto_unmute_desc": "Автоматическое включение звука при входе в голосовой чат.",
-    "lng_settings_hide_messages_desc": "Note: IT IS NOT REALLY HIDE! Messages are still available to view, but text will be converted to Spoiler and media won't auto download.",
+    "lng_settings_hide_messages_desc": "Примечание: ЭТО НЕ СОВСЕМ СКРЫТИЕ! Сообщения все ещё будут доступны для просмотра, но текст будет преобразован в спойлер, а медиа файлы не будет автоматически загружены.",
 
     "lng_net_speed_boost_default": "Отключено",
     "lng_net_speed_boost_slight": "Небольшое",
@@ -94,8 +95,8 @@
     "lng_context_repeat_msg_no_fwd": "Повторить ответом",
     "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message": "Переслать в Избранное",
-    "lng_context_repeater": "Repeater",
-    "lng_context_forward": "Forward",
+    "lng_context_repeater": "Повторить",
+    "lng_context_forward": "Переслать",
 
     "lng_settings_enable_hd_video": "Увеличить битрейт у видео",
     "lng_hd_video_hint": "Битрейт видео изменен! Повторно присоединитесь к голосовому чату, если вы уже там.",
@@ -116,7 +117,7 @@
     "lng_pinned_message_show": "Показать пины",
     "lng_pinned_message_hide": "Скрыть пины",
     "lng_pinned_message_view": "Просмотреть пины",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "Перейти к первому сообщению",
 
     "lng_proxy_remove_all": "Удалить все прокси",
     

@@ -1,0 +1,125 @@
+{
+    "lng_intro_about2": "64Gram Masaüstü uygulamasına hoşgeldiniz.\nHızlı ve güvenli.",
+
+    "lng_settings_enhanced": "Gelişmiş Ayarlar",
+    "lng_settings_network": "Ağ",
+    "lng_settings_net_speed_boost": "Yükleme hızı ayarı",
+    "lng_settings_show_message_id": "Mesaj ID'sini göster",
+    "lng_settings_button": "Buton",
+    "lng_settings_show_emoji_button_as_text": "Çıkartmaları metin olarak göster",
+    "lng_settings_show_repeater_option": "Tekrarlayıcı seçeneğini göster",
+    "lng_settings_show_phone_number": "Numarayı Göster",
+    "lng_settings_repeater_reply_to_orig_msg": "Orijinal mesajı yanıtla",
+    "lng_settings_disable_cloud_draft_sync": "Bulut taslakları senk kapat",
+    "lng_settings_hide_classic_forward": "Klasik İletmeyi Gizle",
+    "lng_settings_show_scheduled_button": "Zamanlama düğmesini göster",
+    "lng_settings_voice_chat": "Sesli Sohbet",
+    "lng_settings_stereo_mode": "Stereo Modu Etkinleştir",
+    "lng_settings_pin_voice_chat": "Başa Sabitle",
+    "lng_settings_unpin_voice_chat": "Sabitlemeyi Kaldır",
+    "lng_settings_radio_controller": "Radyo denetleyicisi",
+    "lng_settings_auto_unmute": "Otomatik sesi aç",
+    "lng_settings_other": "Diğer",
+    "lng_settings_hide_all_chats": "\"Tüm Sohbetler\" klasörünü gizle",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
+    "lng_settings_disable_link_warning": "Açık bağlantı uyarısını devre dışı bırak",
+    "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
+    "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
+
+    "lng_settings_skip_message": "Okunmamış sonraki sohbete git",
+    "lng_settings_skip_message_desc": "Not: ALT+↑/↓ kısayolu ile okunmamış sonraki sohbete geçmeye izin ver",
+
+    "lng_net_speed_boost_title": "Ağ hızı artışı",
+    "lng_net_speed_boost_desc": "Uyarı: Yavaş ağlarda bu parametrenin yüksek değerlerle değiştirilmesi durumu daha da kötüleştirebilir. Kendi sorumluluğunuzda kullanın.",
+    "lng_show_emoji_button_as_text_desc": "Not: Bir emoji düğmesi göremiyorsanız, lütfen bu seçeneği açın.",
+    "lng_radio_controller_desc": "Not: Radyo denetleyicisi, müzik akışı oturumunuzu kontrol etmek için deneysel bir bottur.",
+    "lng_auto_unmute_desc": "Not: Sesli sohbete katıldığınızda sesi otomatik olarak açın.",
+    "lng_settings_hide_messages_desc": "Not: GERÇEKTEN GİZLİ DEĞİLDİR! Mesajlar hâlâ görüntülenebilir, ancak metin İspiyon'a dönüştürülecek ve medya otomatik olarak indirilmeyecek.",
+
+    "lng_net_speed_boost_default": "Varsayılan",
+    "lng_net_speed_boost_slight": "Az",
+    "lng_net_speed_boost_medium": "Orta",
+    "lng_net_speed_boost_big": "Büyük",
+
+    "lng_net_boost_restart_desc": "Ağ güçlendirmeyi değiştirmek için uygulamayı yeniden başlatmanız gerekecek.\n\nŞimdi yeniden başlatılsın mı?",
+    "lng_show_messages_id_desc": "Uyarı: Değişiklikler yeniden başlatıldığında hemen geçerli olacaktır.",
+
+    "lng_chat_restriction_reason": "Kısıtlama Nedeni",
+    "lng_copy_restriction_reason": "Kısıtlama Nedenini Kopyala",
+
+    "lng_context_copy_callback_data": "Geri Arama Verilerini Kopyala",
+    "lng_context_forward_selected_no_quote": "Seçili İlet (Alıntısız)",
+    "lng_selected_forward_no_quote": "İlet (Alıntısız)",
+    "lng_context_forward_msg_old_selected": "Seçili İlet (Klasik)",
+    "lng_selected_forward_emoji_classic": "📠(Klasik)",
+
+    "lng_message_id": "Mesaj ID'si: ",
+
+    "lng_admin_log_banned_send_stickers2": "Çıkartma gönder",
+    "lng_admin_log_banned_send_gifs": "GIF gönder",
+    "lng_admin_log_banned_send_games": "Oyun gönder",
+    "lng_admin_log_banned_use_inline": "Satır İçi Botları Kullanın",
+    "lng_rights_chat_send_stickers2": "Çıkartma gönder",
+    "lng_rights_chat_send_gifs": "GIF gönder",
+    "lng_rights_chat_send_games": "Oyun gönder",
+    "lng_rights_chat_use_inline": "Satır İçi Botları Kullanın",
+
+    "lng_media_selected_gif#one": "{count} Gif",
+    "lng_media_selected_gif#other": "{count} Gif",
+    "lng_media_type_gifs": "Gif",
+    "lng_profile_gifs#one": "{count} gif",
+    "lng_profile_gifs#other": "{count} gif",
+    "lng_profile_gifs_header": "Gif",
+    "lng_media_gif_empty": "Henüz GIF yok",
+
+    "lng_create_supergroup_title": "Yeni Süpergrup",
+    "lng_action_group_migrate": "Grup süpergruba yükseltildi",
+    "lng_sure_upgrade_group": "Bu grubu süpergruba yükseltmek istediğinizden emin misiniz?",
+    "lng_chat_upgrade_warning": "Not: Bu işlem geri alınamaz",
+
+    "lng_user_not_found": "404 Kullanıcı bulunamadı.\nNot: Bu bağlantıyı açmadan önce o kullanıcıyı \"görmüş\" olmanız gerekir.",
+
+    "lng_settings_always_delete_for": "için her zaman sil'i seçin",
+    "lng_settings_delete_disabled": "Kapalı",
+    "lng_settings_delete_for_group": "Grup",
+    "lng_settings_delete_for_person": "Kişi",
+    "lng_settings_delete_for_both": "Neden ikisi de olmasın?",
+
+    "lng_title_forward_as_copy": "Kopyala...",
+    "lng_title_multiple_forward": "İlet...",
+
+    "lng_context_forward_msg": "Çoklu İlet",
+    "lng_context_forward_msg_old": "Tek İlet",
+    "lng_context_show_messages_from": "Kullanıcıdan Gelen Mesajlar",
+    "lng_context_repeat_msg": "İletmeyi tekrarla",
+    "lng_context_repeat_msg_no_fwd": "Kopyalamayı tekrarla",
+    "lng_context_forward_msg_no_quote": "Kopya olarak ilet",
+    "lng_forward_to_saved_message": "Kayıtlı Mesajlara İlet",
+    "lng_context_repeater": "Tekrarla",
+    "lng_context_forward": "İlet",
+
+    "lng_settings_enable_hd_video": "Daha yüksek video bit hızı",
+    "lng_hd_video_hint": "Video bit hızı değiştirildi! Bir sesli sohbete katıldıysanız çıkıp yeniden katılın.",
+
+    "lng_bitrate_controller": "Ses Bit Hızı",
+    "lng_bitrate_controller_desc": "Uyarı: Bu parametrenin yüksek değerlere değiştirilmesi, yavaş ağlarda kullanıcıyı etkileyebilir.",
+    "lng_bitrate_controller_hint": "Ses bit hızı değiştirildi! Bir sesli sohbete katıldıysanız çıkıp yeniden katılın.",
+
+    "lng_bitrate_controller_default": "Varsayılan (32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "Sabitlenmiş mesajı göster",
+    "lng_pinned_message_hide": "Sabitlenmiş mesajı gizle",
+    "lng_pinned_message_view": "Sabitlenmiş mesajı görüntüle",
+    "lng_go_to_first_message": "İlk mesaja git",
+
+    "lng_proxy_remove_all": "Tüm proxy'leri kaldır",
+    
+    "lng_copy_profile_id": "ID panoya kopyalandı."
+}

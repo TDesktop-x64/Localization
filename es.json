@@ -21,6 +21,7 @@
     "lng_settings_auto_unmute": "Activar sonido automáticamente",
     "lng_settings_other": "Otro",
     "lng_settings_hide_all_chats": "Ocultar carpeta \"Todos\"",
+    "lng_settings_replace_edit_button": "Reemplazar el botón \"Editar\" por Mensajes guardados",
     "lng_settings_disable_link_warning": "Desactivar advertencia al abrir enlaces",
     "lng_settings_hide_messages": "Ocultar mensajes de usuarios bloqueados",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
