@@ -24,6 +24,7 @@
     "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "禁用打开链接警告",
     "lng_settings_hide_messages": "隐藏已封禁用户的消息",
+    "lng_settings_disable_premium_animation": "Disable Premium Animation",
     "lng_settings_restart_hint": "警告：修改红色高亮选项将会在应用下次启动时生效",
 
     "lng_settings_skip_message": "跳转到下一条未读消息",
