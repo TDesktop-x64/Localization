@@ -21,9 +21,10 @@
     "lng_settings_auto_unmute": "Dessilenciar Automaticamente",
     "lng_settings_other": "Outros",
     "lng_settings_hide_all_chats": "Esconder Pasta \"Todos os Chats\"",
-    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
+    "lng_settings_replace_edit_button": "Substituir Botão \"Editar\" em Mensagens Salvas",
     "lng_settings_disable_link_warning": "Desabilitar Aviso ao Abrir Links",
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
+    "lng_settings_disable_premium_animation": "Disable Premium Animation",
     "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só irão tomar efeito quando a aplicação for reiniciada",
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
@@ -64,11 +65,11 @@
     "lng_rights_chat_send_games": "Enviar Jogos",
     "lng_rights_chat_use_inline": "Usar Bots Inline",
 
-    "lng_media_selected_gif#one": "{count} Gif",
-    "lng_media_selected_gif#other": "{count} Gifs",
-    "lng_media_type_gifs": "Gifs",
-    "lng_profile_gifs#one": "{count} gif",
-    "lng_profile_gifs#other": "{count} gifs",
+    "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#other": "{count} GIFs",
+    "lng_media_type_gifs": "GIFs",
+    "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#other": "{count} GIFs",
     "lng_profile_gifs_header": "Gifs",
     "lng_media_gif_empty": "Você não tem GIFs salvos",
 
