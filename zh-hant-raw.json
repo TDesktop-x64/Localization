@@ -25,6 +25,7 @@
     "lng_settings_disable_link_warning": "關閉「開啟連結」時的警告",
     "lng_settings_hide_messages": "隱藏已被你封鎖的使用者的訊息",
     "lng_settings_disable_premium_animation": "關閉付費用戶貼圖特效",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "警告：變更有色選項會立即重新啟動並套用相關設定。",
 
     "lng_settings_skip_message": "跳到下一個未閱讀的聊天",

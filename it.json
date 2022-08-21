@@ -25,6 +25,7 @@
     "lng_settings_disable_link_warning": "Non avvisare quando apro un link",
     "lng_settings_hide_messages": "Nascondi i messaggi dagli utenti bloccati",
     "lng_settings_disable_premium_animation": "Disattiva l'animazione di Premium",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_settings_skip_message": "Vai alla prossima chat non letta",

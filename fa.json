@@ -25,6 +25,7 @@
     "lng_settings_disable_link_warning": "خاموش کردن هشدار باز کردن لینک",
     "lng_settings_hide_messages": "مخفی کردن پیام کاربران بلاک شده",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "هشدار: عوض کردن گزینه های رنگی بعد از ریستارت اثر میگذارد.",
 
     "lng_settings_skip_message": "رفتن به چت خوانده نشده بعدی",
@@ -78,7 +79,7 @@
     "lng_sure_upgrade_group": "آیا مطمئن هستید که می خواهید این گروه را به ابر گروه ارتقا دهید؟",
     "lng_chat_upgrade_warning": "توجه: این عملکرد قابل بازگشت نیست",
 
-    "lng_user_not_found": "404 کاربر یافت نشد.\نکته: شما باید این شخص را \"دیده\" باشید قبل از اینکه لینک را باز کنید.",
+    "lng_user_not_found": "404 - User not found.\nNote: You must have \"seen\" the user before opening this link.",
 
     "lng_settings_always_delete_for": "انتخاب حذف برای ... برای همیشه",
     "lng_settings_delete_disabled": "غیرفعال",

@@ -25,6 +25,7 @@
     "lng_settings_disable_link_warning": "Desabilitar Aviso ao Abrir Links",
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só irão tomar efeito quando a aplicação for reiniciada",
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
