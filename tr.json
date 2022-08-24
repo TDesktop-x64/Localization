@@ -21,8 +21,11 @@
     "lng_settings_auto_unmute": "Otomatik sesi aç",
     "lng_settings_other": "Diğer",
     "lng_settings_hide_all_chats": "\"Tüm Sohbetler\" klasörünü gizle",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "Açık bağlantı uyarısını devre dışı bırak",
     "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
+    "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
 
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",

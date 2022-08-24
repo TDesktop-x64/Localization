@@ -21,8 +21,11 @@
     "lng_settings_auto_unmute": "Авто-включение звука",
     "lng_settings_other": "Другое",
     "lng_settings_hide_all_chats": "Скрыть папку «Все чаты»",
+    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "Отключить предупреждение при открытии ссылки",
     "lng_settings_hide_messages": "Скрыть сообщения от заблокированных пользователей",
+    "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
