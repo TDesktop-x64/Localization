@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Welcome to the 64Gram Desktop app.\nIt's fast and secure.",
+    "lng_intro_about2": "Ласкаво просимо до 64Gram Desktop.\nЦе швидкий і безпечний кліент",
 
     "lng_settings_enhanced": "Додаткові",
     "lng_settings_network": "Мережа",
@@ -9,34 +9,34 @@
     "lng_settings_show_emoji_button_as_text": "Букви замість емодзі",
     "lng_settings_show_repeater_option": "«Повторити» в контекстному меню",
     "lng_settings_show_phone_number": "Відображати номер",
-	"lng_settings_repeater_reply_to_orig_msg": "Відповісти на вихідне",
+    "lng_settings_repeater_reply_to_orig_msg": "Відповісти на вихідне",
     "lng_settings_disable_cloud_draft_sync": "Вимкнути синхронізацію чернеток",
     "lng_settings_hide_classic_forward": "Сховати класичне пересилання",
     "lng_settings_show_scheduled_button": "Відображати кнопку запланованих",
     "lng_settings_voice_chat": "Голосовий чат",
     "lng_settings_stereo_mode": "Enable Stereo Mode",
-    "lng_settings_pin_voice_chat": "Pin To Top",
-    "lng_settings_unpin_voice_chat": "Unpin",
+    "lng_settings_pin_voice_chat": "Закріпити",
+    "lng_settings_unpin_voice_chat": "Відкріпити",
     "lng_settings_radio_controller": "Радіо-контролер ",
     "lng_settings_auto_unmute": "Авто-увімкнення звуку",
     "lng_settings_other": "Інше",
     "lng_settings_hide_all_chats": "Приховати папку «Усі чати»",
     "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
-    "lng_settings_disable_link_warning": "Disable open link warning",
-    "lng_settings_hide_messages": "Hide messages from blocked user",
+    "lng_settings_disable_link_warning": "Вимкнути попередження про перехід",
+    "lng_settings_hide_messages": "Приховувати повідомлення від заблокованого користувача"
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
     "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
 
-    "lng_settings_skip_message": "Skip to next unread chat",
-    "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+    "lng_settings_skip_message": "Пропустити до наступного непрочитаного чату",
+    "lng_settings_skip_message_desc": "Справка: Дозволяє комбінаціі ALT+↑/↓ пропускати до наступного непрочитаного чату",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметра при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій страх і ризик.",
     "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію.",
     "lng_radio_controller_desc": "Радіо-контролер — це експериментальний бот для управління аудіо-трансляцією.",
-    "lng_auto_unmute_desc": "Автоматичне включення звуку при вході в голосовий чат.",
-    "lng_settings_hide_messages_desc": "Note: IT IS NOT REALLY HIDE! Messages are still available to view, but text will be converted to Spoiler and media won't auto download.",
+    "lng_auto_unmute_desc": "Автоматичне включення звуку при вході в голосовий чат",
+    "lng_settings_hide_messages_desc": "ВМІСТ НЕ ПРИХОВУЄТЬСЯ! Повідомлення будуть відображатись,але текст будет сховано у спойлер, а медіа не буде автоматично завантажуватись",
 	
     "lng_net_speed_boost_default": "Відключено",
     "lng_net_speed_boost_slight": "Трішки",
@@ -52,8 +52,8 @@
     "lng_context_copy_callback_data": "Копіювати дані зворотного виклику",
     "lng_context_forward_selected_no_quote": "Переслати виділене без автора",
     "lng_selected_forward_no_quote": "Переслати без автора",
-    "lng_context_forward_msg_old_selected": "Переслати виділене (Classic)",
-    "lng_selected_forward_emoji_classic": "📠(Classic)",
+    "lng_context_forward_msg_old_selected": "Переслати виділене (Класично)",
+    "lng_selected_forward_emoji_classic": "📠(Класичне)",
 
     "lng_message_id": "ID повідомлення: ",
 
@@ -81,7 +81,7 @@
 	
     "lng_user_not_found": "Користувача не знайдено. \nПримітка: перш ніж робити посилання на користувача, вам потрібно відкрити його профіль через цей клієнт.",
     
-    "lng_settings_always_delete_for": "Always select delete for",
+    "lng_settings_always_delete_for": "Обрати де завжди видаляли",
     "lng_settings_delete_disabled": "Ніколи",
     "lng_settings_delete_for_group": "У групах",
     "lng_settings_delete_for_person": "В особистих чатах",
@@ -91,37 +91,37 @@
     "lng_title_multiple_forward": "Переслати в...",
 
     "lng_context_forward_msg": "Мульти-пересилання",
-    "lng_context_forward_msg_old": "Переслати (Classic)",
+    "lng_context_forward_msg_old": "Переслати (Класичне)",
     "lng_context_show_messages_from": "Повідомлення користувача",
     "lng_context_repeat_msg": "Повторити",
     "lng_context_repeat_msg_no_fwd": "Повторити відповіддю",
     "lng_context_forward_msg_no_quote": "Переслати без автора",
     "lng_forward_to_saved_message": "Переслати в Збережене",
-    "lng_context_repeater": "Repeater",
-    "lng_context_forward": "Forward",
+    "lng_context_repeater": "Повторювач",
+    "lng_context_forward": "Переслати",
 
-    "lng_settings_enable_hd_video": "Higher video bitrate",
-    "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_settings_enable_hd_video": "Високий аудіо бітрейт"
+    "lng_hd_video_hint": "Бітрейт змінено! Перезайдіть до голосового чату якщо Ви вже були там.",
 
-    "lng_bitrate_controller": "Audio Bitrate",
+    "lng_bitrate_controller": "Аудіо бітрейт",
     "lng_bitrate_controller_desc": "Високе значення може нашкодити учасникам з повільним інтернетом.",
-    "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
+    "lng_bitrate_controller_hint": "Бітрейт змінено! Перезайдіть до голосового чату якщо Ви вже були там.",
 
-    "lng_bitrate_controller_default": "Default (32 Kbps)",
-    "lng_bitrate_controller_64k": "64 Kbps",
-    "lng_bitrate_controller_96k": "96 Kbps",
-    "lng_bitrate_controller_128k": "128 Kbps",
-    "lng_bitrate_controller_160k": "160 Kbps",
-    "lng_bitrate_controller_192k": "192 Kbps",
-    "lng_bitrate_controller_256k": "256 Kbps",
-    "lng_bitrate_controller_320k": "320 Kbps",
+    "lng_bitrate_controller_default": "Типово (32 Кб/с)",
+    "lng_bitrate_controller_64k": "64 Кб/с",
+    "lng_bitrate_controller_96k": "96 Кб/с",
+    "lng_bitrate_controller_128k": "128 Кб/с",
+    "lng_bitrate_controller_160k": "160 Кб/с",
+    "lng_bitrate_controller_192k": "192 Кб/с",
+    "lng_bitrate_controller_256k": "256 Кб/с",
+    "lng_bitrate_controller_320k": "320 Кб/с",
 
     "lng_pinned_message_show": "Показати закріплені",
     "lng_pinned_message_hide": "Приховати закріплені",
     "lng_pinned_message_view": "Відкрити закріплені",
-    "lng_go_to_first_message": "Go to first message",
+    "lng_go_to_first_message": "Перейти до першого повідомлення",
 
     "lng_proxy_remove_all": "Видалити всі проксі",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID скопійовано."
 }
