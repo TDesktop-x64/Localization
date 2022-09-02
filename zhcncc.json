@@ -25,7 +25,7 @@
     "lng_settings_disable_link_warning": "禁用打开链接提示",
     "lng_settings_hide_messages": "隐藏已拉黑用户的消息",
     "lng_settings_disable_premium_animation": "禁用 Premium 贴纸动画",
-    "lng_settings_show_seconds": "Time with seconds",
+    "lng_settings_show_seconds": "消息时间精确到秒",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "跳到下一个未读对话",
