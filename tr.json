@@ -123,5 +123,7 @@
 
     "lng_proxy_remove_all": "Tüm proxy'leri kaldır",
     
-    "lng_copy_profile_id": "ID panoya kopyalandı."
+    "lng_copy_profile_id": "ID panoya kopyalandı.",
+
+    "lng_group_requests_ban": "Ban"
 }

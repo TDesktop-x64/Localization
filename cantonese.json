@@ -123,5 +123,7 @@
 
     "lng_proxy_remove_all": "刪晒全部網絡代理",
     
-    "lng_copy_profile_id": "ID 複製咗去剪貼簿。"
+    "lng_copy_profile_id": "ID 複製咗去剪貼簿。",
+
+    "lng_group_requests_ban": "Ban"
 }
