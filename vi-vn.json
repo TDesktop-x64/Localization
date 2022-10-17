@@ -24,7 +24,8 @@
     "lng_settings_replace_edit_button": "Thay thế nút \"Sửa\" bằng tin nhắn đã lưu",
     "lng_settings_disable_link_warning": "Tắt cảnh báo liên kết đang mở",
     "lng_settings_hide_messages": "Ẩn tin nhắn từ người dùng bị chặn",
-    "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_disable_premium_animation": "Tắt hoạt ảnh cao cấp",
+    "lng_settings_show_seconds": "Thời gian tính bằng giây",
     "lng_settings_restart_hint": "CẢNH BÁO: Thay đổi các tùy chọn có màu đỏ sẽ chỉ có hiệu lực sau khi ứng dụng khởi động lại.",
 
     "lng_settings_skip_message": "Chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
@@ -122,5 +123,7 @@
 
     "lng_proxy_remove_all": "Xóa tất cả proxy",
     
-    "lng_copy_profile_id": "Đã sao chép ID vào khay nhớ tạm."
+    "lng_copy_profile_id": "Đã sao chép ID vào khay nhớ tạm.",
+
+    "lng_group_requests_ban": "Ban"
 }

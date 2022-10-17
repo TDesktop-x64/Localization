@@ -25,6 +25,7 @@
     "lng_settings_disable_link_warning": "Disable open link warning",
     "lng_settings_hide_messages": "Hide messages from blocked user",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "Skip to next unread chat",
@@ -122,5 +123,7 @@
 
     "lng_proxy_remove_all": "移除全部代理",
     
-    "lng_copy_profile_id": "ID copied to clipboard."
+    "lng_copy_profile_id": "ID copied to clipboard.",
+
+    "lng_group_requests_ban": "Ban"
 }

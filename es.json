@@ -24,7 +24,8 @@
     "lng_settings_replace_edit_button": "Reemplazar el botón \"Editar\" por Mensajes guardados",
     "lng_settings_disable_link_warning": "Desactivar advertencia al abrir enlaces",
     "lng_settings_hide_messages": "Ocultar mensajes de usuarios bloqueados",
-    "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_disable_premium_animation": "Desactivar animación premium",
+    "lng_settings_show_seconds": "Tiempo con segundos",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
@@ -122,5 +123,7 @@
 
     "lng_proxy_remove_all": "Eliminar todos los proxies",
     
-    "lng_copy_profile_id": "ID copiado al portapapeles."
+    "lng_copy_profile_id": "ID copiado al portapapeles.",
+
+    "lng_group_requests_ban": "Ban"
 }

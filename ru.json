@@ -25,6 +25,7 @@
     "lng_settings_disable_link_warning": "Отключить предупреждение при открытии ссылки",
     "lng_settings_hide_messages": "Скрыть сообщения от заблокированных пользователей",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "ВНИМАНИЕ: изменение параметров прописанных красным цветом, перезапустят приложение для применения.",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
@@ -122,5 +123,7 @@
 
     "lng_proxy_remove_all": "Удалить все прокси",
     
-    "lng_copy_profile_id": "ID скопирован в буфер обмена."
+    "lng_copy_profile_id": "ID скопирован в буфер обмена.",
+
+    "lng_group_requests_ban": "Ban"
 }
