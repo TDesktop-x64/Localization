@@ -123,5 +123,7 @@
 
     "lng_proxy_remove_all": "حذف همه پروکسی ها",
     
-    "lng_copy_profile_id": "ای‌دی در کلیپ بورد کپی شد."
+    "lng_copy_profile_id": "ای‌دی در کلیپ بورد کپی شد.",
+
+    "lng_group_requests_ban": "Ban"
 }

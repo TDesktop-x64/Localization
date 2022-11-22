@@ -23,7 +23,7 @@
     "lng_settings_hide_all_chats": "Приховати папку «Усі чати»",
     "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
     "lng_settings_disable_link_warning": "Вимкнути попередження про перехід",
-    "lng_settings_hide_messages": "Приховувати повідомлення від заблокованого користувача"
+    "lng_settings_hide_messages": "Приховувати повідомлення від заблокованого користувача",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
     "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
@@ -100,7 +100,7 @@
     "lng_context_repeater": "Повторювач",
     "lng_context_forward": "Переслати",
 
-    "lng_settings_enable_hd_video": "Високий аудіо бітрейт"
+    "lng_settings_enable_hd_video": "Високий аудіо бітрейт",
     "lng_hd_video_hint": "Бітрейт змінено! Перезайдіть до голосового чату якщо Ви вже були там.",
 
     "lng_bitrate_controller": "Аудіо бітрейт",
@@ -123,5 +123,7 @@
 
     "lng_proxy_remove_all": "Видалити всі проксі",
     
-    "lng_copy_profile_id": "ID скопійовано."
+    "lng_copy_profile_id": "ID скопійовано.",
+
+    "lng_group_requests_ban": "Ban"
 }

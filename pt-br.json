@@ -123,5 +123,7 @@
 
     "lng_proxy_remove_all": "Remover todos os Proxies",
     
-    "lng_copy_profile_id": "ID copiado para a Área de Transferência."
+    "lng_copy_profile_id": "ID copiado para a Área de Transferência.",
+
+    "lng_group_requests_ban": "Ban"
 }

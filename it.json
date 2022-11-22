@@ -123,5 +123,7 @@
 
     "lng_proxy_remove_all": "Rimuovi tutti i proxy",
     
-    "lng_copy_profile_id": "ID copiato negli appunti."
+    "lng_copy_profile_id": "ID copiato negli appunti.",
+
+    "lng_group_requests_ban": "Ban"
 }

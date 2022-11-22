@@ -25,7 +25,7 @@
     "lng_settings_disable_link_warning": "禁用打开链接警告",
     "lng_settings_hide_messages": "隐藏来自坏东西的消息",
     "lng_settings_disable_premium_animation": "去掉大会员贴纸特技",
-    "lng_settings_show_seconds": "Time with seconds",
+    "lng_settings_show_seconds": "消息时间显秒",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "传送到下个未读对话",
@@ -122,6 +122,8 @@
     "lng_go_to_first_message": "跳到首条消息",
 
     "lng_proxy_remove_all": "移除全部代理",
-    
-    "lng_copy_profile_id": "ID 已复制到剪贴板。"
+
+    "lng_copy_profile_id": "ID 已复制到剪贴板。",
+
+    "lng_group_requests_ban": "鲨"
 }
