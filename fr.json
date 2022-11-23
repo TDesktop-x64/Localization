@@ -1,0 +1,129 @@
+{
+    "lng_intro_about2": "Bienvenue sur 64Gram.\nC'est rapide et sécurisé.",
+
+    "lng_settings_enhanced": "Paramètres supplémentaire",
+    "lng_settings_network": "Réseau",
+    "lng_settings_net_speed_boost": "Boost de la vitesse de téléchargement",
+    "lng_settings_show_message_id": "Montrer l'ID du message",
+    "lng_settings_button": "Bouton",
+    "lng_settings_show_emoji_button_as_text": "Montrer les boutons des emojis comme du texte",
+    "lng_settings_show_repeater_option": "Afficher l'option répéteur",
+    "lng_settings_show_phone_number": "Montrer le numéro de téléphone",
+    "lng_settings_repeater_reply_to_orig_msg": "Répondre au message original",
+    "lng_settings_disable_cloud_draft_sync": "Arrêt de la synchronisation des brouillons depuis le cloud",
+    "lng_settings_hide_classic_forward": "Hide Classic Forward",
+    "lng_settings_show_scheduled_button": "Toujours afficher le bouton programmé",
+    "lng_settings_voice_chat": "Chat vocal",
+    "lng_settings_stereo_mode": "Activer le mode stéréo",
+    "lng_settings_pin_voice_chat": "Épingler en haut",
+    "lng_settings_unpin_voice_chat": "Désépingler",
+    "lng_settings_radio_controller": "Contrôleur radio",
+    "lng_settings_auto_unmute": "désactivation du son automatique",
+    "lng_settings_other": "Autres",
+    "lng_settings_hide_all_chats": "Cacher \"Tout les chats\" dossier",
+    "lng_settings_replace_edit_button": "Remplacer \"Editer\" bouton par Messages sauvegardés",
+    "lng_settings_disable_link_warning": "Désactiver l'avertissement de lien ouvert",
+    "lng_settings_hide_messages": "Masquer les messages d'un utilisateur bloqué",
+    "lng_settings_disable_premium_animation": "Désactiver les animations premium",
+    "lng_settings_show_seconds": "Temps avec secondes",
+    "lng_settings_restart_hint": "ATTENTION: Changer les options de couleur rouge ne prendront effet qu'après un redémarrge de l'application.",
+
+    "lng_settings_skip_message": "Passer au message non lu suivant",
+    "lng_settings_skip_message_desc": "Note: Autoriser le raccourci ALT+↑/↓ pour passer au message non lu suivant",
+
+    "lng_net_speed_boost_title": "Augmentation de la vitesse du réseau",
+    "lng_net_speed_boost_desc": "Attention: La modification de ce paramètre à des valeurs élevées sur des réseaux lents peut aggraver la situation. Utilisez-le à vos risques et périls.",
+    "lng_show_emoji_button_as_text_desc": "Note: Si vous ne voyez pas de bouton emoji, veuillez activer cette option.",
+    "lng_radio_controller_desc": "Note: Radio controller est un robot expérimental pour controler votre session de streaming musical.",
+    "lng_auto_unmute_desc": "Note: Automatiquement réactiver le micro lorsque vous rejoignez un chat vocal.",
+    "lng_settings_hide_messages_desc": "Note: CE N'EST PAS VRAIMENT CACHÉ! Les messages peuvent toujours être consultés, mais le texte sera converti en Spoiler et les médias ne seront pas téléchargés automatiquement.",
+
+    "lng_net_speed_boost_default": "Désactiver",
+    "lng_net_speed_boost_slight": "Léger",
+    "lng_net_speed_boost_medium": "Moyen",
+    "lng_net_speed_boost_big": "Grand",
+
+    "lng_net_boost_restart_desc": "Vous devrez redémarrer l'application pour changer le réseau.\n\nRedémarrer maintenant ?",
+    "lng_show_messages_id_desc": "Warning: the changes will take effect immediately with restart.",
+
+    "lng_chat_restriction_reason": "Raison de la restriction",
+    "lng_copy_restriction_reason": "Copier la raison de la restriction",
+
+    "lng_context_copy_callback_data": "Copie les données de rappel",
+    "lng_context_forward_selected_no_quote": "Forward Selected (W/O quote)",
+    "lng_selected_forward_no_quote": "Forward (w/o quote)",
+    "lng_context_forward_msg_old_selected": "Forward Selectionné (Classique)",
+    "lng_selected_forward_emoji_classic": "📠(Classique)",
+
+    "lng_message_id": "ID du message: ",
+
+    "lng_admin_log_banned_send_stickers2": "Envoyer des stickers",
+    "lng_admin_log_banned_send_gifs": "Envoyer des GIFs",
+    "lng_admin_log_banned_send_games": "Envoyer des Jeux",
+    "lng_admin_log_banned_use_inline": "Utiliser des robots en ligne",
+    "lng_rights_chat_send_stickers2": "Envoyer des stickers",
+    "lng_rights_chat_send_gifs": "Envoyer des GIFs",
+    "lng_rights_chat_send_games": "Envoyer des jeux",
+    "lng_rights_chat_use_inline": "Utiliser des robots en ligne",
+
+    "lng_media_selected_gif#one": "{count} Gif",
+    "lng_media_selected_gif#other": "{count} Gifs",
+    "lng_media_type_gifs": "Gifs",
+    "lng_profile_gifs#one": "{count} gif",
+    "lng_profile_gifs#other": "{count} gifs",
+    "lng_profile_gifs_header": "Gifs",
+    "lng_media_gif_empty": "Pas de gifs ici pour le moment",
+
+    "lng_create_supergroup_title": "Nouveau Supergroupe",
+    "lng_action_group_migrate": "Le groupe a été amélioré en supergroupe.",
+    "lng_sure_upgrade_group": "Êtes vous sûr de vouloir améliorer ce groupe en supergroupe?",
+    "lng_chat_upgrade_warning": "Note: Cette action ne peut être défaite",
+
+    "lng_user_not_found": "404 User not found.\nNote: Vous devez avoir \"vu\" cet utilisateur avant d'ouvrir le lien .",
+
+    "lng_settings_always_delete_for": "Sélectionnez toujours la suppression pour",
+    "lng_settings_delete_disabled": "Désactiver",
+    "lng_settings_delete_for_group": "Groupe",
+    "lng_settings_delete_for_person": "Personne",
+    "lng_settings_delete_for_both": "Pourquoi pas les deux ?",
+
+    "lng_title_forward_as_copy": "Copier vers...",
+    "lng_title_multiple_forward": "Transmettre à...",
+
+    "lng_context_forward_msg": "Transfert multiple",
+    "lng_context_forward_msg_old": "Transfert individuel",
+    "lng_context_show_messages_from": "Messages de l'utilisateur",
+    "lng_context_repeat_msg": "Repeat as Forward",
+    "lng_context_repeat_msg_no_fwd": "Répéter comme une copie",
+    "lng_context_forward_msg_no_quote": "Forward as copy",
+    "lng_forward_to_saved_message": "Forward to Saved",
+    "lng_context_repeater": "Répétiteur",
+    "lng_context_forward": "Forward",
+
+    "lng_settings_enable_hd_video": "Plus grand débit binaire vidéo",
+    "lng_hd_video_hint": "Le débit binaire vidéo est modifié ! Rejoignez un chat vocal si vous avez déjà rejoint.",
+
+    "lng_bitrate_controller": "Débit binaire audio",
+    "lng_bitrate_controller_desc": "Attention: La modification de ce paramètre à des valeurs élevées peut affecter l'utilisateur sur des réseaux lents.",
+    "lng_bitrate_controller_hint": "Le débit audio a été modifié ! Rejoignez un chat vocal si vous avez déjà rejoint.",
+
+    "lng_bitrate_controller_default": "Défaut (32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "Voir le message épinglé",
+    "lng_pinned_message_hide": "Cacher le message épinglé",
+    "lng_pinned_message_view": "Voir le message épinglé",
+    "lng_go_to_first_message": "Aller au premier message",
+
+    "lng_proxy_remove_all": "Supprimer tout les proxies",
+    
+    "lng_copy_profile_id": "ID copié dans le presse-papiers.",
+
+    "lng_group_requests_ban": "Ban"
+}
