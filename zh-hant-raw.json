@@ -125,5 +125,7 @@
     
     "lng_copy_profile_id": "已將 ID 複製到剪貼簿。",
 
-    "lng_group_requests_ban": "封鎖"
+    "lng_group_requests_ban": "封鎖",
+
+    "lng_blocked_user_hint": "[Blocked User Message]\n"
 }
