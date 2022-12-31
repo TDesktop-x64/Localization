@@ -85,7 +85,7 @@
     "lng_settings_delete_disabled": "Никогда",
     "lng_settings_delete_for_group": "В группах",
     "lng_settings_delete_for_person": "В личных чатах",
-    "lng_settings_delete_for_both": "Почему бы не использовать оба пункта?",
+    "lng_settings_delete_for_both": "Оба пункта",
 	
     "lng_title_forward_as_copy": "Копировать в...",
     "lng_title_multiple_forward": "Переслать в...",
@@ -127,5 +127,5 @@
 
     "lng_group_requests_ban": "Бан",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[Сообщение заблокированного пользователя]\n"
 }
