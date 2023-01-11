@@ -1,13 +1,13 @@
 {
     "lng_intro_about2": "Bem vindo ao 64Gram Desktop \nUm cliente Rápido e Seguro",
 
-    "lng_settings_enhanced": "Configurações 64Gram",
+    "lng_settings_enhanced": "Configurações Melhoradas",
     "lng_settings_network": "Rede",
-    "lng_settings_net_speed_boost": "Aumentar Velocidade de Upload",
+    "lng_settings_net_speed_boost": "Aumentar Velocidade de Envio",
     "lng_settings_show_message_id": "Mostrar ID da Mensagem",
     "lng_settings_button": "Botão",
-    "lng_settings_show_emoji_button_as_text": "Mostrar Botão de Emoji em Texto",
-    "lng_settings_show_repeater_option": "Mostrar Repetidor no Menu de Contexto",
+    "lng_settings_show_emoji_button_as_text": "Mostrar Botão de Emoji como Texto",
+    "lng_settings_show_repeater_option": "Mostrar \"Repetidor\" no Menu de Contexto",
     "lng_settings_show_phone_number": "Mostrar Número de Telefone",
     "lng_settings_repeater_reply_to_orig_msg": "Responder a Mensagem Original",
     "lng_settings_disable_cloud_draft_sync": "Interromper Sincronia de Rascunhos em Nuvem",
@@ -24,18 +24,18 @@
     "lng_settings_replace_edit_button": "Substituir Botão \"Editar\" em Mensagens Salvas",
     "lng_settings_disable_link_warning": "Desabilitar Aviso ao Abrir Links",
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
-    "lng_settings_disable_premium_animation": "Disable Premium Animation",
-    "lng_settings_show_seconds": "Time with seconds",
-    "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só irão tomar efeito quando a aplicação for reiniciada",
+    "lng_settings_disable_premium_animation": "Desativar Animação Premium",
+    "lng_settings_show_seconds": "Tempo em Segundos",
+    "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só irão tomar efeito quando a aplicação for reiniciada.",
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
-    "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Chats não lidos",
+    "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Conversas não lidas.",
 
     "lng_net_speed_boost_title": "Aumentar Velocidade de Rede",
-    "lng_net_speed_boost_desc": "CUIDADO: Trocar este parâmetro em conexões lentas pode levar a resultados ainda piores",
-    "lng_show_emoji_button_as_text_desc": "NOTA: Se você não consegue ver um Botão de Emoji, por favor ligue está opção",
+    "lng_net_speed_boost_desc": "CUIDADO: Trocar este parâmetro em conexões lentas pode levar a resultados ainda piores.",
+    "lng_show_emoji_button_as_text_desc": "NOTA: Se você não consegue ver um Botão de Emoji, por favor ligue está opção.",
     "lng_radio_controller_desc": "NOTA: O controle de rádio é um bot experimental para controlar sua seção de streaming de música.",
-    "lng_auto_unmute_desc": "NOTA: Dessilenciar Automaticamente quando você entrar em um Chat de Voz",
+    "lng_auto_unmute_desc": "NOTA: Dessilenciar automaticamente ao entrar em um Chat de Voz.",
     "lng_settings_hide_messages_desc": "NOTA: ISTO NÃO REALMENTE ESCONDE! Mensagens ainda estarão disponíveis, porem o texto será convertido a um Spoiler e Mídias não serão baixadas automaticamente.",
 
     "lng_net_speed_boost_default": "Desativado",
@@ -57,11 +57,11 @@
 
     "lng_message_id": "ID da Mensagem: ",
 
-    "lng_admin_log_banned_send_stickers2": "Enviar Stickers",
+    "lng_admin_log_banned_send_stickers2": "Enviar Figurinhas",
     "lng_admin_log_banned_send_gifs": "Enviar GIFs",
     "lng_admin_log_banned_send_games": "Enviar Jogos",
     "lng_admin_log_banned_use_inline": "Usar Bots Inline",
-    "lng_rights_chat_send_stickers2": "Enviar stickers",
+    "lng_rights_chat_send_stickers2": "Enviar Stickers",
     "lng_rights_chat_send_gifs": "Enviar GIFs",
     "lng_rights_chat_send_games": "Enviar Jogos",
     "lng_rights_chat_use_inline": "Usar Bots Inline",
@@ -71,7 +71,7 @@
     "lng_media_type_gifs": "GIFs",
     "lng_profile_gifs#one": "{count} GIF",
     "lng_profile_gifs#other": "{count} GIFs",
-    "lng_profile_gifs_header": "Gifs",
+    "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "Você não tem GIFs salvos",
 
     "lng_create_supergroup_title": "Novo Supergrupo",
@@ -81,31 +81,31 @@
 
     "lng_user_not_found": "404 Usuário não Encontrado.\nNota: Você precisa ter \"visto\" este usuário antes de abrir usando o link.",
 
-    "lng_settings_always_delete_for": "Sempre selecionar Apagar Para Todos em",
+    "lng_settings_always_delete_for": "Sempre selecionar \"Apagar Para Todos\" em",
     "lng_settings_delete_disabled": "Nunca",
     "lng_settings_delete_for_group": "Em Grupos",
-    "lng_settings_delete_for_person": "Em Chats Privados",
-    "lng_settings_delete_for_both": "Ambos",
+    "lng_settings_delete_for_person": "Em Conversas Privadas",
+    "lng_settings_delete_for_both": "Sempre",
 
     "lng_title_forward_as_copy": "Copiar para...",
     "lng_title_multiple_forward": "Encaminhar para...",
 
-    "lng_context_forward_msg": "Encaminhar para Múltiplos Chats",
-    "lng_context_forward_msg_old": "Encaminhar apenas para um Chat",
+    "lng_context_forward_msg": "Encaminhar para Várias Conversas",
+    "lng_context_forward_msg_old": "Encaminhar apenas para uma Conversa",
     "lng_context_show_messages_from": "Mensagens do Usuário",
     "lng_context_repeat_msg": "Repetir como Encaminhamento",
     "lng_context_repeat_msg_no_fwd": "Repetir como Cópia",
     "lng_context_forward_msg_no_quote": "Encaminhar como Cópia",
-    "lng_forward_to_saved_message": "Encaminhar para o Mensagens Salvas",
+    "lng_forward_to_saved_message": "Encaminhar para suas Mensagens Salvas",
     "lng_context_repeater": "Repetidor",
     "lng_context_forward": "Encaminhar",
 
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
-    "lng_hd_video_hint": "o Bitrate de Vídeo mudou! Entre novamente num Chat de Voz se você já está em um.",
+    "lng_hd_video_hint": "o Bitrate de Vídeo mudou! saia e entre novamente em uma chamada de voz se você já está em uma.",
 
     "lng_bitrate_controller": "Bitrate de Áudio",
     "lng_bitrate_controller_desc": "AVISO: mudar este parâmetro para valores mais altos pode afetar usuários com conexões lentas.",
-    "lng_bitrate_controller_hint": "o Bitrate de Áudio mudou! Entre novamente num Chat de Voz se você já está em um.",
+    "lng_bitrate_controller_hint": "o Bitrate de Áudio mudou! saia e entre novamente em uma chamada de voz se você já está em uma.",
 
     "lng_bitrate_controller_default": "Padrão (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
@@ -127,5 +127,5 @@
 
     "lng_group_requests_ban": "Ban",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[Mensagem Bloqueada]\n"
 }
