@@ -1,7 +1,7 @@
 {
     "lng_intro_about2": "Ласкаво просимо до 64Gram Desktop.\nЦе швидкий і безпечний кліент",
 
-    "lng_settings_enhanced": "Додаткові",
+    "lng_settings_enhanced": "Додаткові налаштування",
     "lng_settings_network": "Мережа",
     "lng_settings_net_speed_boost": "Прискорення завантаження",
     "lng_settings_show_message_id": "Відображати ID",
@@ -12,21 +12,21 @@
     "lng_settings_repeater_reply_to_orig_msg": "Відповісти на вихідне",
     "lng_settings_disable_cloud_draft_sync": "Вимкнути синхронізацію чернеток",
     "lng_settings_hide_classic_forward": "Сховати класичне пересилання",
-    "lng_settings_show_scheduled_button": "Відображати кнопку запланованих",
+    "lng_settings_show_scheduled_button": "Відображати кнопку запланованих повідомлень",
     "lng_settings_voice_chat": "Голосовий чат",
-    "lng_settings_stereo_mode": "Enable Stereo Mode",
+    "lng_settings_stereo_mode": "Увімкнути стерео режим",
     "lng_settings_pin_voice_chat": "Закріпити",
     "lng_settings_unpin_voice_chat": "Відкріпити",
-    "lng_settings_radio_controller": "Радіо-контролер ",
+    "lng_settings_radio_controller": "Радіо-контролер",
     "lng_settings_auto_unmute": "Авто-увімкнення звуку",
     "lng_settings_other": "Інше",
     "lng_settings_hide_all_chats": "Приховати папку «Усі чати»",
-    "lng_settings_replace_edit_button": "Replace \"Edit\" button by Saved Messages",
+    "lng_settings_replace_edit_button": "Замінити кнопку \"Змінити\" на Збережене",
     "lng_settings_disable_link_warning": "Вимкнути попередження про перехід",
     "lng_settings_hide_messages": "Приховувати повідомлення від заблокованого користувача",
-    "lng_settings_disable_premium_animation": "Disable Premium Animation",
-    "lng_settings_show_seconds": "Time with seconds",
-    "lng_settings_restart_hint": "УВАГА: зміна параметрів прописаних червоним кольором, перезапустять додаток для застосування.",
+    "lng_settings_disable_premium_animation": "Вимкнути Premium-анімації",
+    "lng_settings_show_seconds": "Час з секундами",
+    "lng_settings_restart_hint": "УВАГА: Зміна параметрів виділених червоним кольором, набуде чинності тільки після перезапуску програми.",
 
     "lng_settings_skip_message": "Пропустити до наступного непрочитаного чату",
     "lng_settings_skip_message_desc": "Справка: Дозволяє комбінаціі ALT+↑/↓ пропускати до наступного непрочитаного чату",
@@ -36,7 +36,7 @@
     "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію.",
     "lng_radio_controller_desc": "Радіо-контролер — це експериментальний бот для управління аудіо-трансляцією.",
     "lng_auto_unmute_desc": "Автоматичне включення звуку при вході в голосовий чат",
-    "lng_settings_hide_messages_desc": "ВМІСТ НЕ ПРИХОВУЄТЬСЯ! Повідомлення будуть відображатись,але текст будет сховано у спойлер, а медіа не буде автоматично завантажуватись",
+    "lng_settings_hide_messages_desc": "ПОВІДОМЛЕННЯ НЕ ПРИХОВУЄТЬСЯ! Повідомлення будуть відображатись, але текст будет сховано у спойлер, а медіа не буде автоматично завантажуватись",
 	
     "lng_net_speed_boost_default": "Відключено",
     "lng_net_speed_boost_slight": "Трішки",
@@ -125,7 +125,7 @@
     
     "lng_copy_profile_id": "ID скопійовано.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Бан",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[Повідомлення заблокованого користувача]\n"
 }
