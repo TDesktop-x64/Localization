@@ -26,6 +26,7 @@
     "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
     "lng_settings_disable_premium_animation": "Premium Animasyonları Kapat",
     "lng_settings_show_seconds": "Saniye ile zaman",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
 
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",

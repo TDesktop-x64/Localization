@@ -26,6 +26,7 @@
     "lng_settings_hide_messages": "隐藏已封禁用户的消息",
     "lng_settings_disable_premium_animation": "禁用高级会员相关动画",
     "lng_settings_show_seconds": "消息时间显秒",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "跳到下一个未读对话",

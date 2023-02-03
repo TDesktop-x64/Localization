@@ -26,6 +26,7 @@
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
     "lng_settings_disable_premium_animation": "Desativar Animação Premium",
     "lng_settings_show_seconds": "Tempo em Segundos",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só irão tomar efeito quando a aplicação for reiniciada.",
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
