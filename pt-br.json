@@ -26,8 +26,8 @@
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
     "lng_settings_disable_premium_animation": "Desativar Animação Premium",
     "lng_settings_show_seconds": "Tempo em Segundos",
-    "lng_settings_hide_counter": "Hide online users counter",
-    "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só irão tomar efeito quando a aplicação for reiniciada.",
+    "lng_settings_hide_counter": "Ocultar Contador de Usuários Online",
+    "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só tomarão efeito quando a aplicação for reiniciada.",
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
     "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Conversas não lidas.",
@@ -37,7 +37,7 @@
     "lng_show_emoji_button_as_text_desc": "NOTA: Se você não consegue ver um Botão de Emoji, por favor ligue está opção.",
     "lng_radio_controller_desc": "NOTA: O controle de rádio é um bot experimental para controlar sua seção de streaming de música.",
     "lng_auto_unmute_desc": "NOTA: Dessilenciar automaticamente ao entrar em um Chat de Voz.",
-    "lng_settings_hide_messages_desc": "NOTA: ISTO NÃO REALMENTE ESCONDE! Mensagens ainda estarão disponíveis, porem o texto será convertido a um Spoiler e Mídias não serão baixadas automaticamente.",
+    "lng_settings_hide_messages_desc": "NOTA: ISTO NÃO REALMENTE ESCONDE! Mensagens ainda estarão disponíveis, porém o texto será convertido a um Spoiler e Mídias não serão baixadas automaticamente.",
 
     "lng_net_speed_boost_default": "Desativado",
     "lng_net_speed_boost_slight": "Baixo",
@@ -86,7 +86,7 @@
     "lng_settings_delete_disabled": "Nunca",
     "lng_settings_delete_for_group": "Em Grupos",
     "lng_settings_delete_for_person": "Em Conversas Privadas",
-    "lng_settings_delete_for_both": "Sempre",
+    "lng_settings_delete_for_both": "Para Ambos",
 
     "lng_title_forward_as_copy": "Copiar para...",
     "lng_title_multiple_forward": "Encaminhar para...",
@@ -97,16 +97,16 @@
     "lng_context_repeat_msg": "Repetir como Encaminhamento",
     "lng_context_repeat_msg_no_fwd": "Repetir como Cópia",
     "lng_context_forward_msg_no_quote": "Encaminhar como Cópia",
-    "lng_forward_to_saved_message": "Encaminhar para suas Mensagens Salvas",
+    "lng_forward_to_saved_message": "Encaminhar para Mensagens Salvas",
     "lng_context_repeater": "Repetidor",
     "lng_context_forward": "Encaminhar",
 
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
-    "lng_hd_video_hint": "o Bitrate de Vídeo mudou! saia e entre novamente em uma chamada de voz se você já está em uma.",
+    "lng_hd_video_hint": "O Bitrate de Vídeo mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",
 
     "lng_bitrate_controller": "Bitrate de Áudio",
     "lng_bitrate_controller_desc": "AVISO: mudar este parâmetro para valores mais altos pode afetar usuários com conexões lentas.",
-    "lng_bitrate_controller_hint": "o Bitrate de Áudio mudou! saia e entre novamente em uma chamada de voz se você já está em uma.",
+    "lng_bitrate_controller_hint": "O Bitrate de Áudio mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",
 
     "lng_bitrate_controller_default": "Padrão (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
