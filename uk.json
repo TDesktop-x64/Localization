@@ -12,7 +12,7 @@
     "lng_settings_repeater_reply_to_orig_msg": "Відповісти на вихідне",
     "lng_settings_disable_cloud_draft_sync": "Вимкнути синхронізацію чернеток",
     "lng_settings_hide_classic_forward": "Сховати класичне пересилання",
-    "lng_settings_show_scheduled_button": "Відображати кнопку запланованих повідомлень",
+    "lng_settings_show_scheduled_button": "Кнопка запланованих повідомлень",
     "lng_settings_voice_chat": "Голосовий чат",
     "lng_settings_stereo_mode": "Увімкнути стерео режим",
     "lng_settings_pin_voice_chat": "Закріпити",
@@ -23,21 +23,21 @@
     "lng_settings_hide_all_chats": "Приховати папку «Усі чати»",
     "lng_settings_replace_edit_button": "Замінити кнопку \"Змінити\" на Збережене",
     "lng_settings_disable_link_warning": "Вимкнути попередження про перехід",
-    "lng_settings_hide_messages": "Приховувати повідомлення від заблокованого користувача",
+    "lng_settings_hide_messages": "Cховати повідомлення заблокованих користувачів",
     "lng_settings_disable_premium_animation": "Вимкнути Premium-анімації",
     "lng_settings_show_seconds": "Час з секундами",
-    "lng_settings_hide_counter": "Hide online users counter",
+    "lng_settings_hide_counter": "Cховати кількість користувачів у мережі",
     "lng_settings_restart_hint": "УВАГА: Зміна параметрів виділених червоним кольором, набуде чинності тільки після перезапуску програми.",
 
-    "lng_settings_skip_message": "Пропустити до наступного непрочитаного чату",
-    "lng_settings_skip_message_desc": "Справка: Дозволяє комбінаціі ALT+↑/↓ пропускати до наступного непрочитаного чату",
+    "lng_settings_skip_message": "Перехід до непрочитаного чату",
+    "lng_settings_skip_message_desc": "Примітка: Дозволяє комбінаціі ALT+↑/↓ пропускати прочитані чати і переходити до наступного непрочитаного",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
-    "lng_net_speed_boost_desc": "Увага: високі значення параметра при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій страх і ризик.",
+    "lng_net_speed_boost_desc": "Увага: високі значення параметру при повільному інтернеті можуть зробити ще гірше. Використовуйте на свій ризик.",
     "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію.",
-    "lng_radio_controller_desc": "Радіо-контролер — це експериментальний бот для управління аудіо-трансляцією.",
-    "lng_auto_unmute_desc": "Автоматичне включення звуку при вході в голосовий чат",
-    "lng_settings_hide_messages_desc": "ПОВІДОМЛЕННЯ НЕ ПРИХОВУЄТЬСЯ! Повідомлення будуть відображатись, але текст будет сховано у спойлер, а медіа не буде автоматично завантажуватись",
+    "lng_radio_controller_desc": "Примітка: Радіо-контролер — це експериментальний бот для управління аудіо-трансляцією.",
+    "lng_auto_unmute_desc": "Примітка: Автоматичне включення мікрофону при вході в голосовий чат",
+    "lng_settings_hide_messages_desc": "Примітка: ПОВІДОМЛЕННЯ НЕ ПРИХОВУЮТЬСЯ! Повідомлення будуть відображатись, але текст будет сховано у спойлер, а медіа не буде автоматично завантажуватись",
 	
     "lng_net_speed_boost_default": "Відключено",
     "lng_net_speed_boost_slight": "Трішки",
@@ -82,7 +82,7 @@
 	
     "lng_user_not_found": "Користувача не знайдено. \nПримітка: перш ніж робити посилання на користувача, вам потрібно відкрити його профіль через цей клієнт.",
     
-    "lng_settings_always_delete_for": "Обрати де завжди видаляли",
+    "lng_settings_always_delete_for": "Завжди відмічати видалення",
     "lng_settings_delete_disabled": "Ніколи",
     "lng_settings_delete_for_group": "У групах",
     "lng_settings_delete_for_person": "В особистих чатах",
@@ -105,7 +105,7 @@
     "lng_hd_video_hint": "Бітрейт змінено! Перезайдіть до голосового чату якщо Ви вже були там.",
 
     "lng_bitrate_controller": "Аудіо бітрейт",
-    "lng_bitrate_controller_desc": "Високе значення може нашкодити учасникам з повільним інтернетом.",
+    "lng_bitrate_controller_desc": "Увага: високе значення може нашкодити учасникам з повільним інтернетом.",
     "lng_bitrate_controller_hint": "Бітрейт змінено! Перезайдіть до голосового чату якщо Ви вже були там.",
 
     "lng_bitrate_controller_default": "Типово (32 Кб/с)",
