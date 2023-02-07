@@ -18,7 +18,7 @@
     "lng_settings_pin_voice_chat": "置顶",
     "lng_settings_unpin_voice_chat": "取消置顶",
     "lng_settings_radio_controller": "电台控制器",
-    "lng_settings_auto_unmute": "自动开启通知",
+    "lng_settings_auto_unmute": "自动开启麦克风",
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏<对话>分组",
     "lng_settings_replace_edit_button": "左侧分组列表的<编辑>按钮改为<收藏夹>",
@@ -26,7 +26,7 @@
     "lng_settings_hide_messages": "隐藏已拉黑用户的消息",
     "lng_settings_disable_premium_animation": "禁用 Premium 贴纸动画",
     "lng_settings_show_seconds": "消息时间精确到秒",
-    "lng_settings_hide_counter": "Hide online users counter",
+    "lng_settings_hide_counter": "隐藏在线用户数量",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "跳到下一个未读对话",
@@ -36,7 +36,7 @@
     "lng_net_speed_boost_desc": "警告：在网络比较慢的网络上将此参数更改为高值可能会使情况变得更糟，后果自负。",
     "lng_show_emoji_button_as_text_desc": "注意：如果您看不到 Emoji 按钮，请打开此选项。",
     "lng_radio_controller_desc": "注意：电台控制器是一个实验机器人，用于控制您的音乐播放会话。",
-    "lng_auto_unmute_desc": "注意：加入语音聊天后会自动开启通知。",
+    "lng_auto_unmute_desc": "注意：加入语音聊天后会自动开启麦克风。",
     "lng_settings_hide_messages_desc": "注意：它不是真的隐藏了消息！ 消息仍然可以查看，但文本将被转换为剧透，媒体不会自动下载。",
 
     "lng_net_speed_boost_default": "禁用",
