@@ -18,7 +18,7 @@
     "lng_settings_pin_voice_chat": "Καρφίτσωμα στην κορυφή",
     "lng_settings_unpin_voice_chat": "Ξεκαρφίτσωμα",
     "lng_settings_radio_controller": "Ρυθμιστής Ραδιοφώνου",
-    "lng_settings_auto_unmute": "Auto unmute",
+    "lng_settings_auto_unmute": "Αυτόματη Άρση Σίγασης",
     "lng_settings_other": "Άλλα",
     "lng_settings_hide_all_chats": "Απόκρυψη φακέλου \"Όλες οι συνομιλίες\"",
     "lng_settings_replace_edit_button": "Αντικατ. πλήκτρου \"Επεξ/σία\" με Αποθηκ. Μηνύματα",
@@ -30,7 +30,7 @@
     "lng_settings_restart_hint": "ΠΡΟΣΟΧΗ: Η αλλαγή των επιλογών που είναι με κόκκινο χρώμα θα τεθούν σε ισχύ μόνο μετά την επανεκκίνηση της εφαρμογής..",
 
     "lng_settings_skip_message": "Μετάβαση στην επόμενη Μη Αναγνωσμένη Συνομιλία",
-    "lng_settings_skip_message_desc": "Σημείωση: Αποδοχή ALT+↑/↓ συντόμευση για μετάβαση στην επόμενη Μη Αναγνωσμένη Συνομιλία",
+    "lng_settings_skip_message_desc": "Σημείωση: Αποδοχή ALT+↑/↓ συντόμευσης για μετάβαση στην επόμενη Μη Αναγνωσμένη Συνομιλία",
 
     "lng_net_speed_boost_title": "Ενίσχυση ταχύτητας δικτύου",
     "lng_net_speed_boost_desc": "Προειδοποίηση: η αλλαγή αυτής της παραμέτρου σε υψηλές τιμές σε αργά δίκτυα μπορεί να την κάνει ακόμα χειρότερη. Χρησιμοποιήστε το με δική σας ευθύνη.",
@@ -58,11 +58,11 @@
 
     "lng_message_id": "ID Μηνύματος: ",
 
-    "lng_admin_log_banned_send_stickers2": "Αποστολή αυτοκόλλητων",
+    "lng_admin_log_banned_send_stickers2": "Αποστολή Αυτοκόλλητων",
     "lng_admin_log_banned_send_gifs": "Αποστολή GIFs",
     "lng_admin_log_banned_send_games": "Αποστολή Παιχνιδιών",
     "lng_admin_log_banned_use_inline": "Χρήση Inline Bots",
-    "lng_rights_chat_send_stickers2": "Αποστολή αυτοκόλλητων",
+    "lng_rights_chat_send_stickers2": "Αποστολή Αυτοκόλλητων",
     "lng_rights_chat_send_gifs": "Αποστολή GIFs",
     "lng_rights_chat_send_games": "Αποστολή Παιχνιδιών",
     "lng_rights_chat_use_inline": "Χρήση Inline Bots",
@@ -75,14 +75,14 @@
     "lng_profile_gifs_header": "Gifs",
     "lng_media_gif_empty": "Δεν υπάρχουν gifs εδώ ακόμη",
 
-    "lng_create_supergroup_title": "Νέο Supergroup",
+    "lng_create_supergroup_title": "Νέα Supergroup",
     "lng_action_group_migrate": "Η Ομάδα αναβαθμίστηκε σε Supergroup",
     "lng_sure_upgrade_group": "Σίγουρα θέλετε να αναβαθμίσετε αυτή την ομάδα σε Supergroup?",
     "lng_chat_upgrade_warning": "Σημείωση: Αυτή η ενέργεια δεν μπορεί να αναιρεθεί",
 
-    "lng_user_not_found": "404 Ο χρήστης δεν βρέθηκε.\nΣημείωση: Πρέπει να έχετε \"προβολή\" αυτόν τον χρήστη πριν ανοίξετε αυτόν τον σύνδεσμο..",
+    "lng_user_not_found": "404 Ο χρήστης δεν βρέθηκε.\nΣημείωση: Πρέπει να έχετε \"προβολή\" αυτόν τον χρήστη πριν ανοίξετε αυτόν τον σύνδεσμο.",
 
-    "lng_settings_always_delete_for": "Επιλογή πάντα διαγραφή για",
+    "lng_settings_always_delete_for": "Επιλογή Διαγραφή πάντα για",
     "lng_settings_delete_disabled": "Ανενεργή",
     "lng_settings_delete_for_group": "Ομάδα",
     "lng_settings_delete_for_person": "Άτομο",
@@ -95,8 +95,8 @@
     "lng_context_forward_msg_old": "Μια Προώθηση",
     "lng_context_show_messages_from": "Μηνύμ. από χρήστη",
     "lng_context_repeat_msg": "Επανάληψη ως Προώθηση",
-    "lng_context_repeat_msg_no_fwd": "Επανάληψη ως αντίγραφο",
-    "lng_context_forward_msg_no_quote": "Προώθηση ως αντίγραφο",
+    "lng_context_repeat_msg_no_fwd": "Επανάληψη ως Αντίγραφο",
+    "lng_context_forward_msg_no_quote": "Προώθηση ως Αντίγραφο",
     "lng_forward_to_saved_message": "Προώθηση στην Αποθήκευση",
     "lng_context_repeater": "Επαναλήπτης",
     "lng_context_forward": "Προώθηση",
