@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "Migliorie",
     "lng_settings_network": "Rete",
     "lng_settings_net_speed_boost": "Incremento velocità di caricamento",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Mostra ID dei messaggi",
     "lng_settings_button": "Pulsanti",
     "lng_settings_show_emoji_button_as_text": "Testo invece delle emoji",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "Nascondi i messaggi dagli utenti bloccati",
     "lng_settings_disable_premium_animation": "Disattiva l'animazione di Premium",
     "lng_settings_show_seconds": "Time with seconds",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_settings_skip_message": "Vai alla prossima chat non letta",

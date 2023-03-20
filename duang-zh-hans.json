@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
     "lng_settings_net_speed_boost": "上行黑魔法",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "显示消息 ID",
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "隐藏来自坏东西的消息",
     "lng_settings_disable_premium_animation": "去掉大会员贴纸特技",
     "lng_settings_show_seconds": "消息时间显秒",
+    "lng_settings_hide_counter": "隐藏喘气用户数",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "传送到下个未读对话",
@@ -127,5 +129,5 @@
 
     "lng_group_requests_ban": "鲨",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[坏东西在说话]\n"
 }

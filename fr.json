@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "Paramètres supplémentaire",
     "lng_settings_network": "Réseau",
     "lng_settings_net_speed_boost": "Boost de la vitesse de téléchargement",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Montrer l'ID du message",
     "lng_settings_button": "Bouton",
     "lng_settings_show_emoji_button_as_text": "Montrer les boutons des emojis comme du texte",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "Masquer les messages d'un utilisateur bloqué",
     "lng_settings_disable_premium_animation": "Désactiver les animations premium",
     "lng_settings_show_seconds": "Temps avec secondes",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "ATTENTION: Changer les options de couleur rouge ne prendront effet qu'après un redémarrge de l'application.",
 
     "lng_settings_skip_message": "Passer au message non lu suivant",

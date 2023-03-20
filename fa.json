@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "تنظیمات افزوده شده",
     "lng_settings_network": "شبکه",
     "lng_settings_net_speed_boost": "افزایش سرعت دانلود/آپلود",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "نمایش آی‌دی پیام‌ها",
     "lng_settings_button": "دکمه",
     "lng_settings_show_emoji_button_as_text": "نمایش متنی دکمه شکلک",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "مخفی کردن پیام کاربران بلاک شده",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
     "lng_settings_show_seconds": "Time with seconds",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "هشدار: عوض کردن گزینه های رنگی بعد از ریستارت اثر میگذارد.",
 
     "lng_settings_skip_message": "رفتن به چت خوانده نشده بعدی",

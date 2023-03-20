@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "增强設定",
     "lng_settings_network": "網絡",
     "lng_settings_net_speed_boost": "上載加速",
+    "lng_settings_net_download_speed_boost": "下載加速",
     "lng_settings_show_message_id": "顯示訊息 ID",
     "lng_settings_button": "按鈕",
     "lng_settings_show_emoji_button_as_text": "用文字嚟顯示表情符號",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "唔睇杯葛咗嘅用戶嘅訊息",
     "lng_settings_disable_premium_animation": "停用同 Premium 有關嘅動畫",
     "lng_settings_show_seconds": "顯示時間嗰陣顯示埋秒數",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "警告：改紅色嘅設定會即刻令程式重新啟動嚟套用新設定。",
 
     "lng_settings_skip_message": "跳去下一個未睇嘅傾偈",

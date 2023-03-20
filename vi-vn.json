@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "Cài đặt nâng cao",
     "lng_settings_network": "Mạng",
     "lng_settings_net_speed_boost": "Tăng tốc độ tải lên",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Hiển thị ID tin nhắn",
     "lng_settings_button": "Nút",
     "lng_settings_show_emoji_button_as_text": "Hiển thị nút biểu tượng cảm xúc dưới dạng văn bản",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "Ẩn tin nhắn từ người dùng bị chặn",
     "lng_settings_disable_premium_animation": "Tắt hoạt ảnh cao cấp",
     "lng_settings_show_seconds": "Thời gian tính bằng giây",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "CẢNH BÁO: Thay đổi các tùy chọn có màu đỏ sẽ chỉ có hiệu lực sau khi ứng dụng khởi động lại.",
 
     "lng_settings_skip_message": "Chuyển đến cuộc trò chuyện chưa đọc tiếp theo",

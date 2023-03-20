@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "Расширенные настройки",
     "lng_settings_network": "Сеть",
     "lng_settings_net_speed_boost": "Увеличение скорости загрузки",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Показывать ID сообщений",
     "lng_settings_button": "Кнопки",
     "lng_settings_show_emoji_button_as_text": "Буквы вместо эмодзи",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "Скрыть сообщения от заблокированных пользователей",
     "lng_settings_disable_premium_animation": "Отключить премиум анимации",
     "lng_settings_show_seconds": "Время с указанием секунд",
+    "lng_settings_hide_counter": "Скрыть счётчик пользователей онлайн",
     "lng_settings_restart_hint": "ПРЕДУПРЕЖДЕНИЕ: Изменение параметров, выделенных красным цветом, вступит в силу только после перезапуска приложения",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",

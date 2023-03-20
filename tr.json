@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "Gelişmiş Ayarlar",
     "lng_settings_network": "Ağ",
     "lng_settings_net_speed_boost": "Yükleme hızı ayarı",
+    "lng_settings_net_download_speed_boost": "İndirme hızı ayarı",
     "lng_settings_show_message_id": "Mesaj ID'sini göster",
     "lng_settings_button": "Buton",
     "lng_settings_show_emoji_button_as_text": "Çıkartmaları metin olarak göster",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
     "lng_settings_disable_premium_animation": "Premium Animasyonları Kapat",
     "lng_settings_show_seconds": "Saniye ile zaman",
+    "lng_settings_hide_counter": "Çevrimiçi kullanıcı sayacını gizle",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
 
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",
@@ -127,5 +129,5 @@
 
     "lng_group_requests_ban": "Ban",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[Engellenen Kullanıcı Mesajı]\n"
 }

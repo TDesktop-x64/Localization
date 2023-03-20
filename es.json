@@ -4,6 +4,7 @@
     "lng_settings_enhanced": "Ajustes mejorados",
     "lng_settings_network": "Red",
     "lng_settings_net_speed_boost": "Aumentar velocidad de subida",
+    "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Ver ID del mensaje",
     "lng_settings_button": "Botón",
     "lng_settings_show_emoji_button_as_text": "Mostrar el emoji del botón como texto",
@@ -26,6 +27,7 @@
     "lng_settings_hide_messages": "Ocultar mensajes de usuarios bloqueados",
     "lng_settings_disable_premium_animation": "Desactivar animación premium",
     "lng_settings_show_seconds": "Tiempo con segundos",
+    "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
@@ -127,5 +129,5 @@
 
     "lng_group_requests_ban": "Expulsar",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[Mensaje de usuario bloqueado]\n"
 }
