@@ -4,7 +4,7 @@
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
     "lng_settings_net_speed_boost": "上传速度提升",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
+    "lng_settings_net_download_speed_boost": "下载速度提升",
     "lng_settings_show_message_id": "显示消息ID",
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "Emoji 按钮显示为文本",
@@ -19,7 +19,7 @@
     "lng_settings_pin_voice_chat": "置顶",
     "lng_settings_unpin_voice_chat": "取消置顶",
     "lng_settings_radio_controller": "电台控制器",
-    "lng_settings_auto_unmute": "自动开启麦克风",
+    "lng_settings_auto_unmute": "自动取消静音",
     "lng_settings_other": "其他",
     "lng_settings_hide_all_chats": "隐藏<对话>分组",
     "lng_settings_replace_edit_button": "左侧分组列表的<编辑>按钮改为<收藏夹>",
@@ -37,7 +37,7 @@
     "lng_net_speed_boost_desc": "警告：在网络比较慢的网络上将此参数更改为高值可能会使情况变得更糟，后果自负。",
     "lng_show_emoji_button_as_text_desc": "注意：如果您看不到 Emoji 按钮，请打开此选项。",
     "lng_radio_controller_desc": "注意：电台控制器是一个实验机器人，用于控制您的音乐播放会话。",
-    "lng_auto_unmute_desc": "注意：加入语音聊天后会自动开启麦克风。",
+    "lng_auto_unmute_desc": "注意：加入语音聊天后会自动取消静音。",
     "lng_settings_hide_messages_desc": "注意：它不是真的隐藏了消息！ 消息仍然可以查看，但文本将被转换为剧透，媒体不会自动下载。",
 
     "lng_net_speed_boost_default": "禁用",
@@ -55,7 +55,7 @@
     "lng_context_forward_selected_no_quote": "转发所选(无引用)",
     "lng_selected_forward_no_quote": "转发(无引用)",
     "lng_context_forward_msg_old_selected": "转发所选(经典)",
-    "lng_selected_forward_emoji_classic": "📠 (经典)",
+    "lng_selected_forward_emoji_classic": "📠(经典)",
 
     "lng_message_id": "消息ID: ",
 
