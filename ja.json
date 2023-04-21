@@ -1,0 +1,133 @@
+{
+    "lng_intro_about2": "64Gram デスクトップアプリケーションへようこそ\n高速で安全です",
+
+    "lng_settings_enhanced": "高度な設定",
+    "lng_settings_network": "ネットワーク",
+    "lng_settings_net_speed_boost": "アップロード速度ブースト",
+    "lng_settings_net_download_speed_boost": "ダウンロード速度ブースト",
+    "lng_settings_show_message_id": "メッセージIDを表示",
+    "lng_settings_button": "ボタン",
+    "lng_settings_show_emoji_button_as_text": "絵文字ボタンをテキストとして表示",
+    "lng_settings_show_repeater_option": "リピーターオプションを表示",
+    "lng_settings_show_phone_number": "電話番号を表示",
+    "lng_settings_repeater_reply_to_orig_msg": "オリジナルメッセージに返信",
+    "lng_settings_disable_cloud_draft_sync": "クラウド上から下書きを同期しない",
+    "lng_settings_hide_classic_forward": "従来の転送を非表示",
+    "lng_settings_show_scheduled_button": "常に予約ボタンを表示",
+    "lng_settings_voice_chat": "ボイスチャット",
+    "lng_settings_stereo_mode": "ステレオモードを有効化",
+    "lng_settings_pin_voice_chat": "最上部に固定",
+    "lng_settings_unpin_voice_chat": "固定解除",
+    "lng_settings_radio_controller": "ラジオコントローラー",
+    "lng_settings_auto_unmute": "自動でミュート解除",
+    "lng_settings_other": "その他",
+    "lng_settings_hide_all_chats": "\"すべてのチャット\" フォルダを非表示",
+    "lng_settings_replace_edit_button": "\"編集\" ボタンを保存されたメッセージで置き換える",
+    "lng_settings_disable_link_warning": "リンクを開くときの警告を無効化",
+    "lng_settings_hide_messages": "ブロックしたユーザーからのメッセージを非表示",
+    "lng_settings_disable_premium_animation": "プレミアムアニメーションを無効化",
+    "lng_settings_show_seconds": "時間に秒も表示",
+    "lng_settings_hide_counter": "オンラインのユーザー数を非表示",
+    "lng_settings_restart_hint": "警告: 赤色の項目を変更した場合、アプリの再起動後に反映されます。",
+
+    "lng_settings_skip_message": "次の未読チャットに移動",
+    "lng_settings_skip_message_desc": "注釈: ALT+↑/↓ のショートカットを利用して次の未読チャットに移動できるようになります。",
+
+    "lng_net_speed_boost_title": "ネットワーク速度ブースト",
+    "lng_net_speed_boost_desc": "警告: 低速なネットワークでこの項目の値を上げると、むしろさらに低速になることがあります。自己責任で利用してください。",
+    "lng_show_emoji_button_as_text_desc": "注釈: 絵文字ボタンが表示されていない場合、このオプションを有効化してください。",
+    "lng_radio_controller_desc": "注釈: ラジオコントローラーは、音楽ストリーミングセッションを管理するための実験的なbotです。",
+    "lng_auto_unmute_desc": "注釈: ボイスチャットに参加したとき、自動的にミュートを解除します。",
+    "lng_settings_hide_messages_desc": "注釈: 実際には完全に隠されるわけではありません! メッセージは引き続き閲覧できますが、テキストは伏せ字になり、メディアの自動ダウンロードが無効になります。",
+
+    "lng_net_speed_boost_default": "無効",
+    "lng_net_speed_boost_slight": "小",
+    "lng_net_speed_boost_medium": "中",
+    "lng_net_speed_boost_big": "大",
+
+    "lng_net_boost_restart_desc": "ネットワークブーストを変更するにはアプリ再起動が必要です。\n\n再起動しますか?",
+    "lng_show_messages_id_desc": "警告: 変更は再起動後から反映されます。",
+
+    "lng_chat_restriction_reason": "制限理由",
+    "lng_copy_restriction_reason": "制限理由をコピー",
+
+    "lng_context_copy_callback_data": "コールバックデータをコピー",
+    "lng_context_forward_selected_no_quote": "選択項目を転送 (引用符なし)",
+    "lng_selected_forward_no_quote": "転送 (引用符なし)",
+    "lng_context_forward_msg_old_selected": "選択項目を転送 (クラシックスタイル)",
+    "lng_selected_forward_emoji_classic": "📠(クラシックスタイル)",
+
+    "lng_message_id": "メッセージID: ",
+
+    "lng_admin_log_banned_send_stickers2": "ステッカーを送信",
+    "lng_admin_log_banned_send_gifs": "GIFを送信",
+    "lng_admin_log_banned_send_games": "ゲームを送信",
+    "lng_admin_log_banned_use_inline": "組み込みBotを利用",
+    "lng_rights_chat_send_stickers2": "ステッカーを送信",
+    "lng_rights_chat_send_gifs": "GIFを送信",
+    "lng_rights_chat_send_games": "ゲームを送信",
+    "lng_rights_chat_use_inline": "組み込みBotを利用",
+
+    "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#other": "{count} GIF",
+    "lng_media_type_gifs": "GIF",
+    "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#other": "{count} GIF",
+    "lng_profile_gifs_header": "GIF",
+    "lng_media_gif_empty": "GIFがありません",
+
+    "lng_create_supergroup_title": "新規スーパーグループ",
+    "lng_action_group_migrate": "グループがスーパーグループにアップグレードされました",
+    "lng_sure_upgrade_group": "グループをスーパーグループにアップグレードしますか?",
+    "lng_chat_upgrade_warning": "注釈: この操作は元に戻せません",
+
+    "lng_user_not_found": "404 ユーザーが見つかりません。\n注釈: このリンクを開く前にユーザーを \"見た\" ことがあるはずです。",
+
+    "lng_settings_always_delete_for": "常に削除対象を選択",
+    "lng_settings_delete_disabled": "無効",
+    "lng_settings_delete_for_group": "グループ",
+    "lng_settings_delete_for_person": "ユーザー",
+    "lng_settings_delete_for_both": "両方?",
+
+    "lng_title_forward_as_copy": "コピー先 ...",
+    "lng_title_multiple_forward": "転送先 ...",
+
+    "lng_context_forward_msg": "複数転送",
+    "lng_context_forward_msg_old": "単一転送",
+    "lng_context_show_messages_from": "ユーザーからのメッセージ",
+    "lng_context_repeat_msg": "転送でリピート",
+    "lng_context_repeat_msg_no_fwd": "コピーをリピート",
+    "lng_context_forward_msg_no_quote": "コピーを転送",
+    "lng_forward_to_saved_message": "保存用に転送",
+    "lng_context_repeater": "リピーター",
+    "lng_context_forward": "転送",
+
+    "lng_settings_enable_hd_video": "動画ビットレートを高くする",
+    "lng_hd_video_hint": "動画ビットレートが変更されました! ボイスチャットに参加中の場合、参加し直してください。",
+
+    "lng_bitrate_controller": "音声ビットレート",
+    "lng_bitrate_controller_desc": "警告: 低速なネットワークでこの項目の値を上げると、不安定になることがあります。",
+    "lng_bitrate_controller_hint": "音声ビットレートが変更されました! ボイスチャットに参加中の場合、参加し直してください。",
+
+    "lng_bitrate_controller_default": "デフォルト (32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "固定メッセージを表示",
+    "lng_pinned_message_hide": "固定メッセージを非表示",
+    "lng_pinned_message_view": "固定メッセージを閲覧",
+    "lng_go_to_first_message": "最初のメッセージへ移動",
+
+    "lng_proxy_remove_all": "すべてのプロキシを削除",
+    
+    "lng_copy_profile_id": "IDがクリップボードにコピーされました",
+
+    "lng_group_requests_ban": "BAN",
+
+    "lng_blocked_user_hint": "[ブロック中ユーザーのメッセージ]\n"
+}
