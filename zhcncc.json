@@ -3,7 +3,7 @@
 
     "lng_settings_enhanced": "增强设置",
     "lng_settings_network": "网络",
-    "lng_settings_net_speed_boost": "上传速度提升",
+    "lng_settings_net_upload_speed_boost": "上传速度提升",
     "lng_settings_net_download_speed_boost": "下载速度提升",
     "lng_settings_show_message_id": "显示消息ID",
     "lng_settings_button": "按钮",

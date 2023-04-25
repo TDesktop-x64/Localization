@@ -3,7 +3,7 @@
 
     "lng_settings_enhanced": "Ajustes mejorados",
     "lng_settings_network": "Red",
-    "lng_settings_net_speed_boost": "Aumentar velocidad de subida",
+    "lng_settings_net_upload_speed_boost": "Aumentar velocidad de subida",
     "lng_settings_net_download_speed_boost": "Aumentar velocidad de descarga",
     "lng_settings_show_message_id": "Ver ID del mensaje",
     "lng_settings_button": "Botón",

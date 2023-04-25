@@ -3,7 +3,7 @@
 
     "lng_settings_enhanced": "Configurações Melhoradas",
     "lng_settings_network": "Rede",
-    "lng_settings_net_speed_boost": "Aumentar Velocidade de Envio",
+    "lng_settings_net_upload_speed_boost": "Aumentar Velocidade de Envio",
     "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Mostrar ID da Mensagem",
     "lng_settings_button": "Botão",

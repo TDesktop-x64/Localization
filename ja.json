@@ -3,7 +3,7 @@
 
     "lng_settings_enhanced": "高度な設定",
     "lng_settings_network": "ネットワーク",
-    "lng_settings_net_speed_boost": "アップロード速度ブースト",
+    "lng_settings_net_upload_speed_boost": "アップロード速度ブースト",
     "lng_settings_net_download_speed_boost": "ダウンロード速度ブースト",
     "lng_settings_show_message_id": "メッセージIDを表示",
     "lng_settings_button": "ボタン",

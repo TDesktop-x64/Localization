@@ -3,7 +3,7 @@
 
     "lng_settings_enhanced": "Paramètres supplémentaire",
     "lng_settings_network": "Réseau",
-    "lng_settings_net_speed_boost": "Boost de la vitesse de téléchargement",
+    "lng_settings_net_upload_speed_boost": "Boost de la vitesse de téléchargement",
     "lng_settings_net_download_speed_boost": "Download speed boost",
     "lng_settings_show_message_id": "Montrer l'ID du message",
     "lng_settings_button": "Bouton",
