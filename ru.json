@@ -3,8 +3,8 @@
 
     "lng_settings_enhanced": "Расширенные настройки",
     "lng_settings_network": "Сеть",
-    "lng_settings_net_upload_speed_boost": "Увеличение скорости загрузки",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
+    "lng_settings_net_upload_speed_boost": "Увеличение скорости отправки",
+    "lng_settings_net_download_speed_boost": "Увеличение скорости загрузки",
     "lng_settings_show_message_id": "Показывать ID сообщений",
     "lng_settings_button": "Кнопки",
     "lng_settings_show_emoji_button_as_text": "Буквы вместо эмодзи",
