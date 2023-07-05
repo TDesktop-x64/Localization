@@ -24,10 +24,10 @@
     "lng_settings_hide_all_chats": "隱藏「全部傾偈」資料夾",
     "lng_settings_replace_edit_button": "將「修改」按鈕改做收藏夾",
     "lng_settings_disable_link_warning": "停用打開連結嗰陣嘅警告",
-    "lng_settings_hide_messages": "唔睇杯葛咗嘅用戶嘅訊息",
+    "lng_settings_hide_messages": "唔睇杯葛咗嘅用户發嘅訊息",
     "lng_settings_disable_premium_animation": "停用同 Premium 有關嘅動畫",
     "lng_settings_show_seconds": "顯示時間嗰陣顯示埋秒數",
-    "lng_settings_hide_counter": "Hide online users counter",
+    "lng_settings_hide_counter": "唔計數喺度嘅用户",
     "lng_settings_restart_hint": "警告：改紅色嘅設定會即刻令程式重新啟動嚟套用新設定。",
 
     "lng_settings_skip_message": "跳去下一個未睇嘅傾偈",
@@ -81,7 +81,7 @@
     "lng_sure_upgrade_group": "你真係要將呢個谷升為超級谷？",
     "lng_chat_upgrade_warning": "留意返：呢個操作唔可以還原",
 
-    "lng_user_not_found": "404 揾唔到用户。\n留意返：你要喺打開呢個連結之前「見過」呢位用戶。",
+    "lng_user_not_found": "404 揾唔到用户。\n留意返：你要喺打開呢個連結之前「見過」呢位用户。",
 
     "lng_settings_always_delete_for": "自動勾選「幫…刪埋佢」",
     "lng_settings_delete_disabled": "閂",
@@ -94,7 +94,7 @@
 
     "lng_context_forward_msg": "多選轉發",
     "lng_context_forward_msg_old": "單獨轉發",
-    "lng_context_show_messages_from": "呢個用戶嘅其他訊息",
+    "lng_context_show_messages_from": "呢個用户嘅其他訊息",
     "lng_context_repeat_msg": "用轉發嚟復讀",
     "lng_context_repeat_msg_no_fwd": "直接復讀",
     "lng_context_forward_msg_no_quote": "唔帶引用轉發",
@@ -129,5 +129,5 @@
 
     "lng_group_requests_ban": "杯葛",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[杯葛咗嘅用户發嘅訊息]\n"
 }
