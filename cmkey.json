@@ -28,6 +28,7 @@
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
     "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_hide_counter": "Hide online users counter",
+    "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "Skip to next unread chat",

@@ -28,6 +28,7 @@
     "lng_settings_disable_premium_animation": "Desactivar animación premium",
     "lng_settings_show_seconds": "Tiempo con segundos",
     "lng_settings_hide_counter": "Ocultar contador de usuarios en línea",
+    "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
 
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",

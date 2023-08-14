@@ -28,6 +28,7 @@
     "lng_settings_disable_premium_animation": "Отключить премиум анимации",
     "lng_settings_show_seconds": "Время с указанием секунд",
     "lng_settings_hide_counter": "Скрыть счётчик пользователей онлайн",
+    "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_restart_hint": "ПРЕДУПРЕЖДЕНИЕ: Изменение параметров, выделенных красным цветом, вступит в силу только после перезапуска приложения",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
