@@ -89,7 +89,7 @@
     "lng_settings_delete_for_group": "В группах",
     "lng_settings_delete_for_person": "В личных чатах",
     "lng_settings_delete_for_both": "Оба пункта",
-	
+
     "lng_title_forward_as_copy": "Копировать в...",
     "lng_title_multiple_forward": "Переслать в...",
 
@@ -125,7 +125,7 @@
     "lng_go_to_first_message": "Перейти к первому сообщению",
 
     "lng_proxy_remove_all": "Удалить все прокси",
-    
+
     "lng_copy_profile_id": "ID скопирован в буфер обмена.",
 
     "lng_group_requests_ban": "Бан",

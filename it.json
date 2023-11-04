@@ -54,9 +54,9 @@
 
     "lng_context_copy_callback_data": "Copia dati di callback",
     "lng_context_forward_selected_no_quote": "Inoltra senza citare",
+    "lng_selected_forward_no_quote": "Inoltra senza citare",
     "lng_context_forward_msg_old_selected": "Inoltro classico",
     "lng_selected_forward_emoji_classic": "📠 (classico)",
-    "lng_selected_forward_no_quote": "Inoltra senza citare",
 
     "lng_message_id": "ID del messaggio: ",
 
@@ -125,7 +125,7 @@
     "lng_go_to_first_message": "Vai al primo messaggio",
 
     "lng_proxy_remove_all": "Rimuovi tutti i proxy",
-    
+
     "lng_copy_profile_id": "ID copiato negli appunti.",
 
     "lng_group_requests_ban": "Ban",

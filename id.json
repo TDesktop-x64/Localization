@@ -105,7 +105,7 @@
 
     "lng_settings_enable_hd_video": "Bitrate video yang lebih tinggi",
     "lng_hd_video_hint": "Bitrate video diubah! Bergabung kembali dengan obrolan suara jika Anda sudah bergabung.",
-    
+
     "lng_bitrate_controller": "Bitrate Audio",
     "lng_bitrate_controller_desc": "Peringatan: mengubah parameter ini ke nilai tinggi dapat memengaruhi pengguna di jaringan yang lambat.",
     "lng_bitrate_controller_hint": "Bitrate audio diubah! Bergabung kembali dengan obrolan suara jika Anda sudah bergabung.",
