@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "リンクを開くときの警告を無効化",
     "lng_settings_hide_messages": "ブロックしたユーザーからのメッセージを非表示",
     "lng_settings_disable_premium_animation": "プレミアムアニメーションを無効化",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "時間に秒も表示",
     "lng_settings_hide_counter": "オンラインのユーザー数を非表示",
     "lng_settings_hide_stories": "Hide Stories",

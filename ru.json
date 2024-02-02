@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "Отключить предупреждение при открытии ссылки",
     "lng_settings_hide_messages": "Скрыть сообщения от заблокированных пользователей",
     "lng_settings_disable_premium_animation": "Отключить премиум анимации",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Время с указанием секунд",
     "lng_settings_hide_counter": "Скрыть счётчик пользователей онлайн",
     "lng_settings_hide_stories": "Скрыть истории",
