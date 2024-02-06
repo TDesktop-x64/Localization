@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "關閉「開啟連結」時的警告",
     "lng_settings_hide_messages": "隱藏已被你封鎖的使用者的訊息",
     "lng_settings_disable_premium_animation": "關閉付費用戶貼圖特效",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "訊息時間顯示到秒",
     "lng_settings_hide_counter": "隱藏線上人數",
     "lng_settings_hide_stories": "隱藏動態",
@@ -125,7 +126,7 @@
     "lng_go_to_first_message": "前往第一則訊息",
 
     "lng_proxy_remove_all": "移除所有代理伺服器",
-    
+
     "lng_copy_profile_id": "已將 ID 複製到剪貼簿。",
 
     "lng_group_requests_ban": "封鎖",

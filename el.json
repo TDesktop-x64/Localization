@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "Απεν/ποίηση προειδοπ. ανοίγματος συνδέσμου",
     "lng_settings_hide_messages": "Απόκρυψη μηνυμάτων από αποκλεισμένο χρήστη",
     "lng_settings_disable_premium_animation": "Απενεργοποίηση κίνησης Premium",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Ώρα με δευτερόλεπτα",
     "lng_settings_hide_counter": "Απόκρυψη μετρητή χρηστών Σε Σύνδεση",
     "lng_settings_hide_stories": "Hide Stories",
@@ -125,7 +126,7 @@
     "lng_go_to_first_message": "Μετάβαση στο πρώτο μήνυμα",
 
     "lng_proxy_remove_all": "Κατάργηση όλων των Διακομιστών",
-    
+
     "lng_copy_profile_id": "Το ID Αντιγράφηκε στο πρόχειρο.",
 
     "lng_group_requests_ban": "Αποκλεισμός",

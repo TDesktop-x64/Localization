@@ -26,9 +26,10 @@
     "lng_settings_disable_link_warning": "Отключить предупреждение при открытии ссылки",
     "lng_settings_hide_messages": "Скрыть сообщения от заблокированных пользователей",
     "lng_settings_disable_premium_animation": "Отключить премиум анимации",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Время с указанием секунд",
     "lng_settings_hide_counter": "Скрыть счётчик пользователей онлайн",
-    "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_hide_stories": "Скрыть истории",
     "lng_settings_restart_hint": "ПРЕДУПРЕЖДЕНИЕ: Изменение параметров, выделенных красным цветом, вступит в силу только после перезапуска приложения",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
@@ -89,7 +90,7 @@
     "lng_settings_delete_for_group": "В группах",
     "lng_settings_delete_for_person": "В личных чатах",
     "lng_settings_delete_for_both": "Оба пункта",
-	
+
     "lng_title_forward_as_copy": "Копировать в...",
     "lng_title_multiple_forward": "Переслать в...",
 
@@ -125,7 +126,7 @@
     "lng_go_to_first_message": "Перейти к первому сообщению",
 
     "lng_proxy_remove_all": "Удалить все прокси",
-    
+
     "lng_copy_profile_id": "ID скопирован в буфер обмена.",
 
     "lng_group_requests_ban": "Бан",

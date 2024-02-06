@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "Вимкнути попередження щодо посилань",
     "lng_settings_hide_messages": "Сховати повідомлення заблокованих",
     "lng_settings_disable_premium_animation": "Вимкнути Premium-анімації",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Відображати час з секундами",
     "lng_settings_hide_counter": "Приховати лічильник користувачів у мережі",
     "lng_settings_hide_stories": "Приховати історії",
@@ -40,7 +41,7 @@
     "lng_radio_controller_desc": "Примітка: Радіо-контролер — це експериментальний бот для управління аудіо-трансляцією.",
     "lng_auto_unmute_desc": "Примітка: Автоматичне увімкнення мікрофону при вході в голосовий чат.",
     "lng_settings_hide_messages_desc": "Примітка: ПОВІДОМЛЕННЯ НЕ ПРИХОВУЮТЬСЯ! Повідомлення будуть відображатись, але текст буде сховано у спойлер, а медіа не буде автоматично завантажуватись.",
-	
+
     "lng_net_speed_boost_default": "Відключено",
     "lng_net_speed_boost_slight": "Трішки",
     "lng_net_speed_boost_medium": "Середнє",
@@ -81,15 +82,15 @@
     "lng_action_group_migrate": "Група була перетворена в супергрупу",
     "lng_sure_upgrade_group": "Ви впевнені, що хочете перетворити цю групу в супергрупу?",
     "lng_chat_upgrade_warning": "Увага: Цю дію неможливо скасувати.",
-	
+
     "lng_user_not_found": "Користувача не знайдено. \nПримітка: перш ніж робити посилання на користувача, вам потрібно відкрити його профіль через цей клієнт.",
-    
+
     "lng_settings_always_delete_for": "Відмічати видалення повідомлень",
     "lng_settings_delete_disabled": "Ніколи",
     "lng_settings_delete_for_group": "У групах",
     "lng_settings_delete_for_person": "В особистих чатах",
     "lng_settings_delete_for_both": "Завжди",
-	
+
     "lng_title_forward_as_copy": "Копіювати в...",
     "lng_title_multiple_forward": "Переслати в...",
 
@@ -125,7 +126,7 @@
     "lng_go_to_first_message": "Перейти до першого повідомлення",
 
     "lng_proxy_remove_all": "Видалити всі проксі",
-    
+
     "lng_copy_profile_id": "ID скопійовано.",
 
     "lng_group_requests_ban": "Бан",

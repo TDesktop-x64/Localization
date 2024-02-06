@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "Açık bağlantı uyarısını devre dışı bırak",
     "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
     "lng_settings_disable_premium_animation": "Premium Animasyonları Kapat",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Saniye ile zaman",
     "lng_settings_hide_counter": "Çevrimiçi kullanıcı sayacını gizle",
     "lng_settings_hide_stories": "Hide Stories",
@@ -125,7 +126,7 @@
     "lng_go_to_first_message": "İlk mesaja git",
 
     "lng_proxy_remove_all": "Tüm proxy'leri kaldır",
-    
+
     "lng_copy_profile_id": "ID panoya kopyalandı.",
 
     "lng_group_requests_ban": "Ban",

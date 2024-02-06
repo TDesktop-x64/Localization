@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "خاموش کردن هشدار باز کردن لینک",
     "lng_settings_hide_messages": "مخفی کردن پیام کاربران بلاک شده",
     "lng_settings_disable_premium_animation": "Disable Premium Animation",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
@@ -125,7 +126,7 @@
     "lng_go_to_first_message": "رفتن به پیام اول",
 
     "lng_proxy_remove_all": "حذف همه پروکسی ها",
-    
+
     "lng_copy_profile_id": "ای‌دی در کلیپ بورد کپی شد.",
 
     "lng_group_requests_ban": "Ban",
