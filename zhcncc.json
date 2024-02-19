@@ -26,6 +26,7 @@
     "lng_settings_disable_link_warning": "禁用打开链接提示",
     "lng_settings_hide_messages": "隐藏已拉黑用户的消息",
     "lng_settings_disable_premium_animation": "禁用 Premium 贴纸动画",
+    "lng_settings_disable_global_search": "Disable global search",
     "lng_settings_show_seconds": "消息时间精确到秒",
     "lng_settings_hide_counter": "隐藏在线用户数量",
     "lng_settings_hide_stories": "隐藏动态",
@@ -102,7 +103,7 @@
     "lng_forward_to_saved_message": "转发到收藏夹",
     "lng_context_repeater": "复读",
     "lng_context_forward": "转发",
-    
+
     "lng_settings_enable_hd_video": "更高的视频码率",
     "lng_hd_video_hint": "视频码率已更改！如果您已加入语音聊天，请重新加入。",
 
@@ -125,7 +126,7 @@
     "lng_go_to_first_message": "跳到第一条消息",
 
     "lng_proxy_remove_all": "移除全部代理",
-    
+
     "lng_copy_profile_id": "ID已复制到剪切板",
 
     "lng_group_requests_ban": "封禁",
