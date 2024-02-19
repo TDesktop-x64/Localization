@@ -1,7 +1,7 @@
 {
     "lng_intro_about2": "欢迎使用 64Gram Desktop 客户端。\n它又快又安全。",
 
-    "lng_settings_enhanced": "增强设置",
+    "lng_settings_enhanced": "增强",
     "lng_settings_network": "网络",
     "lng_settings_net_upload_speed_boost": "上传速度提升",
     "lng_settings_net_download_speed_boost": "下载速度提升",
@@ -26,7 +26,7 @@
     "lng_settings_disable_link_warning": "禁用打开链接提示",
     "lng_settings_hide_messages": "隐藏已拉黑用户的消息",
     "lng_settings_disable_premium_animation": "禁用 Premium 贴纸动画",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "禁用全局搜索",
     "lng_settings_show_seconds": "消息时间精确到秒",
     "lng_settings_hide_counter": "隐藏在线用户数量",
     "lng_settings_hide_stories": "隐藏动态",
@@ -125,7 +125,7 @@
     "lng_pinned_message_view": "查看置顶消息",
     "lng_go_to_first_message": "跳到第一条消息",
 
-    "lng_proxy_remove_all": "移除全部代理",
+    "lng_proxy_remove_all": "删除全部代理",
 
     "lng_copy_profile_id": "ID已复制到剪切板",
 
