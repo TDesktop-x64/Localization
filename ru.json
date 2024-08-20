@@ -30,6 +30,7 @@
     "lng_settings_show_seconds": "Время с указанием секунд",
     "lng_settings_hide_counter": "Скрыть счётчик пользователей онлайн",
     "lng_settings_hide_stories": "Скрыть истории",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "ПРЕДУПРЕЖДЕНИЕ: Изменение параметров, выделенных красным цветом, вступит в силу только после перезапуска приложения",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",

@@ -30,6 +30,7 @@
     "lng_settings_show_seconds": "Czas z dokładnością do sekund",
     "lng_settings_hide_counter": "Ukryj licznik użytkowników online",
     "lng_settings_hide_stories": "Ukryj relacje",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "UWAGA: Zmiana opcji oznaczonych kolorem czerwonym zacznie obowiązywać dopiero po ponownym uruchomieniu aplikacji.",
 
     "lng_settings_skip_message": "Przechodź do nast. nieprzeczytanego czatu",

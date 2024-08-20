@@ -30,6 +30,7 @@
     "lng_settings_show_seconds": "時間に秒も表示",
     "lng_settings_hide_counter": "オンラインのユーザー数を非表示",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "警告: 赤色の項目を変更した場合、アプリの再起動後に反映されます。",
 
     "lng_settings_skip_message": "次の未読チャットに移動",
