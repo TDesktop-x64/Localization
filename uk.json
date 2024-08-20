@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Перехід до непрочитаного чату",
     "lng_settings_skip_message_desc": "Примітка: Дозволяє комбінаціі ALT+↑/↓ пропускати прочитані чати і переходити до наступного непрочитаного.",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметру при повільному інтернеті можуть зробити гірше. Використовуйте на свій ризик.",

@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "跳去下一個未睇嘅傾偈",
     "lng_settings_skip_message_desc": "留意返: 用 ALT+↑/↓ 快捷鍵嚟跳去下一個未睇嘅傾偈",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "網絡加速",
     "lng_net_speed_boost_desc": "警告：喺太慢嘅網絡底下調太高會搞到一镬熟，唔好亂嚟。",

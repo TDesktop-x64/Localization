@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
     "lng_settings_skip_message_desc": "Примечание: Разрешите сочетание клавиш ALT+↑/↓ для перехода к следующему непрочитанному чату",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",

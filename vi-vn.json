@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
     "lng_settings_skip_message_desc": "Lưu ý: Cho phép phím tắt ALT+↑/↓ để chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Tăng tốc độ mạng",
     "lng_net_speed_boost_desc": "Cảnh báo: việc thay đổi thông số này thành giá trị cao trên các mạng chậm có thể làm cho thông số này thậm chí còn tồi tệ hơn. Sử dụng nó có nguy cơ của riêng bạn.",

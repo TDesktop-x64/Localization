@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
     "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Conversas não lidas.",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Aumentar Velocidade de Rede",
     "lng_net_speed_boost_desc": "CUIDADO: Trocar este parâmetro em conexões lentas pode levar a resultados ainda piores.",

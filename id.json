@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Lewati ke obrolan yang belum dibaca berikutnya",
     "lng_settings_skip_message_desc": "Catatan: Izinkan pintasan ALT+↑/↓ untuk melewati ke obrolan yang belum dibaca berikutnya",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Peningkatan kecepatan jaringan",
     "lng_net_speed_boost_desc": "Peringatan: mengubah parameter ini ke nilai tinggi pada jaringan yang lambat dapat membuatnya lebih buruk. Gunakan dengan risiko Anda sendiri.",

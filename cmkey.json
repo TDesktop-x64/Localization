@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Skip to next unread chat",
     "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",

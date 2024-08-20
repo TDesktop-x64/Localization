@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Passer au message non lu suivant",
     "lng_settings_skip_message_desc": "Note: Autoriser le raccourci ALT+↑/↓ pour passer au message non lu suivant",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Augmentation de la vitesse du réseau",
     "lng_net_speed_boost_desc": "Attention: La modification de ce paramètre à des valeurs élevées sur des réseaux lents peut aggraver la situation. Utilisez-le à vos risques et périls.",

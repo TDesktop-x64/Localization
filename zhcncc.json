@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "跳到下一个未读对话",
     "lng_settings_skip_message_desc": "注意：允许使用快捷键 ALT+↑/↓ 跳到下一个未读对话",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "网速提升",
     "lng_net_speed_boost_desc": "警告：在网络比较慢的网络上将此参数更改为高值可能会使情况变得更糟，后果自负。",
