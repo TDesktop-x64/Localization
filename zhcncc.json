@@ -30,6 +30,7 @@
     "lng_settings_show_seconds": "消息时间精确到秒",
     "lng_settings_hide_counter": "隐藏在线用户数量",
     "lng_settings_hide_stories": "隐藏动态",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "跳到下一个未读对话",

@@ -30,6 +30,7 @@
     "lng_settings_show_seconds": "Відображати час з секундами",
     "lng_settings_hide_counter": "Приховати лічильник користувачів у мережі",
     "lng_settings_hide_stories": "Приховати історії",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "УВАГА: Зміна параметрів виділених червоним кольором, набуде чинності тільки після перезапуску програми.",
 
     "lng_settings_skip_message": "Перехід до непрочитаного чату",

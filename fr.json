@@ -30,6 +30,7 @@
     "lng_settings_show_seconds": "Temps avec secondes",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "ATTENTION: Changer les options de couleur rouge ne prendront effet qu'après un redémarrge de l'application.",
 
     "lng_settings_skip_message": "Passer au message non lu suivant",
