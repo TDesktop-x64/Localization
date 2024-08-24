@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "跳到下一个未读对话",
     "lng_settings_skip_message_desc": "允许使用 ALT+↑/↓ 快捷键来跳到下一个未读对话",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "上传 / 下载速度加成",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",

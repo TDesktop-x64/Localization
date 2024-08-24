@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Przechodź do nast. nieprzeczytanego czatu",
     "lng_settings_skip_message_desc": "Uwaga: Zezwala na skrót ALT+↑/↓, w celu przejścia do następnego nieprzeczytanego czatu",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Przyspieszenie sieci",
     "lng_net_speed_boost_desc": "Uwaga: zmiana tego parametru na wysokie wartości w wolnych sieciach może jeszcze bardziej pogorszyć sytuację. Używaj go na własne ryzyko.",

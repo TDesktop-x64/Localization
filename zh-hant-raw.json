@@ -30,11 +30,14 @@
     "lng_settings_show_seconds": "訊息時間顯示到秒",
     "lng_settings_hide_counter": "隱藏線上人數",
     "lng_settings_hide_stories": "隱藏動態",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_screen_shot_mode": "截圖模式",
     "lng_settings_restart_hint": "警告：變更有色選項會立即重新啟動並套用相關設定。",
 
     "lng_settings_skip_message": "跳到下一個未閱讀的聊天",
     "lng_settings_skip_message_desc": "注意：允許按下 ALT+↑/↓ 跳到下一個未閱讀的聊天",
+    
+    "lng_settings_recent_display_limit": "最近用過的貼圖顯示數量",
+    "lng_settings_recent_display_limit_default": "預設 (20)",
 
     "lng_net_speed_boost_title": "網路加速",
     "lng_net_speed_boost_desc": "警告：如果您的網路較慢的話，更改此項設定只會令情況惡化。",

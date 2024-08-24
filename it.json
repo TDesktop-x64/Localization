@@ -35,6 +35,9 @@
 
     "lng_settings_skip_message": "Vai alla prossima chat non letta",
     "lng_settings_skip_message_desc": "Nota: puoi usare la scorciatoia Alt+↑/↓ per aprire la prossima chat non letta",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
     "lng_net_speed_boost_desc": "Attenzione! Su reti lente, impostare questo parametro a valori alti potrebbe peggiorare la situazione, per cui procedi a tuo rischio.",
