@@ -36,8 +36,8 @@
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
     "lng_settings_skip_message_desc": "Nota: Permite usar el atajo ALT+↑/↓ para pasar al siguiente chat sin leer",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Límite de stickers recientes visibles",
+    "lng_settings_recent_display_limit_default": "Por defecto (20)",
 
     "lng_net_speed_boost_title": "Aumentar velocidad de la red",
     "lng_net_speed_boost_desc": "Advertencia: cambiar este parámetro a valores altos en redes lentas puede empeorarlo aún más. Úselo bajo su propio riesgo.",
