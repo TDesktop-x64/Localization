@@ -30,14 +30,14 @@
     "lng_settings_show_seconds": "消息时间精确到秒",
     "lng_settings_hide_counter": "隐藏在线用户数量",
     "lng_settings_hide_stories": "隐藏动态",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_screen_shot_mode": "截屏模式",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "跳到下一个未读对话",
     "lng_settings_skip_message_desc": "注意：允许使用快捷键 ALT+↑/↓ 跳到下一个未读对话",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "最近贴纸显示数量",
+    "lng_settings_recent_display_limit_default": "默认(20)",
 
     "lng_net_speed_boost_title": "网速提升",
     "lng_net_speed_boost_desc": "警告：在网络比较慢的网络上将此参数更改为高值可能会使情况变得更糟，后果自负。",
