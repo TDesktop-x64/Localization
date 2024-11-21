@@ -30,10 +30,14 @@
     "lng_settings_show_seconds": "Saniye ile zaman",
     "lng_settings_hide_counter": "Çevrimiçi kullanıcı sayacını gizle",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
 
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",
     "lng_settings_skip_message_desc": "Not: ALT+↑/↓ kısayolu ile okunmamış sonraki sohbete geçmeye izin ver",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Ağ hızı artışı",
     "lng_net_speed_boost_desc": "Uyarı: Yavaş ağlarda bu parametrenin yüksek değerlerle değiştirilmesi durumu daha da kötüleştirebilir. Kendi sorumluluğunuzda kullanın.",

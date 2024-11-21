@@ -30,10 +30,14 @@
     "lng_settings_show_seconds": "Ώρα με δευτερόλεπτα",
     "lng_settings_hide_counter": "Απόκρυψη μετρητή χρηστών Σε Σύνδεση",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "ΠΡΟΣΟΧΗ: Η αλλαγή των επιλογών που είναι με κόκκινο χρώμα θα τεθούν σε ισχύ μόνο μετά την επανεκκίνηση της εφαρμογής..",
 
     "lng_settings_skip_message": "Μετάβαση στην επόμενη Μη Αναγνωσμένη Συνομιλία",
     "lng_settings_skip_message_desc": "Σημείωση: Αποδοχή ALT+↑/↓ συντόμευσης για μετάβαση στην επόμενη Μη Αναγνωσμένη Συνομιλία",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Ενίσχυση ταχύτητας δικτύου",
     "lng_net_speed_boost_desc": "Προειδοποίηση: η αλλαγή αυτής της παραμέτρου σε υψηλές τιμές σε αργά δίκτυα μπορεί να την κάνει ακόμα χειρότερη. Χρησιμοποιήστε το με δική σας ευθύνη.",

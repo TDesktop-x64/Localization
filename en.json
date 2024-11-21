@@ -30,10 +30,14 @@
     "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "WARNING: Changing options that are colored in red will take effect only after the app restarts.",
 
     "lng_settings_skip_message": "Skip to next unread chat",
     "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Network speed boost",
     "lng_net_speed_boost_desc": "Warning: changing this parameter to high values on slow networks can make it even worse. Use it at your own risk.",

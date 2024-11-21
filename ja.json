@@ -30,10 +30,14 @@
     "lng_settings_show_seconds": "時間に秒も表示",
     "lng_settings_hide_counter": "オンラインのユーザー数を非表示",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "警告: 赤色の項目を変更した場合、アプリの再起動後に反映されます。",
 
     "lng_settings_skip_message": "次の未読チャットに移動",
     "lng_settings_skip_message_desc": "注釈: ALT+↑/↓ のショートカットを利用して次の未読チャットに移動できるようになります。",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "ネットワーク速度ブースト",
     "lng_net_speed_boost_desc": "警告: 低速なネットワークでこの項目の値を上げると、むしろさらに低速になることがあります。自己責任で利用してください。",

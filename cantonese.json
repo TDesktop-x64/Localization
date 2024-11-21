@@ -30,10 +30,14 @@
     "lng_settings_show_seconds": "顯示時間嗰陣顯示埋秒數",
     "lng_settings_hide_counter": "唔計數喺度嘅用户",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "警告：改紅色嘅設定會即刻令程式重新啟動嚟套用新設定。",
 
     "lng_settings_skip_message": "跳去下一個未睇嘅傾偈",
     "lng_settings_skip_message_desc": "留意返: 用 ALT+↑/↓ 快捷鍵嚟跳去下一個未睇嘅傾偈",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "網絡加速",
     "lng_net_speed_boost_desc": "警告：喺太慢嘅網絡底下調太高會搞到一镬熟，唔好亂嚟。",

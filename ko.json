@@ -1,0 +1,139 @@
+{
+    "lng_intro_about2": "64Gram 데스크톱 앱에 오신것을 환영합니다.\n더 빠르고 보안에 충실합니다.",
+
+    "lng_settings_enhanced": "향상된 설정",
+    "lng_settings_network": "네트워크",
+    "lng_settings_net_upload_speed_boost": "업로드 속도 부스트",
+    "lng_settings_net_download_speed_boost": "다운로드 속도 부스트",
+    "lng_settings_show_message_id": "메시지 ID 보이기",
+    "lng_settings_button": "버튼",
+    "lng_settings_show_emoji_button_as_text": "이모지 버튼을 텍스트로 보이기",
+    "lng_settings_show_repeater_option": "반복 옵션 보이기",
+    "lng_settings_show_phone_number": "휴대전화 번호 보이기",
+    "lng_settings_repeater_reply_to_orig_msg": "원본 메시지에 답글",
+    "lng_settings_disable_cloud_draft_sync": "클라우드에 초안 동기화 비활성화",
+    "lng_settings_hide_classic_forward": "기존 전달 기능 숨기기",
+    "lng_settings_show_scheduled_button": "스케줄 버튼 항상 보이기",
+    "lng_settings_voice_chat": "음성 채팅",
+    "lng_settings_stereo_mode": "스테레오 모드 활성화",
+    "lng_settings_pin_voice_chat": "상단에 고정하기",
+    "lng_settings_unpin_voice_chat": "고정 해제",
+    "lng_settings_radio_controller": "라디오 컨트롤러",
+    "lng_settings_auto_unmute": "자동으로 음소거 해제",
+    "lng_settings_other": "기타",
+    "lng_settings_hide_all_chats": "\"모든 대화방\" 폴더 숨기기",
+    "lng_settings_replace_edit_button": "\"편집\" 버튼을 저장한 메시지로 바꾸기",
+    "lng_settings_disable_link_warning": "링크 경고 창 비활성화",
+    "lng_settings_hide_messages": "차단한 유저가 보낸 메시지 숨기기",
+    "lng_settings_disable_premium_animation": "프리미엄 애니메이션 비활성화",
+    "lng_settings_disable_global_search": "전역 검색 비활성화",
+    "lng_settings_show_seconds": "시간(초)",
+    "lng_settings_hide_counter": "온라인 사용자 수 숨기기",
+    "lng_settings_hide_stories": "스토리 숨기기",
+    "lng_settings_screen_shot_mode": "스크린샷 모드",
+    "lng_settings_restart_hint": "경고: 빨간색 글씨의 옵션들은 활성화 후 앱이 재시작되어야 적용됩니다.",
+
+    "lng_settings_skip_message": "읽지 않은 다음 메시지로 이동",
+    "lng_settings_skip_message_desc": "참고: ALT+↑/↓ 를 이용해 쉽게 읽지 않은 메시지로 이동이 가능합니다",
+    
+    "lng_settings_recent_display_limit": "최근 사용 스티커 표시 제한",
+    "lng_settings_recent_display_limit_default": "기본 (20)",
+
+    "lng_net_speed_boost_title": "네트워크 속도 부스트",
+    "lng_net_speed_boost_desc": "경고: 안 좋은 네트워크 환경에서 이 값을 높게 지정하면 오히려 속도가 낮아질 수 있습니다.",
+    "lng_show_emoji_button_as_text_desc": "참고: 이모지 버튼이 보이지 않는다면, 이 옵션을 활성화 하세요.",
+    "lng_radio_controller_desc": "참고: 라디오 컨트롤러는 음악 스트리밍 세션을 제어하는 실험적 봇입니다.",
+    "lng_auto_unmute_desc": "참고: 보이스 챗에 접속시 자동으로 음소거를 해제합니다.",
+    "lng_settings_hide_messages_desc": "참고: 이건 실제로 가려지는게 아닙니다!!! 메시지는 보여지지만, 문자들이 스포일러 처리되며 미디어가 자동으로 다운로드 되지 않습니다.",
+
+    "lng_net_speed_boost_default": "비활성화",
+    "lng_net_speed_boost_slight": "조금",
+    "lng_net_speed_boost_medium": "중간",
+    "lng_net_speed_boost_big": "많이",
+
+    "lng_net_boost_restart_desc": "네트워크 부스트 설정을 적용하기 위해선 재시작 해야 합니다.\n\n지금 재시작 하시겠습니까?",
+    "lng_show_messages_id_desc": "경고: 이 변화는 재시작 하자마자 적용됩니다.",
+
+    "lng_chat_restriction_reason": "제한 사유",
+    "lng_copy_restriction_reason": "제한 사유 복사",
+
+    "lng_context_copy_callback_data": "콜백 데이터 복사",
+    "lng_context_forward_selected_no_quote": "선택 항목 전달 (인용 없이)",
+    "lng_selected_forward_no_quote": "전달 (인용 없이)",
+    "lng_context_forward_msg_old_selected": "선택 항목 전달 (클래식)",
+    "lng_selected_forward_emoji_classic": "📠(클래식)",
+
+    "lng_message_id": "메시지 ID: ",
+
+    "lng_admin_log_banned_send_stickers2": "스티커 보내기",
+    "lng_admin_log_banned_send_gifs": "GIFs 보내기",
+    "lng_admin_log_banned_send_games": "게임 보내기",
+    "lng_admin_log_banned_use_inline": "인라인 봇 사용하기",
+    "lng_rights_chat_send_stickers2": "스티커 보내기",
+    "lng_rights_chat_send_gifs": "GIFs 보내기",
+    "lng_rights_chat_send_games": "게임 보내기",
+    "lng_rights_chat_use_inline": "인라인 봇 사용하기",
+
+    "lng_media_selected_gif#one": "{count} Gif",
+    "lng_media_selected_gif#other": "{count} Gifs",
+    "lng_media_type_gifs": "Gifs",
+    "lng_profile_gifs#one": "{count} gif",
+    "lng_profile_gifs#other": "{count} gifs",
+    "lng_profile_gifs_header": "Gifs",
+    "lng_media_gif_empty": "여기에 gifs가 없습니다",
+
+    "lng_create_supergroup_title": "슈퍼그룹 만들기",
+    "lng_action_group_migrate": "그룹이 슈퍼그룹으로 업그레이드 되었습니다.",
+    "lng_sure_upgrade_group": "이 그룹을 슈퍼그룹으로 업그레이드 하시겠습니까?",
+    "lng_chat_upgrade_warning": "참고: 이 행동은 되돌릴 수 없습니다",
+
+    "lng_user_not_found": "404 유저가 존재하지 않습니다.\n참고: 이 링크를 열기 전에 해당 유저를 \"한번이라도 봐야\" 됩니다.",
+
+    "lng_settings_always_delete_for": "항상 삭제 대상 선택",
+    "lng_settings_delete_disabled": "비활성화",
+    "lng_settings_delete_for_group": "그룹",
+    "lng_settings_delete_for_person": "사람",
+    "lng_settings_delete_for_both": "아니면 둘 다?",
+
+    "lng_title_forward_as_copy": "...로 복사",
+    "lng_title_multiple_forward": "...로 전달",
+
+    "lng_context_forward_msg": "다중 전달",
+    "lng_context_forward_msg_old": "단일 전달",
+    "lng_context_show_messages_from": "유저가 작성한 메시지",
+    "lng_context_repeat_msg": "전달로 반복",
+    "lng_context_repeat_msg_no_fwd": "복사로 반복",
+    "lng_context_forward_msg_no_quote": "복사로 전달",
+    "lng_forward_to_saved_message": "저장한 메시지에 전달",
+    "lng_context_repeater": "반복",
+    "lng_context_forward": "전달",
+
+    "lng_settings_enable_hd_video": "비디오 비트레이트 높이기",
+    "lng_hd_video_hint": "비디오 비트레이트가 변경되었습니다! 음성 채팅에 들어가있다면 재 입장 해주세요.",
+
+    "lng_bitrate_controller": "오디오 비트레이트",
+    "lng_bitrate_controller_desc": "경고: 느린 네트워크 환경에서 이 값을 높게 변경할 경우 불안정해 질 수 있습니다.",
+    "lng_bitrate_controller_hint": "오디오 비트레이트가 변경되었습니다! 음성 채팅에 들어가있다면 재 입장 해주세요.",
+
+    "lng_bitrate_controller_default": "기본 (32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "고정된 메시지 보이기",
+    "lng_pinned_message_hide": "고정된 메시지 숨기기",
+    "lng_pinned_message_view": "고정된 메시지 보기",
+    "lng_go_to_first_message": "첫번째 메시지로 이동",
+
+    "lng_proxy_remove_all": "모든 프록시 지우기",
+
+    "lng_copy_profile_id": "ID가 클립보드에 복사되었습니다.",
+
+    "lng_group_requests_ban": "정지",
+
+    "lng_blocked_user_hint": "[차단된 유저 메시지]\n"
+}

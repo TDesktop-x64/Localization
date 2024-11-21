@@ -30,10 +30,14 @@
     "lng_settings_show_seconds": "Time with seconds",
     "lng_settings_hide_counter": "Hide online users counter",
     "lng_settings_hide_stories": "Hide Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "هشدار: عوض کردن گزینه های رنگی بعد از ریستارت اثر میگذارد.",
 
     "lng_settings_skip_message": "رفتن به چت خوانده نشده بعدی",
     "lng_settings_skip_message_desc": "نکته: با ALT+↑/↓ میتوانید به چت خوانده نشده بعدی بروید",
+    
+    "lng_settings_recent_display_limit": "Recent sticker display limit",
+    "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "افزایش سرعت شبکه",
     "lng_net_speed_boost_desc": "هشدار: تغییر این پارامتر به مقادیر بالا در شبکه های کند می تواند حتی بدتر شود. با مسئولیت شخصی خود استفاده کنید.",
