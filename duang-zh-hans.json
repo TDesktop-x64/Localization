@@ -26,18 +26,18 @@
     "lng_settings_disable_link_warning": "禁用打开链接警告",
     "lng_settings_hide_messages": "隐藏来自坏东西的消息",
     "lng_settings_disable_premium_animation": "去掉大会员贴纸特技",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "禁用全局搜索",
     "lng_settings_show_seconds": "消息时间显秒",
     "lng_settings_hide_counter": "隐藏喘气用户数",
     "lng_settings_hide_stories": "不想看动态",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_screen_shot_mode": "我是谁",
     "lng_settings_restart_hint": "警告：变更以高亮色标识的选项将使应用立即重启并生效。",
 
     "lng_settings_skip_message": "传送到下个未读对话",
     "lng_settings_skip_message_desc": "允许使用 ALT+↑/↓ 快捷键来跳到下一个未读对话",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "最近贴纸显示数量限制",
+    "lng_settings_recent_display_limit_default": "默认（20）",
 
     "lng_net_speed_boost_title": "上 / 下行黑魔法",
     "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此项更改为较大值会恶化网络情况，请自负责任。",
@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "拿去自嗨",
     "lng_context_repeater": "复读",
     "lng_context_forward": "转发",
+    "lng_context_view_as_json": "以 JSON 格式查看",
 
     "lng_settings_enable_hd_video": "更高视频码率",
     "lng_hd_video_hint": "视频码率已更改！如您已加入语音聊天，请重新加入。",
