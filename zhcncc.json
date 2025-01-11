@@ -28,6 +28,7 @@
     "lng_settings_disable_premium_animation": "禁用 Premium 贴纸动画",
     "lng_settings_disable_global_search": "禁用全局搜索",
     "lng_settings_show_seconds": "消息时间精确到秒",
+    "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "隐藏在线用户数量",
     "lng_settings_hide_stories": "隐藏动态",
     "lng_settings_screen_shot_mode": "截屏模式",
