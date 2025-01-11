@@ -107,7 +107,7 @@
     "lng_forward_to_saved_message": "Reenviar a guardados",
     "lng_context_repeater": "Repetir",
     "lng_context_forward": "Reenviar",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Ver como JSON",
 
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
