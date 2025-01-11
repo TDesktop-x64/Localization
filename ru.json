@@ -1,5 +1,5 @@
 {
-    "lng_intro_about2": "Добро пожаловать в приложение 64Gram Desktop.\nОно быстрое и безопасное.",
+    "lng_intro_about2": "Добро пожаловать в приложение 64Gram Desktop. / nОно быстрое и безопасное.",
 
     "lng_settings_enhanced": "Расширенные настройки",
     "lng_settings_network": "Сеть",
@@ -26,18 +26,18 @@
     "lng_settings_disable_link_warning": "Отключить предупреждение при открытии ссылки",
     "lng_settings_hide_messages": "Скрыть сообщения от заблокированных пользователей",
     "lng_settings_disable_premium_animation": "Отключить премиум анимации",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "Отключить глобальный поиск",
     "lng_settings_show_seconds": "Время с указанием секунд",
     "lng_settings_hide_counter": "Скрыть счётчик пользователей онлайн",
     "lng_settings_hide_stories": "Скрыть истории",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_screen_shot_mode": "Режим Скриншота",
     "lng_settings_restart_hint": "ПРЕДУПРЕЖДЕНИЕ: Изменение параметров, выделенных красным цветом, вступит в силу только после перезапуска приложения",
 
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
     "lng_settings_skip_message_desc": "Примечание: Разрешите сочетание клавиш ALT+↑/↓ для перехода к следующему непрочитанному чату",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Лимит отображения последних эмодзи",
+    "lng_settings_recent_display_limit_default": "Стандарт (20)",
 
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",
