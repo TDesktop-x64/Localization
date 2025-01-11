@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "转发到收藏夹",
     "lng_context_repeater": "复读",
     "lng_context_forward": "转发",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "更高的视频码率",
     "lng_hd_video_hint": "视频码率已更改！如果您已加入语音聊天，请重新加入。",

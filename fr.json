@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Forward to Saved",
     "lng_context_repeater": "Répétiteur",
     "lng_context_forward": "Forward",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Plus grand débit binaire vidéo",
     "lng_hd_video_hint": "Le débit binaire vidéo est modifié ! Rejoignez un chat vocal si vous avez déjà rejoint.",

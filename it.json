@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Salva messaggio",
     "lng_context_repeater": "Ripeti",
     "lng_context_forward": "Inoltra",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Velocità di trasmissione video superiore",
     "lng_hd_video_hint": "La velocità di trasmissione video è cambiata! Se ti sei già unito a una chat vocale, lasciala e riunisciti.",

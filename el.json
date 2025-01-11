@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Προώθηση στην Αποθήκευση",
     "lng_context_repeater": "Επαναλήπτης",
     "lng_context_forward": "Προώθηση",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Υψηλότερο bitrate βίντεο",
     "lng_hd_video_hint": "Το bitrate του βίντεο έχει αλλάξει! Επανενταχθείτε σε μια φωνητική συνομιλία αν έχετε ήδη ενταχθεί.",

@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Do zapisanych",
     "lng_context_repeater": "Powtórz",
     "lng_context_forward": "Przekaż",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Wyższa jakość wideo",
     "lng_hd_video_hint": "Zmieniono jakość wideo! Dołącz ponownie do czatu głosowego, jeśli już dołączyłeś(-aś).",

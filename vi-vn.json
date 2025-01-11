@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Chuyển tiếp đến dã lưu",
     "lng_context_repeater": "Bộ lặp",
     "lng_context_forward": "Chuyển tiếp",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Tốc độ video cao hơn",
     "lng_hd_video_hint": "Tốc độ của video đã được thay đổi! Tham gia lại cuộc trò chuyện thoại nếu bạn đã tham gia.",

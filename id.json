@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Forward ke Disimpan",
     "lng_context_repeater": "Repeater",
     "lng_context_forward": "Forward",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Bitrate video yang lebih tinggi",
     "lng_hd_video_hint": "Bitrate video diubah! Bergabung kembali dengan obrolan suara jika Anda sudah bergabung.",
