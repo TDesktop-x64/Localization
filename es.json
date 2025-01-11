@@ -28,7 +28,7 @@
     "lng_settings_disable_premium_animation": "Desactivar animación premium",
     "lng_settings_disable_global_search": "Desactivar búsqueda global",
     "lng_settings_show_seconds": "Tiempo con segundos",
-    "lng_settings_show_view_as_json": "Show View As JSON",
+    "lng_settings_show_view_as_json": "Mostrar vista como JSON",
     "lng_settings_hide_counter": "Ocultar contador de usuarios en línea",
     "lng_settings_hide_stories": "Ocultar historias",
     "lng_settings_screen_shot_mode": "Modo de captura de pantalla",
@@ -108,7 +108,7 @@
     "lng_forward_to_saved_message": "Reenviar a guardados",
     "lng_context_repeater": "Repetir",
     "lng_context_forward": "Reenviar",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Ver como JSON",
 
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
