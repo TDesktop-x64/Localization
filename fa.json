@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "فوروارد به پیام های ذخیره",
     "lng_context_repeater": "تکرار کننده",
     "lng_context_forward": "فوروارد",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "بیت‌ریت ویدیو بالاتر",
     "lng_hd_video_hint": "بیتریت ویدیو عوض شد! دوباره به چت صوتی بپیوندید اگر درحال حاضر حضور دارید.",

@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Kayıtlı Mesajlara İlet",
     "lng_context_repeater": "Tekrarla",
     "lng_context_forward": "İlet",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Daha yüksek video bit hızı",
     "lng_hd_video_hint": "Video bit hızı değiştirildi! Bir sesli sohbete katıldıysanız çıkıp yeniden katılın.",

@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Encaminhar para Mensagens Salvas",
     "lng_context_repeater": "Repetidor",
     "lng_context_forward": "Encaminhar",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
     "lng_hd_video_hint": "O Bitrate de Vídeo mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",

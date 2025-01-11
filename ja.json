@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "保存用に転送",
     "lng_context_repeater": "リピーター",
     "lng_context_forward": "転送",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "動画ビットレートを高くする",
     "lng_hd_video_hint": "動画ビットレートが変更されました! ボイスチャットに参加中の場合、参加し直してください。",

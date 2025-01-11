@@ -107,6 +107,7 @@
     "lng_forward_to_saved_message": "Переслати в Збережене",
     "lng_context_repeater": "Повторювач",
     "lng_context_forward": "Переслати",
+    "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Збільшити бітрейт відео",
     "lng_hd_video_hint": "Бітрейт відео змінено! Повторно приєднайтеся до голосового чату, якщо ви вже приєднані.",
