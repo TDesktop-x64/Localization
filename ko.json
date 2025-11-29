@@ -27,6 +27,7 @@
     "lng_settings_hide_messages": "차단한 유저가 보낸 메시지 숨기기",
     "lng_settings_disable_premium_animation": "프리미엄 애니메이션 비활성화",
     "lng_settings_disable_global_search": "전역 검색 비활성화",
+    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
     "lng_settings_show_seconds": "시간(초)",
     "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "온라인 사용자 수 숨기기",

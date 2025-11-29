@@ -27,6 +27,7 @@
     "lng_settings_hide_messages": "Ukryj wiadomości od zablokowanych osób",
     "lng_settings_disable_premium_animation": "Wyłącz animacje premium",
     "lng_settings_disable_global_search": "Wyłącz globalne wyszukiwanie",
+    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
     "lng_settings_show_seconds": "Czas z dokładnością do sekund",
     "lng_settings_show_view_as_json": "Wyświetl jako JSON",
     "lng_settings_hide_counter": "Ukryj licznik użytkowników online",

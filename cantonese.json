@@ -27,6 +27,7 @@
     "lng_settings_hide_messages": "唔睇杯葛咗嘅用户發嘅訊息",
     "lng_settings_disable_premium_animation": "停用同 Premium 有關嘅動畫",
     "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
     "lng_settings_show_seconds": "顯示時間嗰陣顯示埋秒數",
     "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "唔計數喺度嘅用户",
