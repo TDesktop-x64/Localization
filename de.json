@@ -1,0 +1,142 @@
+{
+    "lng_intro_about2": "Willkommen in der 64Gram Desktop App.\nSchnell und sicher!",
+
+    "lng_settings_enhanced": "Erweiterte Einstellungen",
+    "lng_settings_network": "Netzwerk",
+    "lng_settings_net_upload_speed_boost": "Upload Geschwindigkeit",
+    "lng_settings_net_download_speed_boost": "Download Geschwindigkeit",
+    "lng_settings_show_message_id": "Nachrichten-ID anzeigen",
+    "lng_settings_button": "Taste",
+    "lng_settings_show_emoji_button_as_text": "Emoji-Taste als Text anzeigen",
+    "lng_settings_show_repeater_option": "Wiederholungsoption anzeigen",
+    "lng_settings_show_phone_number": "Telefonnummer anzeigen",
+    "lng_settings_repeater_reply_to_orig_msg": "Antwort auf die ursprüngliche Nachricht",
+    "lng_settings_disable_cloud_draft_sync": "Stoppen Sie das Synchronisieren von Entwürfen aus der Cloud",
+    "lng_settings_hide_classic_forward": "Klassisches Weiterleiten ausblenden",
+    "lng_settings_show_scheduled_button": "Zeige immer die geplante Taste",
+    "lng_settings_voice_chat": "Sprachchat",
+    "lng_settings_stereo_mode": "Stereo-Modus aktivieren",
+    "lng_settings_pin_voice_chat": "Sprachchat oben fixieren",
+    "lng_settings_unpin_voice_chat": "Loslösen",
+    "lng_settings_radio_controller": "Radio-Controller",
+    "lng_settings_auto_unmute": "Automatisch stummschalten",
+    "lng_settings_other": "Anderes",
+    "lng_settings_hide_all_chats": "Verstecke \"Alle Chats\" Ordner",
+    "lng_settings_replace_edit_button": "Ersetze \"Bearbeite\" Taste durch Gespeicherte Nachrichten",
+    "lng_settings_disable_link_warning": "Warnung beim Öffnen von Links deaktivieren",
+    "lng_settings_hide_messages": "Verstecke Nachrichten von blockierten Benutzern",
+    "lng_settings_disable_premium_animation": "Premium Animation deaktivieren",
+    "lng_settings_disable_global_search": "Globale Suche deaktivieren",
+    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
+    "lng_settings_show_seconds": "Zeit mit Sekunden",
+    "lng_settings_show_view_as_json": "Zeige ansicht als JSON",
+    "lng_settings_hide_counter": "Verstecke Online-Benutzer-Zahl",
+    "lng_settings_hide_stories": "Verstecke Stories",
+    "lng_settings_screen_shot_mode": "Screenshot Modus",
+    "lng_settings_restart_hint": "WARNUNG: Änderungen an Optionen, die rot markiert sind, treten erst nach einem Neustart der App in Kraft.",
+
+    "lng_settings_skip_message": "Zum nächsten ungelesenen Chat springen",
+    "lng_settings_skip_message_desc": "Hinweis: Erlaube ALT+↑/↓ Shortcut um zum nächsten ungelesenen Chat zu springen",
+    
+    "lng_settings_recent_display_limit": "Anzeigebegrenzung für neue Stickers",
+    "lng_settings_recent_display_limit_default": "Standard (20)",
+
+    "lng_net_speed_boost_title": "Netzwerkgeschwindigkeit",
+    "lng_net_speed_boost_desc": "Warnung: Änderung dieses Parameters auf hohe Werte auf langsamen Netzwerken kann es noch schlimmer machen. Verwendung auf eigene Gefahr.",
+    "lng_show_emoji_button_as_text_desc": "Hinweis: Wenn du keine Emoji-Taste sehen kannst, bitte aktiviere diese Option.",
+    "lng_radio_controller_desc": "Hinweis: Radio-Controller ist ein experimenteller Bot für die Steuerung deiner Musik-Streaming-Sitzung.",
+    "lng_auto_unmute_desc": "Hinweis: Automatisch stummschalten, wenn du in den Sprachchat betreten hast.",
+    "lng_settings_hide_messages_desc": "Hinweis: ES IST NICHT WIRKLICH VERSTECKT! Nachrichten sind immer noch verfügbar, aber der Text wird in Spoiler umgewandelt und Medien werden nicht automatisch heruntergeladen.",
+
+    "lng_net_speed_boost_default": "Deaktiviert",
+    "lng_net_speed_boost_slight": "Leicht",
+    "lng_net_speed_boost_medium": "Medium",
+    "lng_net_speed_boost_big": "Groß",
+
+    "lng_net_boost_restart_desc": "Du musst die App neu starten, um die Netzwerkbeschleunigung zu ändern.\n\nJetzt neu starten?",
+    "lng_show_messages_id_desc": "Warnung: Die Änderungen treten sofort mit dem Neustart in Kraft.",
+
+    "lng_chat_restriction_reason": "Begründung für Einschränkung",
+    "lng_copy_restriction_reason": "Begründung für Einschränkung kopieren",
+
+    "lng_context_copy_callback_data": "Callback-Daten kopieren",
+    "lng_context_forward_selected_no_quote": "Ausgewählte Nachricht weiterleiten (ohne Zitat)",
+    "lng_selected_forward_no_quote": "Weiterleiten (ohne Zitat)",
+    "lng_context_forward_msg_old_selected": "Ausgewählte Nachricht weiterleiten (klassisch)",
+    "lng_selected_forward_emoji_classic": "📠(Klassisch)",
+
+    "lng_message_id": "Nachrichten-ID: ",
+
+    "lng_admin_log_banned_send_stickers2": "Stickers senden",
+    "lng_admin_log_banned_send_gifs": "GIFs senden",
+    "lng_admin_log_banned_send_games": "Spiele senden",
+    "lng_admin_log_banned_use_inline": "Inline-Bots verwenden",
+    "lng_rights_chat_send_stickers2": "Stickers senden",
+    "lng_rights_chat_send_gifs": "GIFs senden",
+    "lng_rights_chat_send_games": "Spiele senden",
+    "lng_rights_chat_use_inline": "Inline-Bots verwenden",
+
+    "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#other": "{count} GIFs",
+    "lng_media_type_gifs": "GIFs",
+    "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#other": "{count} GIFs",
+    "lng_profile_gifs_header": "GIFs",
+    "lng_media_gif_empty": "Noch keine GIFs hier",
+
+    "lng_create_supergroup_title": "Neue Supergruppe",
+    "lng_action_group_migrate": "Die Gruppe wurde zu einer Supergruppe hochgestuft",
+    "lng_sure_upgrade_group": "Bist du sicher, dass du diese Gruppe zu einer Supergruppe hochstufen möchtest?",
+    "lng_chat_upgrade_warning": "Hinweis: Diese Aktion kann nicht rückgängig gemacht werden",
+
+    "lng_user_not_found": "404 Benutzer nicht gefunden.\nHinweis: Du musst diesen Benutzer \"gesehen\" haben, bevor du diesen Link öffnest.",
+
+    "lng_settings_always_delete_for": "Immer löschen für",
+    "lng_settings_delete_disabled": "Deaktiviert",
+    "lng_settings_delete_for_group": "Gruppe",
+    "lng_settings_delete_for_person": "Person",
+    "lng_settings_delete_for_both": "Warum nicht beides?",
+
+    "lng_title_forward_as_copy": "Kopieren zu...",
+    "lng_title_multiple_forward": "Weiterleiten zu...",
+
+    "lng_context_forward_msg": "Multi-Weiterleitung",
+    "lng_context_forward_msg_old": "Einfache Weiterleitung",
+    "lng_context_show_messages_from": "Nachrichten von Benutzer",
+    "lng_context_repeat_msg": "Wiederholen als Weiterleitung",
+    "lng_context_repeat_msg_no_fwd": "Wiederholen als Kopie",
+    "lng_context_forward_msg_no_quote": "Weiterleiten als Kopie",
+    "lng_forward_to_saved_message": "Weiterleiten zu gespeicherten Nachrichten",
+    "lng_context_repeater": "Wiederholer",
+    "lng_context_forward": "Weiterleiten",
+    "lng_context_view_as_json": "Als JSON anzeigen",
+
+    "lng_settings_enable_hd_video": "Höhere Video-Bitrate",
+    "lng_hd_video_hint": "Video-Bitrate wurde geändert! Einem Sprachchat erneut beitreten, falls bereits beigetreten",
+
+    "lng_bitrate_controller": "Audio-Bitrate",
+    "lng_bitrate_controller_desc": "Warnung: Änderung dieses Parameters auf hohe Werte kann sich auf Benutzer mit langsamen Netzwerk auswirken.",
+    "lng_bitrate_controller_hint": "Audio-Bitrate wurde geändert! Einem Sprachchat erneut beitreten, falls bereits beigetreten",
+
+    "lng_bitrate_controller_default": "Standard (32 Kbit/s)",
+    "lng_bitrate_controller_64k": "64 Kbit/s",
+    "lng_bitrate_controller_96k": "96 Kbit/s",
+    "lng_bitrate_controller_128k": "128 Kbit/s",
+    "lng_bitrate_controller_160k": "160 Kbit/s",
+    "lng_bitrate_controller_192k": "192 Kbit/s",
+    "lng_bitrate_controller_256k": "256 Kbit/s",
+    "lng_bitrate_controller_320k": "320 Kbit/s",
+
+    "lng_pinned_message_show": "Angepinnte Nachricht anzeigen",
+    "lng_pinned_message_hide": "Angepinnte Nachricht ausblenden",
+    "lng_pinned_message_view": "Angepinnte Nachricht anzeigen",
+    "lng_go_to_first_message": "Zur ersten Nachricht springen",
+
+    "lng_proxy_remove_all": "Alle Proxies entfernen",
+
+    "lng_copy_profile_id": "ID in Zwischenablage kopiert.",
+
+    "lng_group_requests_ban": "Ban",
+
+    "lng_blocked_user_hint": "[Blockierte Nachricht]\n"
+}

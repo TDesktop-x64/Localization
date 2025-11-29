@@ -26,18 +26,19 @@
     "lng_settings_disable_link_warning": "Wyłącz ostrzeżenie przed otwarciem linku",
     "lng_settings_hide_messages": "Ukryj wiadomości od zablokowanych osób",
     "lng_settings_disable_premium_animation": "Wyłącz animacje premium",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "Wyłącz globalne wyszukiwanie",
+    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
     "lng_settings_show_seconds": "Czas z dokładnością do sekund",
-    "lng_settings_show_view_as_json": "Show View As JSON",
+    "lng_settings_show_view_as_json": "Wyświetl jako JSON",
     "lng_settings_hide_counter": "Ukryj licznik użytkowników online",
     "lng_settings_hide_stories": "Ukryj relacje",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_screen_shot_mode": "Tryb zrzutów ekranu",
     "lng_settings_restart_hint": "UWAGA: Zmiana opcji oznaczonych kolorem czerwonym zacznie obowiązywać dopiero po ponownym uruchomieniu aplikacji.",
 
     "lng_settings_skip_message": "Przechodź do nast. nieprzeczytanego czatu",
     "lng_settings_skip_message_desc": "Uwaga: Zezwala na skrót ALT+↑/↓, w celu przejścia do następnego nieprzeczytanego czatu",
-    
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
+
+    "lng_settings_recent_display_limit": "Limit wyświetlania ostatnich naklejek",
     "lng_settings_recent_display_limit_default": "Default (20)",
 
     "lng_net_speed_boost_title": "Przyspieszenie sieci",

@@ -4,7 +4,7 @@
     "lng_settings_enhanced": "Configurações Melhoradas",
     "lng_settings_network": "Rede",
     "lng_settings_net_upload_speed_boost": "Aumentar Velocidade de Envio",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
+    "lng_settings_net_download_speed_boost": "Velocidade de Download",
     "lng_settings_show_message_id": "Mostrar ID da Mensagem",
     "lng_settings_button": "Botão",
     "lng_settings_show_emoji_button_as_text": "Mostrar Botão de Emoji como Texto",
@@ -14,7 +14,7 @@
     "lng_settings_disable_cloud_draft_sync": "Interromper Sincronia de Rascunhos em Nuvem",
     "lng_settings_hide_classic_forward": "Esconder Botão de Encaminhar Clássico",
     "lng_settings_show_scheduled_button": "Sempre Mostrar o Botão de Agenda",
-    "lng_settings_voice_chat": "Chat de Voz",
+    "lng_settings_voice_chat": "Chamada de Voz",
     "lng_settings_stereo_mode": "Habilitar Modo Estéreo",
     "lng_settings_pin_voice_chat": "Fixar no Topo",
     "lng_settings_unpin_voice_chat": "Desafixar",
@@ -25,42 +25,43 @@
     "lng_settings_replace_edit_button": "Substituir Botão \"Editar\" em Mensagens Salvas",
     "lng_settings_disable_link_warning": "Desabilitar Aviso ao Abrir Links",
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
-    "lng_settings_disable_premium_animation": "Desativar Animação Premium",
-    "lng_settings_disable_global_search": "Disable global search",
-    "lng_settings_show_seconds": "Tempo em Segundos",
-    "lng_settings_show_view_as_json": "Show View As JSON",
+    "lng_settings_disable_premium_animation": "Desativar Animações Premium",
+    "lng_settings_disable_global_search": "Desativar Pesquisa Global",
+    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
+    "lng_settings_show_seconds": "Mostrar Tempo em Segundos",
+    "lng_settings_show_view_as_json": "Mostrar Botão \"Ver como JSON\"",
     "lng_settings_hide_counter": "Ocultar Contador de Usuários Online",
-    "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
-    "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só tomarão efeito quando a aplicação for reiniciada.",
+    "lng_settings_hide_stories": "Ocultar Stories",
+    "lng_settings_screen_shot_mode": "Modo Captura de Tela",
+    "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só terão efeito quando o aplicativo for reiniciado.",
 
-    "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
+    "lng_settings_skip_message": "Pular para o próximo Chat não lido",
     "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Conversas não lidas.",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Limite de Figurinhas Recents",
+    "lng_settings_recent_display_limit_default": "Padrão (20)",
 
     "lng_net_speed_boost_title": "Aumentar Velocidade de Rede",
     "lng_net_speed_boost_desc": "CUIDADO: Trocar este parâmetro em conexões lentas pode levar a resultados ainda piores.",
-    "lng_show_emoji_button_as_text_desc": "NOTA: Se você não consegue ver um Botão de Emoji, por favor ligue está opção.",
+    "lng_show_emoji_button_as_text_desc": "NOTA: Se você não consegue ver um Botão de Emoji, por favor, ligue está opção.",
     "lng_radio_controller_desc": "NOTA: O controle de rádio é um bot experimental para controlar sua seção de streaming de música.",
-    "lng_auto_unmute_desc": "NOTA: Dessilenciar automaticamente ao entrar em um Chat de Voz.",
-    "lng_settings_hide_messages_desc": "NOTA: ISTO NÃO REALMENTE ESCONDE! Mensagens ainda estarão disponíveis, porém o texto será convertido a um Spoiler e Mídias não serão baixadas automaticamente.",
+    "lng_auto_unmute_desc": "NOTA: Des-silenciar automaticamente ao entrar em um Chat de Voz.",
+    "lng_settings_hide_messages_desc": "NOTA: ISTO NÃO REALMENTE ESCONDE! Mensagens ainda estarão disponíveis, porém o texto será tranformado em um Spoiler, e Arquivos de Mídia não serão baixadas automaticamente.",
 
     "lng_net_speed_boost_default": "Desativado",
     "lng_net_speed_boost_slight": "Baixo",
     "lng_net_speed_boost_medium": "Médio",
     "lng_net_speed_boost_big": "Alto",
 
-    "lng_net_boost_restart_desc": "Você precisa reiniciar a aplicação para mudar a Velocidade de Rede.\n\nReiniciar agora?",
-    "lng_show_messages_id_desc": "AVISO: as alterações terão efeito imediatamente após reiniciar.",
+    "lng_net_boost_restart_desc": "Você precisa reiniciar o aplicativo para mudar a Velocidade de Rede.\n\nReiniciar agora?",
+    "lng_show_messages_id_desc": "AVISO: Às alterações terão efeito imediatamente após reiniciar.",
 
     "lng_chat_restriction_reason": "Motivo da Restrição",
     "lng_copy_restriction_reason": "Copiar Motivo da Restrição",
 
     "lng_context_copy_callback_data": "Copiar Dados de Callback",
-    "lng_context_forward_selected_no_quote": "Encaminhar Selecionados (Sem Autor)",
-    "lng_selected_forward_no_quote": "Encaminhar (Sem Autor)",
+    "lng_context_forward_selected_no_quote": "Encaminhar Selecionados (Omitir Autor)",
+    "lng_selected_forward_no_quote": "Encaminhar (Omitir Autor)",
     "lng_context_forward_msg_old_selected": "Encaminhar Selecionados (Clássico)",
     "lng_selected_forward_emoji_classic": "📠(Clássico)",
 
@@ -90,7 +91,7 @@
 
     "lng_user_not_found": "404 Usuário não Encontrado.\nNota: Você precisa ter \"visto\" este usuário antes de abrir usando o link.",
 
-    "lng_settings_always_delete_for": "Sempre selecionar \"Apagar Para Todos\" em",
+    "lng_settings_always_delete_for": "Sempre selecionar \"Apagar Para Todos\"",
     "lng_settings_delete_disabled": "Nunca",
     "lng_settings_delete_for_group": "Em Grupos",
     "lng_settings_delete_for_person": "Em Conversas Privadas",
@@ -99,7 +100,7 @@
     "lng_title_forward_as_copy": "Copiar para...",
     "lng_title_multiple_forward": "Encaminhar para...",
 
-    "lng_context_forward_msg": "Encaminhar para Várias Conversas",
+    "lng_context_forward_msg": "Encaminhar para várias Conversas",
     "lng_context_forward_msg_old": "Encaminhar apenas para uma Conversa",
     "lng_context_show_messages_from": "Mensagens do Usuário",
     "lng_context_repeat_msg": "Repetir como Encaminhamento",
@@ -110,11 +111,11 @@
     "lng_context_forward": "Encaminhar",
     "lng_context_view_as_json": "View As JSON",
 
-    "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
+    "lng_settings_enable_hd_video": "Aumentar Bitrate de Vídeo",
     "lng_hd_video_hint": "O Bitrate de Vídeo mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",
 
     "lng_bitrate_controller": "Bitrate de Áudio",
-    "lng_bitrate_controller_desc": "AVISO: mudar este parâmetro para valores mais altos pode afetar usuários com conexões lentas.",
+    "lng_bitrate_controller_desc": "AVISO: mudar este parâmetro para valores mais altos, pode afetar usuários com conexões lentas.",
     "lng_bitrate_controller_hint": "O Bitrate de Áudio mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",
 
     "lng_bitrate_controller_default": "Padrão (32 Kbps)",
@@ -135,7 +136,7 @@
 
     "lng_copy_profile_id": "ID copiado para a Área de Transferência.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Banir",
 
     "lng_blocked_user_hint": "[Mensagem Bloqueada]\n"
 }

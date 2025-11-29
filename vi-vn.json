@@ -27,6 +27,7 @@
     "lng_settings_hide_messages": "Ẩn tin nhắn từ người dùng bị chặn",
     "lng_settings_disable_premium_animation": "Tắt hoạt ảnh cao cấp",
     "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
     "lng_settings_show_seconds": "Thời gian tính bằng giây",
     "lng_settings_show_view_as_json": "Show View As JSON",
     "lng_settings_hide_counter": "Hide online users counter",
