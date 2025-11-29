@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Bienvenido a la aplicación 64Gram Desktop.\nEs rápido y seguro.",
-
     "lng_settings_enhanced": "Ajustes mejorados",
     "lng_settings_network": "Red",
     "lng_settings_net_upload_speed_boost": "Aumentar velocidad de subida",
@@ -27,46 +26,37 @@
     "lng_settings_hide_messages": "Ocultar mensajes de usuarios bloqueados",
     "lng_settings_disable_premium_animation": "Desactivar animación premium",
     "lng_settings_disable_global_search": "Desactivar búsqueda global",
-    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
+    "lng_settings_show_group_sender_avatar": "Mostrar el avatar del remitente en grupos",
     "lng_settings_show_seconds": "Tiempo con segundos",
     "lng_settings_show_view_as_json": "Mostrar vista como JSON",
     "lng_settings_hide_counter": "Ocultar contador de usuarios en línea",
     "lng_settings_hide_stories": "Ocultar historias",
     "lng_settings_screen_shot_mode": "Modo de captura de pantalla",
     "lng_settings_restart_hint": "ADVERTENCIA: Cambiar las opciones que están coloreadas en rojo tendrán efecto solo después de que se reinicie la aplicación.",
-
     "lng_settings_skip_message": "Pasar al siguiente chat sin leer",
     "lng_settings_skip_message_desc": "Nota: Permite usar el atajo ALT+↑/↓ para pasar al siguiente chat sin leer",
-    
     "lng_settings_recent_display_limit": "Límite de stickers recientes visibles",
     "lng_settings_recent_display_limit_default": "Por defecto (20)",
-
     "lng_net_speed_boost_title": "Aumentar velocidad de la red",
     "lng_net_speed_boost_desc": "Advertencia: cambiar este parámetro a valores altos en redes lentas puede empeorarlo aún más. Úselo bajo su propio riesgo.",
     "lng_show_emoji_button_as_text_desc": "Nota: Si no puede ver algún botón emoji, active esta opción.",
     "lng_radio_controller_desc": "Nota: El Controlador de Radio es un bot experimental para controlar su sesión de transmisión de música.",
     "lng_auto_unmute_desc": "Nota: Activa el sonido automáticamente cuando se haya unido al chat de voz.",
     "lng_settings_hide_messages_desc": "Nota: ¡NO ESTÁ REALMENTE OCULTO! Los mensajes todavía están disponibles para ver, pero el texto será convertido en Spoiler y la multimedia no se descargará automáticamente.",
-
     "lng_net_speed_boost_default": "Desactivado",
     "lng_net_speed_boost_slight": "Ligero",
     "lng_net_speed_boost_medium": "Mediano",
     "lng_net_speed_boost_big": "Grande",
-
     "lng_net_boost_restart_desc": "Deberá reiniciar la aplicación para cambiar el aumento de la red.\n\n¿Reiniciar ahora?",
     "lng_show_messages_id_desc": "Advertencia: los cambios tendrán efecto inmediatamente con el reinicio.",
-
     "lng_chat_restriction_reason": "Razón de la restricción",
     "lng_copy_restriction_reason": "Copiar la razón de la restricción",
-
     "lng_context_copy_callback_data": "Copiar datos de la retrollamada",
     "lng_context_forward_selected_no_quote": "Reenviar seleccionado (Con/Sin citar)",
     "lng_selected_forward_no_quote": "Reenviar (con/sin citar)",
     "lng_context_forward_msg_old_selected": "Reenviar seleccionado (Clásico)",
     "lng_selected_forward_emoji_classic": "📠(Clásico)",
-
     "lng_message_id": "ID del Mensaje: ",
-
     "lng_admin_log_banned_send_stickers2": "Enviar stickers",
     "lng_admin_log_banned_send_gifs": "Enviar GIFs",
     "lng_admin_log_banned_send_games": "Enviar juegos",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "Enviar GIFs",
     "lng_rights_chat_send_games": "Enviar juegos",
     "lng_rights_chat_use_inline": "Usar bots inline",
-
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIFs",
     "lng_media_type_gifs": "GIFs",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} GIFs",
     "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "No hay GIFs aquí todavía",
-
     "lng_create_supergroup_title": "Nuevo supergrupo",
     "lng_action_group_migrate": "El grupo se actualizó a supergrupo",
     "lng_sure_upgrade_group": "¿Está seguro de que desea actualizar este grupo a supergrupo?",
     "lng_chat_upgrade_warning": "Nota: esta acción no se puede deshacer",
-
     "lng_user_not_found": "404 Usuario no encontrado.\nNota: Debe haber \"visto\" a ese usuario antes de abrir este enlace.",
-
     "lng_settings_always_delete_for": "Siempre seleccionar Eliminar para",
     "lng_settings_delete_disabled": "Desactivado",
     "lng_settings_delete_for_group": "Grupo",
     "lng_settings_delete_for_person": "Persona",
     "lng_settings_delete_for_both": "¿Por qué no ambos?",
-
     "lng_title_forward_as_copy": "Copiar a...",
     "lng_title_multiple_forward": "Reenviar a...",
-
     "lng_context_forward_msg": "Reenvío múltiple",
     "lng_context_forward_msg_old": "Reenvío individual",
     "lng_context_show_messages_from": "Mensajes del usuario",
@@ -110,14 +94,11 @@
     "lng_context_repeater": "Repetir",
     "lng_context_forward": "Reenviar",
     "lng_context_view_as_json": "Ver como JSON",
-
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",
     "lng_hd_video_hint": "¡La tasa de bits de video ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
-
     "lng_bitrate_controller": "Tasa de bits de audio",
     "lng_bitrate_controller_desc": "Advertencia: cambiar este parámetro a valores altos puede afectar al usuario en redes lentas.",
     "lng_bitrate_controller_hint": "¡La tasa de bits de audio ha cambiado! Vuelva a unirse al chat de voz si ya se ha unido.",
-
     "lng_bitrate_controller_default": "Por defecto (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -126,17 +107,12 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "Mostrar mensaje fijado",
     "lng_pinned_message_hide": "Ocultar mensaje fijado",
     "lng_pinned_message_view": "Ver mensaje fijado",
     "lng_go_to_first_message": "Ir al primer mensaje",
-
     "lng_proxy_remove_all": "Eliminar todos los proxies",
-
     "lng_copy_profile_id": "ID copiado al portapapeles.",
-
     "lng_group_requests_ban": "Expulsar",
-
     "lng_blocked_user_hint": "[Mensaje de usuario bloqueado]\n"
 }
