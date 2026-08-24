@@ -1,0 +1,135 @@
+{
+    "lng_intro_about2": "欢迎使用 64Gram Desktop 应用。\n它既快又安全。",
+
+    "lng_settings_enhanced": "增强设置",
+    "lng_settings_network": "网络",
+    "lng_settings_net_upload_speed_boost": "上传加速",
+    "lng_settings_net_download_speed_boost": "下载加速",
+    "lng_settings_show_message_id": "显示消息 ID",
+    "lng_settings_button": "按钮",
+    "lng_settings_show_emoji_button_as_text": " 表情 按钮显示为文本",
+    "lng_settings_show_repeater_option": "显示 复读 选项",
+    "lng_settings_show_phone_number": "显示手机号码",
+    "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
+    "lng_settings_disable_cloud_draft_sync": "禁用草稿云同步",
+    "lng_settings_hide_classic_forward": "隐藏经典转发",
+    "lng_settings_show_scheduled_button": "始终显示 定时消息 按钮",
+    "lng_settings_voice_chat": "语音聊天",
+    "lng_settings_stereo_mode": "启用立体声模式",
+    "lng_settings_pin_voice_chat": "置顶",
+    "lng_settings_unpin_voice_chat": "取消置顶",
+    "lng_settings_radio_controller": "电台控制器",
+    "lng_settings_auto_unmute": "自动取消静音",
+    "lng_settings_other": "其他",
+    "lng_settings_hide_all_chats": "隐藏 所有聊天 文件夹分组",
+    "lng_settings_replace_edit_button": "将左侧列表的 编辑 按钮改为 收藏夹 ",
+    "lng_settings_disable_link_warning": "禁用打开链接警告",
+    "lng_settings_hide_messages": "隐藏已封禁用户消息",
+    "lng_settings_disable_premium_animation": "禁用高级版专属贴纸动画",
+    "lng_settings_disable_global_search": "禁用全局搜索",
+    "lng_settings_show_seconds": "消息时间显示到秒",
+    "lng_settings_hide_counter": "隐藏在线用户数",
+    "lng_settings_hide_stories": "隐藏动态",
+    "lng_settings_restart_hint": "警告：变更红色标识的选项将使应用立即重启以生效。",
+
+    "lng_settings_skip_message": "跳到下一个未读对话",
+    "lng_settings_skip_message_desc": "注意：允许使用快捷键 ALT+↑/↓ 跳到下一个未读对话",
+
+    "lng_net_speed_boost_title": "网络加速",
+    "lng_net_speed_boost_desc": "警告：在较差的网络条件下将此参数更改为更高值可能会恶化网络情况，使用自担风险。",
+    "lng_show_emoji_button_as_text_desc": "注意：如果您看不到 表情 按钮，请打开此选项。",
+    "lng_radio_controller_desc": "注意：电台控制器是一个用于控制您音乐播放会话的实验性机器人。",
+    "lng_auto_unmute_desc": "注意：当您加入语音聊天后会自动取消静音。",
+    "lng_settings_hide_messages_desc": "注意：这并没有真的隐藏了消息！ 消息仍然可以被查看，但文本将被添加防剧透遮罩并且媒体也不会自动下载。",
+
+    "lng_net_speed_boost_default": "禁用",
+    "lng_net_speed_boost_slight": "轻微",
+    "lng_net_speed_boost_medium": "中等",
+    "lng_net_speed_boost_big": "大幅",
+
+    "lng_net_boost_restart_desc": "您需要重启应用以使更改生效。\n\n现在重启吗？",
+    "lng_show_messages_id_desc": "警告：变更此选项将使应用立即重启以生效。",
+
+    "lng_chat_restriction_reason": "限制原因",
+    "lng_copy_restriction_reason": "复制限制原因",
+
+    "lng_context_copy_callback_data": "复制回调数据",
+    "lng_context_forward_selected_no_quote": "转发所选内容(无引用)",
+    "lng_selected_forward_no_quote": "转发(无引用)",
+    "lng_context_forward_msg_old_selected": "转发所选内容(经典)",
+    "lng_selected_forward_emoji_classic": "📠(经典)",
+
+    "lng_message_id": "消息 ID: ",
+
+    "lng_admin_log_banned_send_stickers2": "发送贴纸",
+    "lng_admin_log_banned_send_gifs": "发送 GIF 动态图",
+    "lng_admin_log_banned_send_games": "发送游戏",
+    "lng_admin_log_banned_use_inline": "使用内嵌机器人",
+    "lng_rights_chat_send_stickers2": "发送贴纸",
+    "lng_rights_chat_send_gifs": "发送 GIF 动态图",
+    "lng_rights_chat_send_games": "发送游戏",
+    "lng_rights_chat_use_inline": "使用内嵌机器人",
+
+    "lng_media_selected_gif#one": "{count} GIF 动态图",
+    "lng_media_selected_gif#other": "{count} GIF 动态图",
+    "lng_media_type_gifs": "GIF 动态图",
+    "lng_profile_gifs#one": "{count} GIF 动态图",
+    "lng_profile_gifs#other": "{count} GIF 动态图",
+    "lng_profile_gifs_header": "GIF 动态图",
+    "lng_media_gif_empty": "暂无 GIF 动态图",
+
+    "lng_create_supergroup_title": "新建超级群组",
+    "lng_action_group_migrate": "此群组已升级为超级群组",
+    "lng_sure_upgrade_group": "您确定要将此群组升级为超级群组吗？",
+    "lng_chat_upgrade_warning": "注意：此操作无法撤消",
+
+    "lng_user_not_found": "404 未找到成员.\n注意: 您在打开此链接之前必须“见过”该成员。",
+
+    "lng_settings_always_delete_for": "自动勾选删除全部消息",
+    "lng_settings_delete_disabled": "禁用",
+    "lng_settings_delete_for_group": "群组",
+    "lng_settings_delete_for_person": "用户",
+    "lng_settings_delete_for_both": "全部",
+
+    "lng_title_forward_as_copy": "复制到...",
+    "lng_title_multiple_forward": "转发到...",
+
+    "lng_context_forward_msg": "转发(多选)",
+    "lng_context_forward_msg_old": "转发(单选)",
+    "lng_context_show_messages_from": "用户消息",
+    "lng_context_repeat_msg": "复读",
+    "lng_context_repeat_msg_no_fwd": "复读(无引用)",
+    "lng_context_forward_msg_no_quote": "转发(无引用)",
+    "lng_forward_to_saved_message": "转发到收藏夹",
+    "lng_context_repeater": "复读",
+    "lng_context_forward": "转发",
+
+    "lng_settings_enable_hd_video": "更高视频码率",
+    "lng_hd_video_hint": "视频码率已更改！如果您已加入语音聊天，请重新加入。",
+
+    "lng_bitrate_controller": "音频码率",
+    "lng_bitrate_controller_desc": "警告：将此参数更改为更高值可能会影响网络环境较差的用户。",
+    "lng_bitrate_controller_hint": "音频码率已更改！如果您已加入语音聊天，请重新加入。",
+
+    "lng_bitrate_controller_default": "默认(32 Kbps)",
+    "lng_bitrate_controller_64k": "64 Kbps",
+    "lng_bitrate_controller_96k": "96 Kbps",
+    "lng_bitrate_controller_128k": "128 Kbps",
+    "lng_bitrate_controller_160k": "160 Kbps",
+    "lng_bitrate_controller_192k": "192 Kbps",
+    "lng_bitrate_controller_256k": "256 Kbps",
+    "lng_bitrate_controller_320k": "320 Kbps",
+
+    "lng_pinned_message_show": "显示置顶消息",
+    "lng_pinned_message_hide": "隐藏置顶消息",
+    "lng_pinned_message_view": "查看置顶消息",
+    "lng_go_to_first_message": "跳到首条消息",
+
+    "lng_proxy_remove_all": "移除全部代理",
+
+    "lng_copy_profile_id": "ID 已复制到剪贴板",
+
+    "lng_group_requests_ban": "封禁",
+
+    "lng_blocked_user_hint": "[已封禁用户消息]\n"
+}
