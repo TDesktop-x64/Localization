@@ -27,9 +27,9 @@
     "lng_settings_hide_messages": "隐藏来自坏东西的消息",
     "lng_settings_disable_premium_animation": "去掉大会员贴纸特技",
     "lng_settings_disable_global_search": "禁用全局搜索",
-    "lng_settings_show_group_sender_avatar": "Show sender's avatar in groups",
+    "lng_settings_show_group_sender_avatar": "显示群组最近发言者的头像",
     "lng_settings_show_seconds": "消息时间显秒",
-    "lng_settings_show_view_as_json": "Show View As JSON",
+    "lng_settings_show_view_as_json": "显示「以 JSON 格式查看」",
     "lng_settings_hide_counter": "隐藏喘气用户数",
     "lng_settings_hide_stories": "不想看动态",
     "lng_settings_screen_shot_mode": "我是谁",
@@ -62,8 +62,8 @@
     "lng_context_copy_callback_data": "复制回调数据",
     "lng_context_forward_selected_no_quote": "转发所选内容（无引用）",
     "lng_selected_forward_no_quote": "转发（无引用）",
-    "lng_context_forward_msg_old_selected": "转发所选内容（旧式）",
-    "lng_selected_forward_emoji_classic": "📠 旧式",
+    "lng_context_forward_msg_old_selected": "转发所选内容（经典）",
+    "lng_selected_forward_emoji_classic": "📠 经典",
 
     "lng_message_id": "消息ID: ",
 
