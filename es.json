@@ -132,8 +132,8 @@
     "lng_pinned_message_view": "Ver mensaje fijado",
     "lng_go_to_first_message": "Ir al primer mensaje",
 
-    "lng_send_unformatted": "Send unformatted",
-    "lng_settings_send_unformatted": "Show Send unformatted option",
+    "lng_send_unformatted": "Enviar sin formato",
+    "lng_settings_send_unformatted": "Mostrar la opción de envío sin formato",
 
     "lng_proxy_remove_all": "Eliminar todos los proxies",
 
