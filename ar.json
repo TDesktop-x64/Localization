@@ -132,6 +132,9 @@
     "lng_pinned_message_view": "عرض الرسالة المثبتة",
     "lng_go_to_first_message": "الانتقال إلى الرسالة الأولى",
 
+    "lng_send_unformatted": "Send unformatted",
+    "lng_settings_send_unformatted": "Show Send unformatted option",
+
     "lng_proxy_remove_all": "إزالة جميع الوكلاء",
 
     "lng_copy_profile_id": "تم نسخ المعرّف إلى الحافظة.",

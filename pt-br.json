@@ -132,6 +132,9 @@
     "lng_pinned_message_view": "Ver Mensagem Fixada",
     "lng_go_to_first_message": "Ir para a Primeira Mensagem",
 
+    "lng_send_unformatted": "Send unformatted",
+    "lng_settings_send_unformatted": "Show Send unformatted option",
+
     "lng_proxy_remove_all": "Remover todos os Proxies",
 
     "lng_copy_profile_id": "ID copiado para a Área de Transferência.",

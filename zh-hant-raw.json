@@ -132,6 +132,9 @@
     "lng_pinned_message_view": "查看置頂訊息",
     "lng_go_to_first_message": "前往第一則訊息",
 
+    "lng_send_unformatted": "Send unformatted",
+    "lng_settings_send_unformatted": "Show Send unformatted option",
+
     "lng_proxy_remove_all": "移除所有代理伺服器",
 
     "lng_copy_profile_id": "已將 ID 複製到剪貼簿。",

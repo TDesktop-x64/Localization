@@ -132,6 +132,9 @@
     "lng_pinned_message_view": "고정된 메시지 보기",
     "lng_go_to_first_message": "첫번째 메시지로 이동",
 
+    "lng_send_unformatted": "Send unformatted",
+    "lng_settings_send_unformatted": "Show Send unformatted option",
+
     "lng_proxy_remove_all": "모든 프록시 지우기",
 
     "lng_copy_profile_id": "ID가 클립보드에 복사되었습니다.",

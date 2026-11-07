@@ -132,6 +132,9 @@
     "lng_pinned_message_view": "Tampilkan pesan yang disematkan",
     "lng_go_to_first_message": "Pergi ke pesan pertama",
 
+    "lng_send_unformatted": "Send unformatted",
+    "lng_settings_send_unformatted": "Show Send unformatted option",
+
     "lng_proxy_remove_all": "Hapus semua proxy",
 
     "lng_copy_profile_id": "ID disalin ke clipboard.",

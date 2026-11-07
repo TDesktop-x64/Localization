@@ -132,6 +132,9 @@
     "lng_pinned_message_view": "دیدن پیام پین شده",
     "lng_go_to_first_message": "رفتن به پیام اول",
 
+    "lng_send_unformatted": "Send unformatted",
+    "lng_settings_send_unformatted": "Show Send unformatted option",
+
     "lng_proxy_remove_all": "حذف همه پروکسی ها",
 
     "lng_copy_profile_id": "ای‌دی در کلیپ بورد کپی شد.",
