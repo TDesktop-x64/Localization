@@ -1,0 +1,142 @@
+{
+    "lng_intro_about2": "مرحبًا بك في تطبيق 64Gram Desktop.\nإنه سريع وآمن.",
+
+    "lng_settings_enhanced": "إعدادات متقدمة",
+    "lng_settings_network": "الشبكة",
+    "lng_settings_net_upload_speed_boost": "تعزيز سرعة الرفع",
+    "lng_settings_net_download_speed_boost": "تعزيز سرعة التنزيل",
+    "lng_settings_show_message_id": "إظهار معرّف الرسالة",
+    "lng_settings_button": "زر",
+    "lng_settings_show_emoji_button_as_text": "إظهار زر الرموز التعبيرية كنص",
+    "lng_settings_show_repeater_option": "إظهار خيار التكرار",
+    "lng_settings_show_phone_number": "إظهار رقم الهاتف",
+    "lng_settings_repeater_reply_to_orig_msg": "الرد على الرسالة الأصلية",
+    "lng_settings_disable_cloud_draft_sync": "إيقاف مزامنة المسودات من السحابة",
+    "lng_settings_hide_classic_forward": "إخفاء التحويل الكلاسيكي",
+    "lng_settings_show_scheduled_button": "إظهار زر الجدولة دائمًا",
+    "lng_settings_voice_chat": "الدردشة الصوتية",
+    "lng_settings_stereo_mode": "تفعيل الوضع المجسم",
+    "lng_settings_pin_voice_chat": "تثبيت في الأعلى",
+    "lng_settings_unpin_voice_chat": "إلغاء التثبيت",
+    "lng_settings_radio_controller": "متحكم الراديو",
+    "lng_settings_auto_unmute": "إلغاء الكتم تلقائيًا",
+    "lng_settings_other": "أخرى",
+    "lng_settings_hide_all_chats": "إخفاء مجلد \"كل الدردشات\"",
+    "lng_settings_replace_edit_button": "استبدال زر \"تعديل\" بالرسائل المحفوظة",
+    "lng_settings_disable_link_warning": "تعطيل تحذير فتح الروابط",
+    "lng_settings_hide_messages": "إخفاء رسائل المستخدم المحظور",
+    "lng_settings_disable_premium_animation": "تعطيل رسوم متحركة بريميوم",
+    "lng_settings_disable_global_search": "تعطيل البحث الشامل",
+    "lng_settings_show_group_sender_avatar": "إظهار صورة المرسل في المجموعات",
+    "lng_settings_show_seconds": "الوقت مع الثواني",
+    "lng_settings_show_view_as_json": "إظهار عرض كـ JSON",
+    "lng_settings_hide_counter": "إخفاء عداد المستخدمين المتصلين",
+    "lng_settings_hide_stories": "إخفاء القصص",
+    "lng_settings_screen_shot_mode": "وضع لقطة الشاشة",
+    "lng_settings_restart_hint": "تحذير: الخيارات الملوّنة بالأحمر لن تصبح فعّالة إلا بعد إعادة تشغيل التطبيق.",
+
+    "lng_settings_skip_message": "الانتقال إلى الدردشة التالية غير المقروءة",
+    "lng_settings_skip_message_desc": "ملاحظة: فعّل اختصار ALT+↑/↓ للانتقال إلى الدردشة التالية غير المقروءة",
+    
+    "lng_settings_recent_display_limit": "حد عرض الملصقات الأخيرة",
+    "lng_settings_recent_display_limit_default": "افتراضي (20)",
+
+    "lng_net_speed_boost_title": "تعزيز سرعة الشبكة",
+    "lng_net_speed_boost_desc": "تحذير: تغيير هذا المعامل إلى قيم عالية على الشبكات البطيئة قد يزيد الأمر سوءًا. استخدمه على مسؤوليتك الخاصة.",
+    "lng_show_emoji_button_as_text_desc": "ملاحظة: إذا لم تتمكن من رؤية زر الرموز التعبيرية، فيرجى تفعيل هذا الخيار.",
+    "lng_radio_controller_desc": "ملاحظة: متحكم الراديو هو بوت تجريبي للتحكم في جلسة بث الموسيقى الخاصة بك.",
+    "lng_auto_unmute_desc": "ملاحظة: إلغاء الكتم تلقائيًا عند الانضمام إلى الدردشة الصوتية.",
+    "lng_settings_hide_messages_desc": "ملاحظة: هذا ليس إخفاءً حقيقيًا! الرسائل لا تزال متاحة للعرض، لكن سيتم تحويل النص إلى محتوى مخفي ولن يتم تنزيل الوسائط تلقائيًا.",
+
+    "lng_net_speed_boost_default": "معطّل",
+    "lng_net_speed_boost_slight": "طفيف",
+    "lng_net_speed_boost_medium": "متوسط",
+    "lng_net_speed_boost_big": "كبير",
+
+    "lng_net_boost_restart_desc": "ستحتاج إلى إعادة تشغيل التطبيق لتغيير تعزيز الشبكة.\n\nإعادة التشغيل الآن؟",
+    "lng_show_messages_id_desc": "تحذير: ستُطبَّق التغييرات فورًا مع إعادة التشغيل.",
+
+    "lng_chat_restriction_reason": "سبب التقييد",
+    "lng_copy_restriction_reason": "نسخ سبب التقييد",
+
+    "lng_context_copy_callback_data": "نسخ بيانات الرد",
+    "lng_context_forward_selected_no_quote": "تحويل المحدد (بدون اقتباس)",
+    "lng_selected_forward_no_quote": "تحويل (بدون اقتباس)",
+    "lng_context_forward_msg_old_selected": "تحويل المحدد (كلاسيكي)",
+    "lng_selected_forward_emoji_classic": "📠(كلاسيكي)",
+
+    "lng_message_id": "معرّف الرسالة: ",
+
+    "lng_admin_log_banned_send_stickers2": "إرسال الملصقات",
+    "lng_admin_log_banned_send_gifs": "إرسال صور GIF",
+    "lng_admin_log_banned_send_games": "إرسال الألعاب",
+    "lng_admin_log_banned_use_inline": "استخدام البوتات المضمّنة",
+    "lng_rights_chat_send_stickers2": "إرسال الملصقات",
+    "lng_rights_chat_send_gifs": "إرسال صور GIF",
+    "lng_rights_chat_send_games": "إرسال الألعاب",
+    "lng_rights_chat_use_inline": "استخدام البوتات المضمّنة",
+
+    "lng_media_selected_gif#one": "{count} صورة GIF",
+    "lng_media_selected_gif#other": "{count} صور GIF",
+    "lng_media_type_gifs": "صور GIF",
+    "lng_profile_gifs#one": "{count} صورة GIF",
+    "lng_profile_gifs#other": "{count} صور GIF",
+    "lng_profile_gifs_header": "صور GIF",
+    "lng_media_gif_empty": "لا توجد صور GIF هنا بعد",
+
+    "lng_create_supergroup_title": "مجموعة فائقة جديدة",
+    "lng_action_group_migrate": "تمت ترقية المجموعة إلى مجموعة فائقة",
+    "lng_sure_upgrade_group": "هل أنت متأكد أنك تريد ترقية هذه المجموعة إلى مجموعة فائقة؟",
+    "lng_chat_upgrade_warning": "ملاحظة: لا يمكن التراجع عن هذا الإجراء",
+
+    "lng_user_not_found": "404 المستخدم غير موجود.\nملاحظة: يجب أن تكون قد \"رأيت\" هذا المستخدم من قبل لفتح هذا الرابط.",
+
+    "lng_settings_always_delete_for": "اختيار الحذف دائمًا لـ",
+    "lng_settings_delete_disabled": "معطّل",
+    "lng_settings_delete_for_group": "المجموعة",
+    "lng_settings_delete_for_person": "الشخص",
+    "lng_settings_delete_for_both": "لمَ لا كلاهما؟",
+
+    "lng_title_forward_as_copy": "نسخ إلى...",
+    "lng_title_multiple_forward": "تحويل إلى...",
+
+    "lng_context_forward_msg": "تحويل متعدد",
+    "lng_context_forward_msg_old": "تحويل فردي",
+    "lng_context_show_messages_from": "رسائل من المستخدم",
+    "lng_context_repeat_msg": "تكرار كتحويل",
+    "lng_context_repeat_msg_no_fwd": "تكرار كنسخ",
+    "lng_context_forward_msg_no_quote": "تحويل كنسخ",
+    "lng_forward_to_saved_message": "تحويل إلى المحفوظة",
+    "lng_context_repeater": "المكرر",
+    "lng_context_forward": "تحويل",
+    "lng_context_view_as_json": "عرض كـ JSON",
+
+    "lng_settings_enable_hd_video": "معدل بتات فيديو أعلى",
+    "lng_hd_video_hint": "تم تغيير معدل بتات الفيديو! أعد الانضمام إلى الدردشة الصوتية إذا كنت قد انضممت بالفعل.",
+
+    "lng_bitrate_controller": "معدل بتات الصوت",
+    "lng_bitrate_controller_desc": "تحذير: تغيير هذا المعامل إلى قيم عالية قد يؤثر على المستخدمين على الشبكات البطيئة.",
+    "lng_bitrate_controller_hint": "تم تغيير معدل بتات الصوت! أعد الانضمام إلى الدردشة الصوتية إذا كنت قد انضممت بالفعل.",
+
+    "lng_bitrate_controller_default": "افتراضي (32 كيلوبت/ث)",
+    "lng_bitrate_controller_64k": "64 كيلوبت/ث",
+    "lng_bitrate_controller_96k": "96 كيلوبت/ث",
+    "lng_bitrate_controller_128k": "128 كيلوبت/ث",
+    "lng_bitrate_controller_160k": "160 كيلوبت/ث",
+    "lng_bitrate_controller_192k": "192 كيلوبت/ث",
+    "lng_bitrate_controller_256k": "256 كيلوبت/ث",
+    "lng_bitrate_controller_320k": "320 كيلوبت/ث",
+
+    "lng_pinned_message_show": "إظهار الرسالة المثبتة",
+    "lng_pinned_message_hide": "إخفاء الرسالة المثبتة",
+    "lng_pinned_message_view": "عرض الرسالة المثبتة",
+    "lng_go_to_first_message": "الانتقال إلى الرسالة الأولى",
+
+    "lng_proxy_remove_all": "إزالة جميع الوكلاء",
+
+    "lng_copy_profile_id": "تم نسخ المعرّف إلى الحافظة.",
+
+    "lng_group_requests_ban": "حظر",
+
+    "lng_blocked_user_hint": "[رسالة مستخدم محظور]\n"
+}
